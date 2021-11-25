@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>51-103</num>
-  <text>
-      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in December, 2021.*
-      </text>
   <heading>Employer contributions.</heading>
   <para>
     <num>(a)</num>
@@ -68,15 +65,15 @@
           <text>The following benefits paid to an individual who became unemployed or partially unemployed as a result of the circumstances giving rise to the public health emergency shall not be charged to an employer's experience rating:</text>
           <para>
             <num>(I)</num>
-            <text>Benefits paid to an affected employee pursuant to <cite path="§51-181">§ 51-181</cite>(a), (b), (d), (e), and (g) ("§ 51-181"), or any preceding act of the Council of the District of Columbia authorizing payment of benefits on substantially similar terms as those described in <cite path="§51-181">§ 51-181</cite>;</text>
+            <text>Benefits paid to an affected employee pursuant to section 101(a), (b), (d), (e), and (g) of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (<cite doc="D.C. Law 24-9" path="§101">D.C. Law 24-9</cite>; 68 DCR 4824) ("section 101"), or any preceding act of the Council of the District of Columbia authorizing payment of benefits on substantially similar terms as those described in section 101;</text>
           </para>
           <para>
             <num>(II)</num>
-            <text>Benefits paid to an affected employee after the expiration of <cite path="§51-181">§ 51-181</cite>, because the employee continues to otherwise qualify for benefits; and</text>
+            <text>Benefits paid to an affected employee after the expiration of section 101, because the employee continues to otherwise qualify for benefits; and</text>
           </para>
           <para>
             <num>(III)</num>
-            <text>Benefits paid under other local or federal law, including the federal Pandemic Emergency Unemployment Compensation program and extended benefits authorized under <cite path="§51-107|(g)">§ 51-107(g)</cite>.</text>
+            <text>Benefits paid under other local or federal law, including the federal Pandemic Emergency Unemployment Compensation program and extended benefits authorized under section 7(g).</text>
           </para>
         </para>
         <para>
@@ -84,7 +81,7 @@
           <text>For the purposes of this subparagraph, the term:</text>
           <para>
             <num>(I)</num>
-            <text>"Affected employee" shall have the same meaning as provided in <cite path="§51-181|(d)">§ 51-181(d)</cite>.</text>
+            <text>"Affected employee" shall have the same meaning as provided in section 101(d) of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (D.C. Law 24-9; 68 DCR 4824).</text>
           </para>
           <para>
             <num>(II)</num>
@@ -991,8 +988,6 @@
     <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§102|(b)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§102|(b)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§102|(b)">§ 102(b) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§102|(b)" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4162|(a)" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4162|(a)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4162|(a)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§4162|(a)">§ 4162(a) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4162|(a)" type="History"/>
   </annotations>
 </section>

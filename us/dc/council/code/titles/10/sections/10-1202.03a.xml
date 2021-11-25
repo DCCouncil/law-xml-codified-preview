@@ -1,48 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1202.03a</num>
-  <text>
-      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in December, 2021.*
-      </text>
   <heading>Assistance for excluded workers.</heading>
   <para>
     <num>(a)</num>
     <text>The Washington Convention and Sports Authority shall issue, subject to the availability of funds, grants or contracts to nonprofit entities to use to provide cash assistance to District residents who are otherwise excluded from District and federal aid related to COVID-19. To qualify for cash assistance from grants or contracts awarded pursuant to this section, a District resident shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Demonstrate loss of income due to the public health emergency;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <para>
-        <num>(A)</num>
-        <text>Be ineligible for:</text>
-        <para>
-          <num>(i)</num>
-          <text>Unemployment insurance; or</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>COVID-19 relief; or</text>
-        </para>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Be a returning citizen, as defined by <cite path="§24-1301|(5)">§ 24-1301(5)</cite>, whose incarceration ended on March 11, 2020 or later; and</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Provide a:</text>
-      <para>
-        <num>(A)</num>
-        <text>Signed certification that the resident's loss of income stems from the public health emergency; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Proof of residency and eligibility for relief, as determined by Events DC and consistent with rules and standards for COVID-19 relief programs administered by Events DC.</text>
-      </para>
-    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -88,8 +50,6 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-280" eff="2021-04-27" path="§3|(a)|(1)|(B)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-280" eff="2021-04-27" path="§3|(a)|(4)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-280" eff="2021-04-27" path="§3|(b)" type="History"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7152" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7152" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§7152" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§7152">§ 7152 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7152" type="History"/>
   </annotations>
 </section>

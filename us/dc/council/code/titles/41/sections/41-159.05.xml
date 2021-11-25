@@ -4,7 +4,7 @@
   <heading>Allowance of claim for property by the District.</heading>
   <para>
     <num>(a)</num>
-    <text>Not later than 45 days after a claim is allowed under <cite path="§41-159.04|(b)">§ 41-159.04(b)</cite>, the Administrator shall pay or deliver to the owner the property or pay to the owner the net proceeds of a sale of the property, together with income or gain to which the owner is entitled under <cite path="§41-156.07">§ 41-156.07</cite>. On request of the owner, the Administrator may sell or liquidate a security and pay the net proceeds to the owner, even if the security had been held by the Administrator for less than 60 days or the Administrator has not complied with the notice requirements under <cite path="§41-157.02">§ 41-157.02</cite>.</text>
+    <text>Not later than 45 days after a claim is allowed under <cite path="§41-159.04">§ 41-159.04</cite>, the Administrator shall pay or deliver to the owner the property or pay to the owner the net proceeds of a sale of the property, together with income or gain to which the owner is entitled under <cite path="§41-156.07">§ 41-156.07</cite>. On request of the owner, the Administrator may sell or liquidate a security and pay the net proceeds to the owner, even if the security had been held by the Administrator for less than 60 days or the Administrator has not complied with the notice requirements under <cite path="§41-157.02">§ 41-157.02</cite>.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -31,8 +31,8 @@
     <text>The Administrator may make periodic inquiries of District agencies in the absence of a claim filed under <cite path="§41-159.03">§ 41-159.03</cite> to determine whether an apparent owner included in the unclaimed-property records of the District has an enforceable debt described in subsection (b) of this section. The Administrator first shall apply the property or net proceeds of a sale of property held by the Administrator to a debt under subsection (b) of this section of an apparent owner which appears in the records of the Administrator and deliver the amount to the appropriate District agency. The Administrator shall notify the apparent owner of the payment, unless another District agency is required to notify the owner of the payment.</text>
   </para>
   <annotations>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="VII|A" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7056" type="History"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="VII|A" type="History" display="false"/>
+    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7056" type="History"/>
   </annotations>
 </section>

@@ -410,7 +410,7 @@
               <para>
                 <codify:replace codified:doc="D.C. Code" codified:path="§1-301.86b|(e)"/>
                 <num>(e)</num>
-                <text>For the purposes of this section, the term "recovery" shall include funds obtained through court determinations or through the settlement of claims in which the Office of the Attorney General represents the District, but shall not include funds obtained through an administrative proceeding or funds obligated to another source by federal law or pursuant to <code-cite doc="D.C. Code" path="§1-325.391|(b)|(2)">section 2(b)(2) of the Subrogation Fund Establishment Act of 2018, effective July 3, 2018 (D.C. Law 22-122; D.C. Official Code § 1-325.391(b)(2))</code-cite>, or <code-cite doc="D.C. Code" path="§1-623.32">section 2332 of the District of Columbia Government Comprehensive Merit Personnel Act of 1979, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-623.32)</code-cite>. Recoveries shall be deposited into the Fund regardless of whether the amounts payable to satisfy the underlying obligations otherwise would have been required to be deposited into a different District special fund.</text>
+                <text>For the purposes of this section, the term "recovery" shall include funds obtained through court determinations or through the settlement of claims in which the Office of the Attorney General represents the District, but shall not include funds obtained through an administrative proceeding or funds obligated to another source by federal law or pursuant to <code-cite doc="D.C. Code" path="§1-325.391|(b)|(2)">section 2(b)(2) of the Subrogation Fund Establishment Act of 2018, effective July 3, 2018 (D.C. Law 22-122; D.C. Official Code § 1-325.391(b)(2))</code-cite> or <code-cite doc="D.C. Code" path="§1-623.32">section 2332 of the District of Columbia Government Comprehensive Merit Personnel Act of 1979, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-623.32)</code-cite>. Recoveries shall be deposited into the Fund regardless of whether the amounts payable to satisfy the underlying obligations otherwise would have been required to be deposited into a different District special fund.</text>
               </para>
             </include>
             <aftertext>.</aftertext>
@@ -738,7 +738,7 @@
               <para>
                 <codify:insert codified:doc="D.C. Code" codified:path="§1-515.01|(5)"/>
                 <num>(5)</num>
-                <text>"Residency-related policies" includes the preference points for District residents who apply for District government employment and the District residency mandates in sections 102 and 103, respectively, or in other District law.</text>
+                <text>"Residency-related policies" includes the preference points for District residents who apply for District government employment and the District residency mandates in <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§1-515.02" codify:value="1-515.02">102</code-cite> and <code-cite doc="D.C. Code" path="§1-515.03" codify:value="1-515.03">103</code-cite>, respectively, or in other District law.</text>
               </para>
             </include>
             <aftertext>.</aftertext>
@@ -1157,7 +1157,7 @@
             <text>A new subsection (a-4) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§1-350.02|(a-4)"/>
+                <codify:insert after="(a-3)" codified:doc="D.C. Code" codified:path="§1-350.02|(a-4)"/>
                 <num>(a-4)</num>
                 <text>The Office of the Attorney General may, in its discretion, transfer and refer delinquent debts associated with settlements and judgments to the Central Collection Unit for collection. Beginning in Fiscal Year 2022 and for each fiscal year thereafter:</text>
                 <para>
@@ -1528,7 +1528,8 @@
       <section>
         <codify:insert path="1|3|I|I" after="§1-301.158" num-value="1-301.159" codified:doc="D.C. Code" codified:path="§1-301.159"/>
         <num>1122</num>
-        <heading>The Chief Financial Officer may, for the purpose of establishing a budget structure for new agencies within the financial system for Fiscal Year 2022:</heading>
+        <heading codify:value="Budget structure for new agencies."/>
+        <text>The Chief Financial Officer may, for the purpose of establishing a budget structure for new agencies within the financial system for Fiscal Year 2022:</text>
         <para>
           <num undesignated="true">(a)</num>
           <para>
@@ -1726,7 +1727,7 @@
             <para>
               <codify:insert codified:doc="D.C. Code" codified:path="§1-1403|(13)"/>
               <num>(13)</num>
-              <text>Stimulate, support, and promote the development of innovative technologies and technology-enabled solutions within the District, including through the issuance of sub-grants of funding Congress granted to the District under the American Rescue Plan Act of 2021, approved March 11, 2021 (Pub. L. No. 117-2; 135 Stat. 4), and appropriated to the Office, subject to <code-cite doc="D.C. Code" path="1|3|XII-A|B">the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 <em>et seq</em>.)</code-cite>, and <code-cite doc="D.C. Code" path="2|2|XI-A">the Nonprofit Fair Compensation Act of 2020, effective March 16, 2021 (D.C. Law 23-185; D.C. Official Code § 2-222.01)</code-cite>.</text>
+              <text>Stimulate, support, and promote the development of innovative technologies and technology-enabled solutions within the District, including through the issuance of sub-grants of funding Congress granted to the District under the American Rescue Plan Act of 2021, approved March 11, 2021 (Pub. L. No. 117-2; 135 Stat. 4), and appropriated to the Office, subject to <code-cite doc="D.C. Code" path="1|3|XII-A|B">the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 <em>et seq</em>.),</code-cite> and <code-cite doc="D.C. Code" path="2|2|XI-A">the Nonprofit Fair Compensation Act of 2020, effective March 16, 2021 (D.C. Law 23-185; D.C. Official Code § 2-222.01)</code-cite>.</text>
             </para>
           </include>
           <aftertext>.</aftertext>
@@ -1881,7 +1882,7 @@
           <text>Section 5(6) (D.C. Official Code § 39-204(6)) is amended by striking the phrase "shall serve without compensation" and inserting the phrase "may be compensated, pursuant to section 1108(c-2)(6) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-611.08(c-2)(6)), from funds allocated pursuant to section 6(c-1)(1); except, that no District of Columbia government employee or Commissioner of the Commission may be compensated.".</text>
           <codify:find-replace path="§39-204|(6)" count="1" codified:doc="D.C. Code" codified:path="§39-204|(6)">
             <find>shall serve without compensation</find>
-            <replace>may be compensated, pursuant to <code-cite doc="D.C. Code" path="§1-611.08|(c-2)|(6)">section 1108(c-2)(6) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-611.08(c-2)(6))</code-cite>, from funds allocated pursuant to <code-cite doc="D.C. Code" path="§39-205|(c-1)|(1)">section 6(c-1)(1)</code-cite>; except, that no District of Columbia government employee or Commissioner of the Commission may be compensated.</replace>
+            <replace>may be compensated, pursuant to <code-cite doc="D.C. Code" path="§1-611.08|(c-2)|(6)">section 1108(c-2)(6) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-611.08(c-2)(6))</code-cite>, from funds allocated pursuant to <code-cite doc="D.C. Code" path="§39-205|(c-1)|(1)">section 6(c-1)(1)</code-cite>; except, that no District of Columbia government employee or Commissioner of the Commission may be compensated</replace>
           </codify:find-replace>
           <codify:insert doc="D.C. Code" path="§39-204" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§39-204">
             <text>
@@ -2200,11 +2201,11 @@
               <heading>Expansion of supermarket investment areas.</heading>
               <para>
                 <num>(a)</num>
-                <text>If the Mayor determines that there is an area that warrants investment pursuant to this chapter that is not an eligible area, as defined by<cite doc="D.C. Code" path="§47-3801|(1D)"> § 47-3801(1D)</cite>, the Mayor shall prepare a plan describing the area, geographically and otherwise, along with a detailed rationale for extending the tax incentives provided for by this chapter, a fiscal impact statement, and an explication of the benefits to be derived for the area and the District as a whole.</text>
+                <text>If the Mayor determines that there is an area that warrants investment pursuant to <cite doc="D.C. Code" path="47|38">this chapter</cite> that is not an eligible area, as defined by<cite doc="D.C. Code" path="§47-3801|(1D)"> § 47-3801(1D)</cite>, the Mayor shall prepare a plan describing the area, geographically and otherwise, along with a detailed rationale for extending the tax incentives provided for by <cite doc="D.C. Code" path="47|38">this chapter</cite>, a fiscal impact statement, and an explication of the benefits to be derived for the area and the District as a whole.</text>
               </para>
               <para>
                 <num>(b)</num>
-                <text>The Mayor shall transmit the plan to the Council, with a proposed resolution for a 45-day period of review, excluding days of Council recess. If the Council does not approve or disapprove the plan, in whole or in part, by resolution within this 45-day review period, the plan shall be deemed approved, and the area described in the plan shall be considered an eligible area for purposes of this chapter.</text>
+                <text>The Mayor shall transmit the plan to the Council, with a proposed resolution for a 45-day period of review, excluding days of Council recess. If the Council does not approve or disapprove the plan, in whole or in part, by resolution within this 45-day review period, the plan shall be deemed approved, and the area described in the plan shall be considered an eligible area for purposes of <cite doc="D.C. Code" path="47|38">this chapter</cite>.</text>
               </para>
             </section>
           </include>
@@ -2429,7 +2430,7 @@
                 <num>(C)</num>
                 <para>
                   <num>(i)</num>
-                  <text>Each part-time Commissioner serving on the day before <span codify:value="August 23, 2021,">the effective date of the Real Property Tax Appeals Commission Membership Amendment Act of 2021, effective August 23, 2021 (D.C. Law 24-45; 68 DCR 8602) ("Act"),</span> shall, with the Commissioner's consent, be converted to a hearing examiner on the effective date of the Act.</text>
+                  <text>Each part-time Commissioner serving on the day before <span codify:value="August 23, 2021,">the effective date of the Real Property Tax Appeals Commission Membership Amendment Act of 2021, effective August 23, 2021 (D.C.Act 24-159; 68 DCR 8602) ("Act"),</span> shall, with the Commissioner's consent, be converted to a hearing examiner on <span codify:value="August 23, 2021">the effective date of the Act</span>.</text>
                 </para>
                 <para>
                   <num>(ii)</num>
@@ -2615,6 +2616,10 @@
         <para codify:path="(28)">
           <num>(b)</num>
           <text>Paragraph (28) is amended by striking the period at the end and inserting a semicolon in its place.</text>
+          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§1-604.06|(b)|(28)">
+            <find>; and</find>
+            <replace>;</replace>
+          </codify:find-replace>
         </para>
         <para codify:path="(29)">
           <num>(c)</num>
@@ -2741,7 +2746,7 @@
                 <num>(c)</num>
                 <para>
                   <num>(1)</num>
-                  <text>The Authority shall promulgate rules, subject to Council approval, for sponsor-based voucher assistance as required by section 26b and capital-based assistance as required by section 26d, which shall govern the administration of funds for these types of assistance.</text>
+                  <text>The Authority shall promulgate rules, subject to Council approval, for sponsor-based voucher assistance as required by <code-cite doc="D.C. Code" path="§6-227">section 26b</code-cite> and capital-based assistance as required by <code-cite doc="D.C. Code" path="§6-229">section 26d</code-cite>, which shall govern the administration of funds for these types of assistance.</text>
                 </para>
                 <para>
                   <num>(2)</num>
@@ -2975,11 +2980,11 @@
                 </para>
                 <para>
                   <num>(3)</num>
-                  <text>The funds awarded pursuant to paragraphs (1) and (2) of this subsection shall be held in the Rent Supplement Program Project-Based Allocation Fund, established by section 26a-1(b).</text>
+                  <text>The funds awarded pursuant to paragraphs (1) and (2) of this subsection shall be held in the Rent Supplement Program Project-Based Allocation Fund, established by <code-cite doc="D.C. Code" path="§6-226.01|(b)">section 26a-1(b)</code-cite>.</text>
                 </para>
                 <para>
                   <num>(4)</num>
-                  <text>Prior to the Authority's submission to the Council, pursuant to <code-cite doc="D.C. Code" path="§1-204.51">section 451 of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 803; D.C. Official Code § 1-204.51)</code-cite>, and <code-cite doc="D.C. Code" path="§2-352.02">section 202 of the Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law 18-371; D.C. Official Code § 2-352.02)</code-cite>, for approval by the Council of an Agreement to Enter into a Long-Term Subsidy Contract ("ALTSC"), the Department of Housing and Community Development shall submit in a form satisfactory to the Authority:</text>
+                  <text>Prior to the Authority's submission to the Council, pursuant to <code-cite doc="D.C. Code" path="§1-204.51">section 451 of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 803; D.C. Official Code § 1-204.51),</code-cite> and <code-cite doc="D.C. Code" path="§2-352.02">section 202 of the Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law 18-371; D.C. Official Code § 2-352.02)</code-cite>, for approval by the Council of an Agreement to Enter into a Long-Term Subsidy Contract ("ALTSC"), the Department of Housing and Community Development shall submit in a form satisfactory to the Authority:</text>
                   <para>
                     <num>(A)</num>
                     <text>A letter of commitment that confirms the project-based voucher assistance funding allocation to the Authority for the initial 15-year term Long-Term Subsidy Contract in accordance with the proposed terms of the ALTSC and the required certification to the Council under <code-cite doc="D.C. Code" path="§2-352.02|(c)|(6)">section 202(c)(6) of the Procurement Practices Reform Act of 2010, effective April 8, 2011 (D.C. Law 18-371; D.C. Code Official § 2-352.02(c)(6))</code-cite>; and</text>
@@ -3000,7 +3005,7 @@
               <para>
                 <codify:replace path="(c)" codified:doc="D.C. Code" codified:path="§6-227|(c)"/>
                 <num>(c)</num>
-                <text>The Authority shall apply its existing Partnership Program and Housing Choice Voucher Program rules to govern eligibility, admission, and continuing occupancy by tenants in units receiving sponsor-based or project-based voucher assistance under this section, section 26a, and section 26d; except, if the rules are inconsistent with this section, section 26a, or section 26d; provided, that the Authority shall modify or waive such rules so as not to exclude households on the basis of immigration status, prior criminal convictions, or pending criminal matters. The Authority shall promulgate such additional rules as are necessary to ensure that eligibility for tenancy in the units supported by grants under this section is limited to households with gross income at or below 30% of the area median income. The Authority shall promulgate rules with respect to eligibility, admission, and continuing occupancy by tenants in units receiving project-based voucher assistance that are consistent with similar rules previously promulgated by the Authority for eligibility for tenants in units receiving sponsor-based voucher assistance.</text>
+                <text>The Authority shall apply its existing Partnership Program and Housing Choice Voucher Program rules to govern eligibility, admission, and continuing occupancy by tenants in units receiving sponsor-based or project-based voucher assistance under this section,<code-cite doc="D.C. Code" path="§6-226">section 26a</code-cite>, and <code-cite doc="D.C. Code" path="§6-229">section 26d</code-cite>; except, if the rules are inconsistent with this section, <code-cite doc="D.C. Code" path="§6-226">section 26a</code-cite>, or <code-cite doc="D.C. Code" path="§6-229">section 26d</code-cite>; provided, that the Authority shall modify or waive such rules so as not to exclude households on the basis of immigration status, prior criminal convictions, or pending criminal matters. The Authority shall promulgate such additional rules as are necessary to ensure that eligibility for tenancy in the units supported by grants under this section is limited to households with gross income at or below 30% of the area median income. The Authority shall promulgate rules with respect to eligibility, admission, and continuing occupancy by tenants in units receiving project-based voucher assistance that are consistent with similar rules previously promulgated by the Authority for eligibility for tenants in units receiving sponsor-based voucher assistance.</text>
               </para>
               <para>
                 <codify:replace path="(d)" codified:doc="D.C. Code" codified:path="§6-227|(d)"/>
@@ -3395,7 +3400,7 @@
                   </para>
                   <para>
                     <num>(C)</num>
-                    <text>The financial assistance described in subparagraph (B) of this paragraph was awarded after <span codify:value="August 23, 2021">the effective date of the Property Tax Relief for Low Income Housing Harmonization Amendment Act of 2021, effective August 23, 2021 (D.C. Law 24-45; 68 DCR 8602)</span>;</text>
+                    <text>The financial assistance described in subparagraph (B) of this paragraph was awarded after <span codify:value="August 23, 2021">the effective date of the Property Tax Relief for Low Income Housing Harmonization Amendment Act of 2021, effective August 23, 2021 (D.C. Act 24-159; 68 DCR 8602)</span>;</text>
                   </para>
                   <para>
                     <num>(D)</num>
@@ -3571,7 +3576,7 @@
             <text>Subsection (b) is amended as follows:</text>
             <para codify:path="text">
               <num>(A)</num>
-              <text>The lead-in language is amended by striking the phrase "provided, that" and inserting the phrase "provided, that the land and buildings are acquired by the nonprofit owner in an arm's-length transaction on or after October 1, 2020, or, in the case of a nonprofit owner that is a limited-equity cooperative as defined by § 42-2061(2), on or after October 1, 2021; provided further, that" in its place.</text>
+              <text>The lead-in language is amended by striking the phrase "provided, that" and inserting the phrase "provided, that the land and buildings are acquired by the nonprofit owner in an arm's-length transaction on or after October 1, 2020, or, in the case of a nonprofit owner that is a limited-equity cooperative as defined by <cite doc="D.C. Code" path="§42-2061|(2)">§ 42-2061(2)</cite>, on or after October 1, 2021; provided further, that" in its place.</text>
               <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1005.03|(b)">
                 <find>provided, that</find>
                 <replace>provided, that the land and buildings are acquired by the nonprofit owner in an arm's-length transaction on or after October 1, 2020, or, in the case of a nonprofit owner that is a limited-equity cooperative as defined by <code-cite doc="D.C. Code" path="§42-2061|(2)">§ 42-2061(2)</code-cite>, on or after October 1, 2021; provided further, that</replace>
@@ -4354,7 +4359,7 @@
             <num>(r)</num>
             <para>
               <num>(1)</num>
-              <text>Notwithstanding s<code-cite doc="D.C. Code" path="§1-328.13">ection 1094 of the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.13)</code-cite>, in Fiscal Year 2022, the Deputy Mayor shall award a grant in an amount of up to $400,000 to an organization based and located in the District and founded in 2017 that is an affiliate of a national organization and that promotes and supports the growth of equity impact enterprises, as defined in <code-cite doc="D.C. Code" path="§2-218.02|(8A)">section 2302(8A) of the Small and Certified Business Enterprise Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.02(8A))</code-cite>, to provide resources for advocacy and education and the facilitation of networking opportunities.</text>
+              <text>Notwithstanding <code-cite doc="D.C. Code" path="§1-328.13">section 1094 of the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.13)</code-cite>, in Fiscal Year 2022, the Deputy Mayor shall award a grant in an amount of up to $400,000 to an organization based and located in the District and founded in 2017 that is an affiliate of a national organization and that promotes and supports the growth of equity impact enterprises, as defined in <code-cite doc="D.C. Code" path="§2-218.02|(8A)">section 2302(8A) of the Small and Certified Business Enterprise Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.02(8A))</code-cite>, to provide resources for advocacy and education and the facilitation of networking opportunities.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -4710,7 +4715,7 @@
         <heading>Tenant Opportunity to Purchase Act outcomes study.</heading>
         <text>In Fiscal Year 2022, the Department of Housing and Community Development shall issue a grant in the amount of $250,000 to the Coalition for Non-Profit Housing and Economic Development to conduct a study of Tenant Opportunity to Purchase Act outcomes. The study shall be completed and delivered to the Council by September 30, 2022.</text>
         <codify:annotation doc="D.C. Code" path="§42-3404.01" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§42-3404.01">
-          For a requirement that the Department of Housing and Community Development issue a grant in the amount of $250,000 to the Coalition for Non-Profit Housing and Economic Development to conduct a study of Tenant Opportunity to Purchase Act outcomes, see <cite doc="D.C. Act 4-159" path="§2172">§ 2172 of D.C. Law 24-45</cite>.
+          For a requirement that the Department of Housing and Community Development issue a grant in the amount of $250,000 to the Coalition for Non-Profit Housing and Economic Development to conduct a study of Tenant Opportunity to Purchase Act outcomes, see <cite doc="D.C. Law 24-45" path="§2172">§ 2172 of D.C. Law 24-45</cite>.
         </codify:annotation>
       </section>
     </container>
@@ -5103,6 +5108,10 @@
             <para>
               <num>(B)</num>
               <text>Paragraph (2) is amended by striking the phrase "The Fund Manager" and inserting the phrase "A Fund Manager" in its place.</text>
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-281.04|(b)">
+                <find>the Fund Manager</find>
+                <replace>[a] Fund Manager</replace>
+              </codify:find-replace>
             </para>
             <para codify:path="(3)">
               <num>(C)</num>
@@ -5667,7 +5676,7 @@
         <text>The Office of Unified Communications Establishment Act of 2004, effective December 7, 2004 (D.C. Law 15-205; D.C. Official Code § 1-327.51 <em>et seq</em>.), is amended by adding a new section 3205c to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="1|3|XII|C" after="§1-327.54b" num-value="1-327.54c" codified:doc="D.C. Code" codified:path="§1-327.54c"/>
+            <codify:insert path="1|3|XII|C" after="§1-327.54b" num-value="1-327.54c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§1-327.54c"/>
             <num>3205c</num>
             <heading>Alternative Responses to Calls for Service Pilot Program.</heading>
             <para>
@@ -5800,6 +5809,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <annotation doc="D.C. Law 15-205" type="History" path="§3205c">Dec. 7, 2004, D.C. Law 15-205, § 3205c</annotation>
       </section>
     </container>
     <container>
@@ -6517,6 +6527,7 @@
             </para>
           </para>
           <para>
+            <codify:insert codified:doc="D.C. Code" codified:path="§16-2309|(d)"/>
             <num>(d)</num>
             <text>Prior to seizing, serving a custody order on, or taking into custody of a DCPS or public charter school student at a DCPS or public charter school or on its grounds pursuant to subsection (c) of this section, a law enforcement officer shall:</text>
             <para>
@@ -6995,7 +7006,7 @@
             <text>A new subsection (b-3) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(b-2)" num-value="" codified:doc="D.C. Code" codified:path="§38-2908"/>
+                <codify:insert after="(b-2)" codified:doc="D.C. Code" codified:path="§38-2908|(b-3)"/>
                 <num>(b-3)</num>
                 <text>Beginning with Fiscal Year 2024, and for each subsequent fiscal year, the per pupil facility allowance for Public Charter Schools shall be 3.1% greater than the previous fiscal year's per pupil facility allowance. The per pupil facility allowance shall be multiplied by the number of students estimated to attend each Public Charter School to determine the actual facility allowance payments to be received by each Public Charter School.</text>
               </para>
@@ -7307,7 +7318,7 @@
               <para>
                 <codify:replace codified:doc="D.C. Code" codified:path="§32-541.01|(1)"/>
                 <num>(1)</num>
-                <text>"Average weekly wage" means the total wages subject to contribution under section 103 earned by an eligible individual during the 4 quarters during which the individual's wages were the highest out of the 5 quarters immediately preceding the qualifying leave event, divided by 52; except, that, for claims filed after October 1, 2021, and before the 365th day after the end of the public health emergency, the term "average weekly wage" means the total wages subject to contribution under section 103 for the 4 quarters during which the individual's wages were the highest out of the 10 quarters immediately preceding the qualifying leave event, divided by 52.</text>
+                <text>"Average weekly wage" means the total wages subject to contribution under <code-cite doc="D.C. Code" path="§32-541.03">section 103</code-cite> earned by an eligible individual during the 4 quarters during which the individual's wages were the highest out of the 5 quarters immediately preceding the qualifying leave event, divided by 52; except, that, for claims filed after October 1, 2021, and before the 365th day after the end of the public health emergency, the term "average weekly wage" means the total wages subject to contribution under <code-cite doc="D.C. Code" path="§32-541.03">section 103</code-cite> for the 4 quarters during which the individual's wages were the highest out of the 10 quarters immediately preceding the qualifying leave event, divided by 52.</text>
               </para>
             </include>
             <aftertext>.</aftertext>
@@ -7322,7 +7333,7 @@
                 <text>"Employer contribution rate" means the uniform percentage of covered employees' wages that covered employers must contribute to the Universal Paid Leave Fund, including the percentage of annual self-employment income that a covered employer who is a self-employed individual must contribute, as provided under <code-cite doc="D.C. Code" path="32|5|IV">this act</code-cite>.</text>
               </para>
               <para>
-                <codify:insert after="(6A)" num-value="" codified:doc="D.C. Code" codified:path="§32-541.01"/>
+                <codify:insert after="(6A)" codified:doc="D.C. Code" codified:path="§32-541.01|(6B)"/>
                 <num>(6B)</num>
                 <text>"Exigent circumstances" means:</text>
                 <para>
@@ -7496,7 +7507,7 @@
             <para>
               <codify:insert path="§32-541.02" codified:doc="D.C. Code" codified:path="§32-541.02|(c)"/>
               <num>(c)</num>
-              <text>Within 30 days after October 1, 2021, or after any expansion of benefits or change to the employer contribution rate pursuant to section 104a(c), the Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall issue rules, which may include the issuance of emergency rules, to implement the provisions of this act.</text>
+              <text>Within 30 days after October 1, 2021, or after any expansion of benefits or change to the employer contribution rate pursuant to section 104a(c), the Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall issue rules, which may include the issuance of emergency rules, to implement the provisions of <code-cite doc="D.C. Code" path="32|5|IV">this act</code-cite>.</text>
             </para>
           </include>
           <aftertext>.</aftertext>
@@ -7917,7 +7928,7 @@
                 <para>
                   <codify:insert codified:doc="D.C. Code" codified:path="§32-551.02|(d)|(2)"/>
                   <num>(2)</num>
-                  <text>In Fiscal Year 2022, notwithstanding any other provision of this section, up to 5 employees hired and employed with funds transferred pursuant to paragraph (1) of this subsection may perform work on matters other than enforcement pursuant to<code-cite doc="D.C. Code" path="32|5|IV"> the Act</code-cite>; provided, that they prioritize enforcement.</text>
+                  <text>In Fiscal Year 2022, notwithstanding any other provision of this section, up to 5 employees hired and employed with funds transferred pursuant to paragraph (1) of this subsection may perform work on matters other than enforcement pursuant to <code-cite doc="D.C. Code" path="32|5|IV"> the Act</code-cite>; provided, that they prioritize enforcement.</text>
                 </para>
               </include>
               <aftertext>.</aftertext>
@@ -7938,7 +7949,7 @@
                 <para>
                   <codify:insert codified:doc="D.C. Code" codified:path="§32-551.02|(e)|(2)"/>
                   <num>(2)</num>
-                  <text>In Fiscal Year 2022, notwithstanding any other provision of this section, the Office of Administrative Hearings may use funds transferred pursuant to paragraph (1) of this subsection for matters other than the hearing of appeals of claims determinations pursuant to the Act; provided, that it prioritizes the use of such funds for the hearing of appeals of claims determinations.</text>
+                  <text>In Fiscal Year 2022, notwithstanding any other provision of this section, the Office of Administrative Hearings may use funds transferred pursuant to paragraph (1) of this subsection for matters other than the hearing of appeals of claims determinations pursuant to <code-cite doc="D.C. Code" path="32|5|IV">the Act</code-cite>; provided, that it prioritizes the use of such funds for the hearing of appeals of claims determinations.</text>
                 </para>
               </include>
               <aftertext>.</aftertext>
@@ -8313,7 +8324,7 @@
         </para>
       </section>
       <section>
-        <codify:insert path="32|16|V" num-value="32-1691.04" codified:doc="D.C. Code" codified:path="§32-1691.04"/>
+        <codify:insert path="32|16|VI" num-value="32-1691.04" codified:doc="D.C. Code" codified:path="§32-1691.04"/>
         <num>4095</num>
         <heading>Program participation.</heading>
         <para>
@@ -9627,6 +9638,7 @@
                   </para>
                 </para>
               </para>
+              <annotation doc="D.C. Law 23-16" type="History" path="§2092">Sept. 11, 2019, D.C. Law 23-16, § 2092</annotation>
             </section>
             <section>
               <codify:insert path="32|1D-ii" num-value="32-175.02" codified:doc="D.C. Code" codified:path="§32-175.02"/>
@@ -9692,6 +9704,7 @@
                   <text>Be for not less than $100,000 per year per grant.</text>
                 </para>
               </para>
+              <annotation doc="D.C. Law 23-16" type="History" path="§2093">Sept. 11, 2019, D.C. Law 23-16, § 2093</annotation>
             </section>
             <section>
               <codify:insert path="32|1D-ii" num-value="32-175.03" codified:doc="D.C. Code" codified:path="§32-175.03"/>
@@ -9739,6 +9752,7 @@
                   </para>
                 </para>
               </para>
+              <annotation doc="D.C. Law 23-16" type="History" path="§2094">Sept. 11, 2019, D.C. Law 23-16, § 2094</annotation>
             </section>
             <section>
               <codify:insert path="32|1D-ii" num-value="32-175.04" codified:doc="D.C. Code" codified:path="§32-175.04"/>
@@ -9760,6 +9774,7 @@
                 <num>(b)</num>
                 <text>Grantees that provide worker education shall provide, to an eligible individual or group of eligible individuals, information on the rights and responsibilities of accessing benefits under employment laws, recognizing violations of and learning how to prevent or rectify violations of employment laws, or learning how to assist others to take steps to prevent or rectify violations of employment laws.</text>
               </para>
+              <annotation doc="D.C. Law 23-16" type="History" path="§2095">Sept. 11, 2019, D.C. Law 23-16, § 2095</annotation>
             </section>
             <section>
               <codify:insert path="32|1D-ii" num-value="32-175.05" codified:doc="D.C. Code" codified:path="§32-175.05"/>
@@ -9817,10 +9832,12 @@
                 <num>(c)</num>
                 <text>OAG may not require grantees to release to OAG any personally identifying information in connection with the preparation or provision of the reports described in this section.</text>
               </para>
+              <annotation doc="D.C. Law 23-16" type="History" path="§2096">Sept. 11, 2019, D.C. Law 23-16, § 2096</annotation>
             </section>
           </container>
         </include>
         <aftertext>.</aftertext>
+        <codify:repeal doc="D.C. Code" path="32|1D" codified:doc="D.C. Code" codified:path="§32-171.01"/>
       </section>
       <section>
         <num>4153</num>
@@ -9883,7 +9900,7 @@
                 <text>The following benefits paid to an individual who became unemployed or partially unemployed as a result of the circumstances giving rise to the public health emergency shall not be charged to an employer's experience rating:</text>
                 <para>
                   <num>(I)</num>
-                  <text>Benefits paid to an affected employee pursuant to section 101(a), (b), (d), (e), and (g) of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (<cite doc="D.C. Law 24-9" path="§101">D.C. Law 24-9</cite>; 68 DCR 4824) ("section 101"), or any preceding act of the Council of the District of Columbia authorizing payment of benefits on substantially similar terms as those described in section 101;</text>
+                  <text>Benefits paid to an affected employee pursuant to <code-cite doc="D.C. Code" path="§51-181">section 101</code-cite>(a), (b), (d), (e), and (g)<span codify:value=""> of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (D.C. Law 24-9; 68 DCR 4824)</span> ("<span codify:value="§ 51-181">section 101</span>"), or any preceding act of the Council of the District of Columbia authorizing payment of benefits on substantially similar terms as those described in <code-cite doc="D.C. Code" path="§51-181">section 101</code-cite>;</text>
                 </para>
                 <para>
                   <num>(II)</num>
@@ -9891,7 +9908,7 @@
                 </para>
                 <para>
                   <num>(III)</num>
-                  <text>Benefits paid under other local or federal law, including the federal Pandemic Emergency Unemployment Compensation program and extended benefits authorized under section 7(g).</text>
+                  <text>Benefits paid under other local or federal law, including the federal Pandemic Emergency Unemployment Compensation program and extended benefits authorized under <code-cite doc="D.C. Code" path="§51-107|(g)">section 7(g)</code-cite>.</text>
                 </para>
               </para>
               <para>
@@ -9899,7 +9916,7 @@
                 <text>For the purposes of this subparagraph, the term:</text>
                 <para>
                   <num>(I)</num>
-                  <text>"Affected employee" shall have the same meaning as provided in section 101(d) of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (D.C. Law 24-9; 68 DCR 4824).</text>
+                  <text>"Affected employee" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§51-181|(d)">section 101(d) of the Coronavirus Support Temporary Amendment Act of 2021, effective June 24, 2021 (D.C. Law 24-9; 68 DCR 4824)</code-cite>.</text>
                 </para>
                 <para>
                   <num>(II)</num>
@@ -10426,11 +10443,11 @@
           <num>(c)</num>
           <para>
             <num>(1)</num>
-            <text>UDC shall select individuals to enroll or who are enrolled in UDC to participate in the Program, consistent with the eligibility criteria established pursuant to section 4196.</text>
+            <text>UDC shall select individuals to enroll or who are enrolled in UDC to participate in the Program, consistent with the eligibility criteria established pursuant to <code-cite doc="D.C. Code" path="§38-2255">section 4196</code-cite>.</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>District university grantees shall select individuals to enroll or who are enrolled in their institutions to participate in the Program consistent with the eligibility criteria established pursuant to section 4196 and their grant agreements with OSSE.</text>
+            <text>District university grantees shall select individuals to enroll or who are enrolled in their institutions to participate in the Program consistent with the eligibility criteria established pursuant to <code-cite doc="D.C. Code" path="§38-2255">section 4196</code-cite> and their grant agreements with OSSE.</text>
           </para>
           <para>
             <num>(3)</num>
@@ -10776,7 +10793,7 @@
               </para>
               <para>
                 <num>(2)</num>
-                <text>"Annual payment" means the sum of the quarterly payments described in section 107b, including all applicable weightings provided pursuant to <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§38-2904" codify:value="38-2904">105</code-cite>, <code-cite doc="D.C. Code" path="§38-2905" codify:value="38-2905">106,</code-cite> and <code-cite doc="D.C. Code" path="§38-2905.01" codify:value="38-2905.01">106a</code-cite>.</text>
+                <text>"Annual payment" means the sum of the quarterly payments described in <code-cite doc="D.C. Code" path="§38-2906.02">section 107b</code-cite>, including all applicable weightings provided pursuant to <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§38-2904" codify:value="38-2904">105</code-cite>, <code-cite doc="D.C. Code" path="§38-2905" codify:value="38-2905">106,</code-cite> and <code-cite doc="D.C. Code" path="§38-2905.01" codify:value="38-2905.01">106a</code-cite>.</text>
               </para>
               <para>
                 <num>(3)</num>
@@ -10859,7 +10876,7 @@
                   <num>(B)</num>
                   <para>
                     <num>(i)</num>
-                    <text>For claimants receiving traditional unemployment compensation or extended benefits under <code-cite doc="D.C. Code" path="51|1|I">this act</code-cite> <code-cite doc="D.C. Code" path="§51-107">(section 7)</code-cite>, or receiving Pandemic Emergency Unemployment Compensation (section 2104 of the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 318; 15 U.S.C. § 9023)), there must be at least 60 days between the time the claimant filed the claimant's initial claim for benefits or claim for extension program and the issuance of the first payment to the claimant; and</text>
+                    <text>For claimants receiving traditional unemployment compensation or extended benefits under <code-cite doc="D.C. Code" path="51|1|I">this act</code-cite> (<code-cite doc="D.C. Code" path="§51-107">(section 7)</code-cite>), or receiving Pandemic Emergency Unemployment Compensation (section 2104 of the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 318; 15 U.S.C. § 9023)), there must be at least 60 days between the time the claimant filed the claimant's initial claim for benefits or claim for extension program and the issuance of the first payment to the claimant; and</text>
                   </para>
                   <para>
                     <num>(ii)</num>
@@ -10950,7 +10967,7 @@
           <text>DCPS shall redact any personally identifiable information from the analysis and data released pursuant to subsection (a) of this section.</text>
         </para>
         <codify:annotation doc="D.C. Code" path="§38-1901" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§38-1901">
-          For a requirement that no later than the start of Fiscal Year 2022, the District of Columbia Public Schools ("DCPS") shall release publicly the full analysis conducted by American University's School of Education for DCPS of IMPACT, the DCPS evaluation and feedback system for school-based personnel, and the raw, aggregated quantitative data related to the INSIGHT surveys of DC educators' perceptions of the IMPACT evaluation system.
+          For a requirement that no later than the start of Fiscal Year 2022, the District of Columbia Public Schools ("DCPS") shall release publicly the full analysis conducted by American University's School of Education for DCPS of IMPACT, the DCPS evaluation and feedback system for school-based personnel, and the raw, aggregated quantitative data related to the INSIGHT surveys of DC educators' perceptions of the IMPACT evaluation system, see <cite doc="D.C. Law 24-45" path="§4232">§ 4232 of D.C. Law 24-45</cite>.
         </codify:annotation>
       </section>
       <section>
@@ -11218,7 +11235,7 @@
           <text>Section 8b (D.C. Official Code § 7-771.07b) is repealed.</text>
           <codify:find-replace path="§7-771.07a|(a-3)" count="1" codified:doc="D.C. Code" codified:path="§7-771.07a|(a-3)">
             <find><code-cite doc="D.C. Code" path="§7-771.07b|(b)|(4)|(B)|(ii)">section 8b(b)(4)(B)(ii)</code-cite> and <cite doc="D.C. Code" path="§7-771.07b|(b)|(4)|(B)|(iii)">(iii)</cite></find>
-            <replace>§ 7-771.07b [repealed] (b)(4)(B)(ii) and (iii)
+            <replace>[§7-771.07b(b)(4)(B)(ii) and (iii) [<cite doc="D.C. Code" path="§7-771.07b">§ 7-771.07b</cite> repealed]]
           </replace>
           </codify:find-replace>
           <codify:repeal path="§7-771.07b" codified:doc="D.C. Code" codified:path="§7-771.07b"/>
@@ -11452,7 +11469,7 @@
           <text>For purposes of this section, the term "transportation costs" means expenses incurred for non-emergency medical transportation, including public transportation or a public or private vehicle-for-hire service regulated by the Department of For-Hire Vehicles, but not including the cost of travel by private vehicle or parking fees.</text>
         </para>
         <codify:annotation doc="D.C. Code" path="§4-632" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§4-632">
-          For requirement that by October 1, 2021, health insurance coverage through the DC HealthCare Alliance include transportation costs for travel to and from non-emergency prenatal and postpartum health care appointments, <cite doc="D.C. Law 24-45" path="§5043">§ 5043 of D.C. Law 24-45</cite>.
+          For requirement that by October 1, 2021, health insurance coverage through the DC HealthCare Alliance include transportation costs for travel to and from non-emergency prenatal and postpartum health care appointments, see <cite doc="D.C. Law 24-45" path="§5043">§ 5043 of D.C. Law 24-45</cite>.
         </codify:annotation>
       </section>
       <section>
@@ -11611,7 +11628,7 @@
             <para>
               <codify:insert codified:doc="D.C. Code" codified:path="§49-1003|(26)"/>
               <num>(26)</num>
-              <text>Subject to the availability of funding, provide a free on-demand transportation or public transportation option to veterans who reside in a household with an annual household income of less than or equal to 80% of area median income as defined in<code-cite doc="D.C. Code" path="§47-1806.09|(1)|(A)"> D.C. Official Code § 47-1806.09(1)(A)</code-cite>, which, at a minimum:</text>
+              <text>Subject to the availability of funding, provide a free on-demand transportation or public transportation option to veterans who reside in a household with an annual household income of less than or equal to 80% of area median income as defined in <code-cite doc="D.C. Code" path="§47-1806.09|(1)|(A)"> D.C. Official Code § 47-1806.09(1)(A)</code-cite>, which, at a minimum:</text>
               <para>
                 <num>(A)</num>
                 <text>Offers 15 one-way trips per month for each eligible veteran in the program;</text>
@@ -11991,6 +12008,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <annotation doc="D.C. Law 17-109" type="History" path="§8c">Feb. 27, 2008, D.C. Law 17-109, § 8c</annotation>
       </section>
     </container>
     <container>
@@ -12087,7 +12105,7 @@
             <num>(h)</num>
             <para>
               <num>(1)</num>
-              <text>This subchapter shall not apply to a reprogramming from a master capital project in the Highway Trust Fund portion of the District's capital improvements plan to another master capital project in the Highway Trust Fund portion of the District's capital improvements plan, other than as provided in this subsection.</text>
+              <text><cite doc="D.C. Code" path="47|3|IV">This subchapter</cite> shall not apply to a reprogramming from a master capital project in the Highway Trust Fund portion of the District's capital improvements plan to another master capital project in the Highway Trust Fund portion of the District's capital improvements plan, other than as provided in this subsection.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -12292,7 +12310,7 @@
           <para>
             <codify:insert path="§29-102.12" codified:doc="D.C. Code" codified:path="§29-102.12|(e)"/>
             <num>(e)</num>
-            <text>The Mayor may implement fee forgiveness programs by rulemaking to encourage entities to come into compliance with the entity filing requirements of <code-cite doc="D.C. Code" path="29|1|II">this subchapter</code-cite>.</text>
+            <text>The Mayor may implement fee forgiveness programs by rulemaking to encourage entities to come into compliance with the entity filing requirements of <cite doc="D.C. Code" path="29|1|II">this subchapter</cite>.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
@@ -12833,7 +12851,7 @@
                 <text>Money in the Fund shall be used according to the following order of priority:</text>
                 <para>
                   <num>(A)</num>
-                  <text>To implement the Vision Zero Enhancement Omnibus Amendment Act of 2020<span codify:value=" [D.C. Law 23-158]">, effective December 23, 2020 (D.C. Law 23-158; 67 DCR 13057),</span> including to pay recurring costs;</text>
+                  <text>To implement <cite doc="D.C. Law 23-158">the Vision Zero Enhancement Omnibus Amendment Act of 2020, effective December 23, 2020 (D.C. Law 23-158; 67 DCR 13057)</cite>, including to pay recurring costs;</text>
                 </para>
                 <para>
                   <num>(B)</num>
@@ -12842,7 +12860,7 @@
               </para>
               <para>
                 <num>(2)</num>
-                <text>The Director is authorized to enter into intra-District transfers from the Fund and other agreements with the Department of Health, Department of Motor Vehicles, Department of Public Works, and Metropolitan Police Department as necessary to implement provisions of the Vision Zero Enhancement Omnibus Amendment Act of 2020<span codify:value=" [D.C. Law 23-158]">, effective December 23, 2020 (D.C. Law 23-158; 67 DCR 13057)</span>.</text>
+                <text>The Director is authorized to enter into intra-District transfers from the Fund and other agreements with the Department of Health, Department of Motor Vehicles, Department of Public Works, and Metropolitan Police Department as necessary to implement provisions of <cite doc="D.C. Law 23-158">the Vision Zero Enhancement Omnibus Amendment Act of 2020, effective December 23, 2020 (D.C. Law 23-158; 67 DCR 13057)</cite>.</text>
               </para>
             </para>
             <para>
@@ -12910,7 +12928,7 @@
           <text>Section 6c(b) (D.C. Official Code § 50-2201.03c(b)) is amended by adding a new paragraph (5) to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert num-value="" codified:doc="D.C. Code" codified:path="§50-2201.03c|(b)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§50-2201.03c|(b)|(5)"/>
               <num>(5)</num>
               <text>The Director shall fine a permitted operator $100 per device that the permitted operator represented to DDOT as an electronic mobility device and deployed and that, when inspected by DDOT, weighs greater than 75 pounds or is longer than 55 inches.</text>
             </para>
@@ -12942,7 +12960,7 @@
             </para>
             <para>
               <num>(b)</num>
-              <text>Monies obtained pursuant to sections 6 and 9 shall be deposited into the Fund.</text>
+              <text>Monies obtained pursuant to <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§6-1451.05" codify:value="6-1451.05">6</code-cite> and <code-cite doc="D.C. Code" path="§6-1451.08" codify:value="6-1451.08">9</code-cite> shall be deposited into the Fund.</text>
             </para>
             <para>
               <num>(c)</num>
@@ -13029,8 +13047,8 @@
             <num>(2)</num>
             <text>Paragraph (17) is amended by striking the period and inserting the phrase "; and" in its place.</text>
             <codify:find-replace position="1" codified:doc="D.C. Code" codified:path="§8-1774.10|(c)|(17)">
-              <find>.</find>
-              <replace>; and</replace>
+              <find>required by <code-cite doc="D.C. Code" path="§8-1772.21">section 301 of the CleanEnergy Act</code-cite>.</find>
+              <replace>required by <code-cite doc="D.C. Code" path="§8-1772.21">section 301 of the CleanEnergy Act</code-cite>; and</replace>
             </codify:find-replace>
           </para>
           <para>
@@ -13274,7 +13292,7 @@
           <text>A new section 2l is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="50|15|I" num-value="50-1501.02l" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-1501.02l"/>
+              <codify:insert path="50|15|I" num-value="50-1501.02l" after="§50-1501.02k" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-1501.02l"/>
               <num>2l</num>
               <heading>Issuance of Protect Local Wildlife motor vehicle identification tags.</heading>
               <para>
@@ -13988,7 +14006,7 @@
           <codify:insert path="41|1A|I" num-value="41-151.03" codified:doc="D.C. Code" codified:path="§41-151.03"/>
           <num>7003</num>
           <heading>Inapplicability to foreign transaction.</heading>
-          <text>This subtitle does not apply to property held, due, and owing in a foreign country if the transaction out of which the property arose was a foreign transaction.</text>
+          <text><code-cite doc="D.C. Code" path="41|1A">This subtitle</code-cite> does not apply to property held, due, and owing in a foreign country if the transaction out of which the property arose was a foreign transaction.</text>
         </section>
         <section>
           <codify:insert path="41|1A|I" num-value="41-151.04" codified:doc="D.C. Code" codified:path="§41-151.04"/>
@@ -14439,7 +14457,7 @@
               <text>A death-master-file match under subsection (b)(3) or (4) of this section occurs if the criteria for an exact or partial match are satisfied as provided by:</text>
               <para>
                 <num>(A)</num>
-                <text><code-cite doc="D.C. Code" path="§41-165.04">Section 7093(d) of the Revised Uniform Unclaimed Property Act of 2021, passed on 2nd reading on August 10, 2021 (Enrolled version of Bill 24-285)</code-cite>; or</text>
+                <text><code-cite doc="D.C. Code" path="§41-165.04" codify:value="Section 41-165.04">Section 7093(d) of the Revised Uniform Unclaimed Property Emergency Act of 2021, passed on emergency basis on August 10, 2021 (Enrolled version of Bill 24-373)</code-cite>; or</text>
               </para>
               <para>
                 <num>(B)</num>
@@ -14457,7 +14475,7 @@
           </para>
           <para>
             <num>(d)</num>
-            <text><code-cite doc="D.C. Code" path="41|1A">This subtitle</code-cite> does not affect the determination of the extent to which an insurance company before the <span codify:value="August 23, 2021">effective date of this subtitle</span> had knowledge of the death of an insured or annuitant or was required to conduct a death-master-file comparison to determine whether amounts owed by the company on a life or endowment insurance policy or annuity contract were presumed abandoned or unclaimed.</text>
+            <text><code-cite doc="D.C. Code" path="41|1A">This subtitle</code-cite> does not affect the determination of the extent to which an insurance company before the <span codify:value="November 13,2021">effective date of this subtitle</span> had knowledge of the death of an insured or annuitant or was required to conduct a death-master-file comparison to determine whether amounts owed by the company on a life or endowment insurance policy or annuity contract were presumed abandoned or unclaimed.</text>
           </para>
         </section>
         <section>
@@ -14649,7 +14667,7 @@
           <heading>Content of report.</heading>
           <para>
             <num>(a)</num>
-            <text>The report required under <code-cite doc="D.C. Code" path="§41-154.02">section 7024</code-cite> shall:</text>
+            <text>The report required under <code-cite doc="D.C. Code" path="§41-154.01">section 7024</code-cite> shall:</text>
             <para>
               <num>(1)</num>
               <text>Be signed by or on behalf of the holder and verified as to its completeness and accuracy;</text>
@@ -14680,7 +14698,7 @@
             </para>
             <para>
               <num>(8)</num>
-              <text>State that the holder has complied with the notice requirements of <code-cite doc="D.C. Code" path="§41-156.07">section 7029</code-cite>;</text>
+              <text>State that the holder has complied with the notice requirements of <code-cite doc="D.C. Code" path="§41-155.01">section 7029</code-cite>;</text>
             </para>
             <para>
               <num>(9)</num>
@@ -14693,7 +14711,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>A report under <code-cite doc="D.C. Code" path="§41-154.01">section 7024</code-cite> may include personal information as defined in <code-cite doc="D.C. Code" path="§41-164.01">section 7082(a)</code-cite> about the apparent owner or the apparent owner's property to the extent not otherwise prohibited by federal law.</text>
+            <text>A report under <code-cite doc="D.C. Code" path="§41-154.01">section 7024</code-cite> may include personal information as defined in <code-cite doc="D.C. Code" path="§41-164.01|(a)">section 7082(a)</code-cite> about the apparent owner or the apparent owner's property to the extent not otherwise prohibited by federal law.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -14998,7 +15016,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>A holder is not liable for a claim against the holder resulting from the payment or delivery of property to the Administrator made in good faith and after the holder substantially complied with <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§41-155.01" codify:value="41-155.01">7029</code-cite> and 7030.</text>
+            <text>A holder is not liable for a claim against the holder resulting from the payment or delivery of property to the Administrator made in good faith and after the holder substantially complied with <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§41-155.01" codify:value="41-155.01">7029</code-cite> and <code-cite doc="D.C. Code" path="§41-155.02" codify:value="41-155.02">7030</code-cite>.</text>
           </para>
         </section>
         <section>
@@ -15093,7 +15111,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>Interest on interest-bearing property is not payable under this section for any period before <span codify:value="August 23, 2021">the effective date of this subtitle</span>, unless authorized by <code-cite doc="D.C. Code" path="§41-121">section 121 of the Uniform Disposition of Unclaimed Property Act of 1980, effective March 5, 1981 (D.C. Law 3-160; D.C. Official Code § 41-121)</code-cite>.</text>
+            <text>Interest on interest-bearing property is not payable under this section for any period before <span codify:value="November 13,2021">the effective date of this subtitle</span>, unless authorized by <code-cite doc="D.C. Code" path="§41-121">section 121 of the Uniform Disposition of Unclaimed Property Act of 1980, effective March 5, 1981 (D.C. Law 3-160; D.C. Official Code § 41-121)</code-cite><span codify:value=" [repealed]"/>.</text>
           </para>
         </section>
         <section>
@@ -15156,7 +15174,7 @@
           <heading>Periods of limitation and repose.</heading>
           <para>
             <num>(a)</num>
-            <text>Expiration, before, on, or after <span codify:value="August 23, 2021">the effective date of this subtitle</span>, of a period of limitation on an owner's right to receive or recover property, whether specified by contract, statute, or court order, does not prevent the property from being presumed abandoned or affect the duty of a holder under <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite> to file a report or pay or deliver property to the Administrator.</text>
+            <text>Expiration, before, on, or after <span codify:value="November 13,2021">the effective date of this subtitle</span>, of a period of limitation on an owner's right to receive or recover property, whether specified by contract, statute, or court order, does not prevent the property from being presumed abandoned or affect the duty of a holder under <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite> to file a report or pay or deliver property to the Administrator.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -15536,7 +15554,7 @@
           <heading>Allowance of claim for property by the District.</heading>
           <para>
             <num>(a)</num>
-            <text>Not later than 45 days after a claim is allowed under <code-cite doc="D.C. Code" path="§41-159.04">section 7055(b)</code-cite>, the Administrator shall pay or deliver to the owner the property or pay to the owner the net proceeds of a sale of the property, together with income or gain to which the owner is entitled under <code-cite doc="D.C. Code" path="§41-156.07">section 7039</code-cite>. On request of the owner, the Administrator may sell or liquidate a security and pay the net proceeds to the owner, even if the security had been held by the Administrator for less than 60 days or the Administrator has not complied with the notice requirements under <code-cite doc="D.C. Code" path="§41-157.02">section 7044</code-cite>.</text>
+            <text>Not later than 45 days after a claim is allowed under <code-cite doc="D.C. Code" path="§41-159.04|(b)">section 7055(b)</code-cite>, the Administrator shall pay or deliver to the owner the property or pay to the owner the net proceeds of a sale of the property, together with income or gain to which the owner is entitled under <code-cite doc="D.C. Code" path="§41-156.07">section 7039</code-cite>. On request of the owner, the Administrator may sell or liquidate a security and pay the net proceeds to the owner, even if the security had been held by the Administrator for less than 60 days or the Administrator has not complied with the notice requirements under <code-cite doc="D.C. Code" path="§41-157.02">section 7044</code-cite>.</text>
           </para>
           <para>
             <num>(b)</num>
@@ -15641,7 +15659,7 @@
           </para>
           <para>
             <num>(c)</num>
-            <text>If a person subject to examination under <code-cite doc="D.C. Code" path="§41-160.02">section 7059</code-cite> has filed the reports required under <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§41-154.01" codify:value="41-154.01">7024</code-cite> and <code-cite doc="D.C. Code" path="§41-160.01">7058</code-cite> and has retained the records required by <code-cite doc="D.C. Code" path="§41-154.04">section 7027</code-cite>, the following rules apply:</text>
+            <text>If a person subject to examination under <code-cite doc="D.C. Code" path="§41-160.02">section 7059</code-cite> has filed the reports required under <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§41-154.01" codify:value="41-154.01">7024</code-cite> and <code-cite doc="D.C. Code" path="§41-160.01" codify:value="41-160.01">7058</code-cite> and has retained the records required by <code-cite doc="D.C. Code" path="§41-154.04">section 7027</code-cite>, the following rules apply:</text>
             <para>
               <num>(1)</num>
               <text>The examination shall include a review of the person's records.</text>
@@ -15677,7 +15695,7 @@
             </para>
             <para>
               <num>(4)</num>
-              <text>Shall be disclosed, on request, to the person that administers the unclaimed property law of another state for that state's use in circumstances equivalent to circumstances described in <code-cite doc="D.C. Code" path="41|1A|IX">this part</code-cite>, if the other state is required to maintain the confidentiality and security of information obtained in a manner substantially equivalent to <code-cite doc="D.C. Code" path="41|1A|XIV">Part 14</code-cite>;</text>
+              <text>Shall be disclosed, on request, to the person that administers the unclaimed property law of another state for that state's use in circumstances equivalent to circumstances described in <code-cite doc="D.C. Code" path="41|1A|X">this part</code-cite>, if the other state is required to maintain the confidentiality and security of information obtained in a manner substantially equivalent to <code-cite doc="D.C. Code" path="41|1A|XIV">Part 14</code-cite>;</text>
             </para>
             <para>
               <num>(5)</num>
@@ -15824,7 +15842,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>The Administrator may contract with a person to conduct an examination under<code-cite doc="D.C. Code" path="41|1A|X"> this part</code-cite>.</text>
+            <text>The Administrator may contract with a person to conduct an examination under <code-cite doc="D.C. Code" path="41|1A|X"> this part</code-cite>.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -15851,7 +15869,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>A contingent fee arrangement may not provide for a payment that exceeds 10 percent of the amount or value of property paid or delivered as a result of the examination, except for contracts in force on <span codify:value="August 23, 2021">the effective date of this subtitle</span>; and</text>
+              <text>A contingent fee arrangement may not provide for a payment that exceeds 10 percent of the amount or value of property paid or delivered as a result of the examination, except for contracts in force on <span codify:value="November 13,2021">the effective date of this subtitle</span>; and</text>
             </para>
             <para>
               <num>(3)</num>
@@ -16266,7 +16284,7 @@
             </para>
             <para>
               <num>(3)</num>
-              <text>Any combination of data that, if accessed, disclosed, modified, or destroyed without authorization of the owner of the data or if lost or misused, would require notice or reporting under<span codify:value="§§"> D.C. Official Code §§</span> <cite doc="D.C. Code" path="§28-3851" codify:value="28-3851">28-3851</cite> to <cite doc="D.C. Code" path="§28-3864" codify:value="28-3864">28-3864</cite> and federal privacy and data security law, whether or not the Administrator or the Administrator's agent is subject to the law.</text>
+              <text>Any combination of data that, if accessed, disclosed, modified, or destroyed without authorization of the owner of the data or if lost or misused, would require notice or reporting under <span codify:value="§§"> D.C. Official Code §§</span> <cite doc="D.C. Code" path="§28-3851" codify:value="28-3851">28-3851</cite> to <cite doc="D.C. Code" path="§28-3864" codify:value="28-3864">28-3864</cite> and federal privacy and data security law, whether or not the Administrator or the Administrator's agent is subject to the law.</text>
             </para>
           </para>
           <para>
@@ -16329,7 +16347,7 @@
           </para>
           <para>
             <num>(b)</num>
-            <text>Except as otherwise provided in <code-cite doc="D.C. Code" path="§41-164.02|(a)">section 7083(a)</code-cite>, the Administrator shall include on the website or in the database required by <code-cite doc="D.C. Code" path="§41-155.03">section 7031(c)(2)</code-cite> the name of each apparent owner of property held by the Administrator. The Administrator may include in published notices, printed publications, telecommunications, the Internet, or other media and on the website or in the database additional information concerning the apparent owner's property if the Administrator believes the information will assist in identifying and returning property to the owner and does not disclose personal information except the home or physical address of an apparent owner.</text>
+            <text>Except as otherwise provided in <code-cite doc="D.C. Code" path="§41-164.02|(a)">section 7083(a)</code-cite>, the Administrator shall include on the website or in the database required by <code-cite doc="D.C. Code" path="§41-155.03|(c)|(2)">section 7031(c)(2)</code-cite> the name of each apparent owner of property held by the Administrator. The Administrator may include in published notices, printed publications, telecommunications, the Internet, or other media and on the website or in the database additional information concerning the apparent owner's property if the Administrator believes the information will assist in identifying and returning property to the owner and does not disclose personal information except the home or physical address of an apparent owner.</text>
           </para>
           <para>
             <num>(c)</num>
@@ -16349,7 +16367,7 @@
             </para>
             <para>
               <num>(2)</num>
-              <text>Requires the person having access to the records to comply with the provisions of <code-cite doc="D.C. Code" path="41|1A|XIII">this part</code-cite> applicable to the person.</text>
+              <text>Requires the person having access to the records to comply with the provisions of <code-cite doc="D.C. Code" path="41|1A|XIV">this part</code-cite> applicable to the person.</text>
             </para>
           </para>
         </section>
@@ -16512,18 +16530,18 @@
           <heading>Transitional provision.</heading>
           <para>
             <num>(a)</num>
-            <text>An initial report filed under <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite> for property that was not required to be reported before <span codify:value="August 23, 2021">the effective date of this subtitle</span>, but that is required to be reported under <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite>, must include all items of property that would have been presumed abandoned during the 10-year period preceding <span codify:value="August 23, 2021">the effective date of this subtitle</span> as if <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite> had been in effect during that period.</text>
+            <text>An initial report filed under <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite> for property that was not required to be reported before <span codify:value="November 13,2021">the effective date of this subtitle</span>, but that is required to be reported under <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite>, must include all items of property that would have been presumed abandoned during the 10-year period preceding <span codify:value="November 13,2021">the effective date of this subtitle</span> as if <code-cite doc="D.C. Code" path="41|1A">this subtitle</code-cite> had been in effect during that period.</text>
           </para>
           <para>
             <num>(b)</num>
-            <text><code-cite doc="D.C. Code" path="41|1A">This subtitle </code-cite>does not relieve a holder of a duty that arose before <span codify:value="August 23, 2021">the effective date of this subtitle</span> to report, pay, or deliver property. Subject to section 7042(b) and (c), a holder that did not comply with the law governing unclaimed property before <span codify:value="August 23, 2021">the effective date of this subtitle</span> is subject to applicable provisions for enforcement and penalties in effect before <span codify:value="August 23, 2021">the effective date of this subtitle</span>.</text>
+            <text><code-cite doc="D.C. Code" path="41|1A">This subtitle</code-cite> does not relieve a holder of a duty that arose before <span codify:value="November 13, 2021">the effective date of this subtitle</span> to report, pay, or deliver property. Subject to <code-cite doc="D.C. Code" path="§41-156.10|(b)">section 7042(b)</code-cite> and <cite doc="D.C. Code" path="§41-156.10|(c)">(c)</cite>, a holder that did not comply with the law governing unclaimed property before <span codify:value="November 13, 2021">the effective date of this subtitle</span> is subject to applicable provisions for enforcement and penalties in effect before <span codify:value="November 13, 2021">the effective date of this subtitle</span>.</text>
           </para>
         </section>
         <section>
           <codify:insert path="41|1A|XV" num-value="41-165.04" codified:doc="D.C. Code" codified:path="§41-165.04"/>
           <num>7093</num>
           <heading>Transfer of funds.</heading>
-          <text>All funds in the trust fund established under <code-cite doc="D.C. Code" path="§41-123">section 123 of the Uniform Disposition of Unclaimed Property Act of 1980, effective March 5, 1981 (D.C. Law 3-160; D.C. Official Code § 41-123)</code-cite>, shall be transferred to the Unclaimed Property Account, established under <code-cite doc="D.C. Code" path="§41-158.01|(a)">section 7048(a)</code-cite>.</text>
+          <text>All funds in the trust fund established under <code-cite doc="D.C. Code" path="§41-123">section 123 of the Uniform Disposition of Unclaimed Property Act of 1980, effective March 5, 1981 (D.C. Law 3-160; D.C. Official Code § 41-123),</code-cite> shall be transferred to the Unclaimed Property Account, established under <code-cite doc="D.C. Code" path="§41-158.01|(a)">section 7048(a)</code-cite>.</text>
         </section>
         <section>
           <num>7094</num>
@@ -16766,7 +16784,7 @@
                 </para>
                 <para>
                   <num>(e)</num>
-                  <text>Pursuant to <code-cite doc="D.C. Code" path="§41-152.10">section 7014</code-cite> of the Revised Uniform Unclaimed Property Act of 2021, an insurer shall notify the Unclaimed Property Administrator upon the expiration of the statutory time period for abandoned property that:</text>
+                  <text>Pursuant to <code-cite doc="D.C. Code" path="§41-152.10">section 7014 of the Revised Uniform Unclaimed Property Emergency Act of 2021</code-cite>, an insurer shall notify the Unclaimed Property Administrator upon the expiration of the statutory time period for abandoned property that:</text>
                   <para>
                     <num>(1)</num>
                     <text>A policy or contract beneficiary or retained asset account holder has not submitted a claim with the insurer; and</text>
@@ -16778,7 +16796,7 @@
                 </para>
                 <para>
                   <num>(f)</num>
-                  <text>Upon such notice, an insurer shall immediately submit the unclaimed policy or contract benefits or unclaimed retained asset accounts, plus any applicable accrued interest, to the Unclaimed Property Administrator pursuant <code-cite doc="D.C. Code" path="§41-152.10">section 7014</code-cite> of to the Revised Uniform Unclaimed Property Act of 2021.</text>
+                  <text>Upon such notice, an insurer shall immediately submit the unclaimed policy or contract benefits or unclaimed retained asset accounts, plus any applicable accrued interest, to the Unclaimed Property Administrator pursuant <span codify:value="[to]"/> <code-cite doc="D.C. Code" path="§41-152.10">section 7014 of to the Revised Uniform Unclaimed Property Emergency Act of 2021</code-cite>.</text>
                 </para>
                 <para>
                   <num>(g)</num>
@@ -17037,6 +17055,7 @@
           <text>Subsection (g)(2) is amended by adding a new subparagraph (D) to read as follows:</text>
           <include lvl="2">
             <para>
+              <codify:insert codified:doc="D.C. Code" codified:path="§1-711|(g)|(2)|(D)"/>
               <num>(D)</num>
               <text>Notwithstanding any other provision of law, the annual salary of the Executive Director shall be fixed by the Board as it considers necessary at a rate not to exceed 135% of the highest step of Grade E5 of the Executive Service.</text>
             </para>
@@ -17135,9 +17154,12 @@
         <text>The lead-in language of section 203a(a) of the Washington Convention Center Authority Act of 1994, effective December 3, 2020 (D.C. Law 23-149; D.C. Official Code § 10-1202.03a(a)), is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="§10-1202.03a|(a)" codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)"/>
             <num>(a)</num>
             <text>The Washington Convention and Sports Authority shall issue, subject to the availability of funds, grants or contracts to nonprofit entities to use to provide cash assistance to District residents who are otherwise excluded from District and federal aid related to COVID-19. To qualify for cash assistance from grants or contracts awarded pursuant to this section, a District resident shall:</text>
+            <codify:find-replace path="§10-1202.03a|(a)|text" count="1" codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)">
+              <find>During the public health emergency declared in the Mayor's order dated March 11, 2020 and any extensions thereof, the Washington Convention and Sports Authority ("Events DC") shall issue, subject to the availability of funds, grants or contracts to nonprofit entities to use to provide cash assistance to District residents who are otherwise excluded from District and federal aid related to COVID-19. To qualify for cash assistance from grants or contracts awarded pursuant to this section, a District resident shall, at the time of application for assistance under this section:</find>
+              <replace>The Washington Convention and Sports Authority shall issue, subject to the availability of funds, grants or contracts to nonprofit entities to use to provide cash assistance to District residents who are otherwise excluded from District and federal aid related to COVID-19. To qualify for cash assistance from grants or contracts awarded pursuant to this section, a District resident shall:</replace>
+            </codify:find-replace>
           </para>
         </include>
         <aftertext>.</aftertext>

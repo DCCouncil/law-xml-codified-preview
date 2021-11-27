@@ -8,7 +8,7 @@
   <text>For the purposes of <cite path="32|5|IV">this subchapter</cite>, the term:</text>
   <para>
     <num>(1)</num>
-    <text>"Average weekly wage" means the total wages subject to contribution under section 103 earned by an eligible individual during the 4 quarters during which the individual's wages were the highest out of the 5 quarters immediately preceding the qualifying leave event, divided by 52; except, that, for claims filed after October 1, 2021, and before the 365th day after the end of the public health emergency, the term "average weekly wage" means the total wages subject to contribution under section 103 for the 4 quarters during which the individual's wages were the highest out of the 10 quarters immediately preceding the qualifying leave event, divided by 52.</text>
+    <text>"Average weekly wage" means the total wages subject to contribution under <cite path="§32-541.03">§ 32-541.03</cite> earned by an eligible individual during the 4 quarters during which the individual's wages were the highest out of the 5 quarters immediately preceding the qualifying leave event, divided by 52; except, that, for claims filed after October 1, 2021, and before the 365th day after the end of the public health emergency, the term "average weekly wage" means the total wages subject to contribution under <cite path="§32-541.03">§ 32-541.03</cite> for the 4 quarters during which the individual's wages were the highest out of the 10 quarters immediately preceding the qualifying leave event, divided by 52.</text>
   </para>
   <para>
     <num>(2)</num>
@@ -67,7 +67,7 @@
     <text>"Employer contribution rate" means the uniform percentage of covered employees' wages that covered employers must contribute to the Universal Paid Leave Fund, including the percentage of annual self-employment income that a covered employer who is a self-employed individual must contribute, as provided under <cite path="32|5|IV">this subchapter</cite>.</text>
   </para>
   <para>
-    <num></num>
+    <num>(6B)</num>
     <text>"Exigent circumstances" means:</text>
     <para>
       <num>(A)</num>
@@ -343,6 +343,8 @@
     <annotation app="2021-07-29" doc="D.C. Law 24-18" eff="2021-07-29" path="§2|(a)|(1)" type="History"/>
     <annotation app="2021-07-29" doc="D.C. Law 24-18" eff="2021-07-29" path="§2|(a)|(2)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-18" path="§2|(a)" codified:display="Note" app="2021-07-29" eff="2021-07-29">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-18" path="§2|(a)">§ 2(a) of Short-term Disability Insurance Benefit Protection Temporary Amendment Act of 2021 (D.C. Law 24-18, July 29, 2021, 68 DCR 006100)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4062|(a)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§4062|(a)">§ 4062(a) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4062|(a)|(1)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4062|(a)|(2)" type="History"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4062|(a)|(3)" type="History"/>

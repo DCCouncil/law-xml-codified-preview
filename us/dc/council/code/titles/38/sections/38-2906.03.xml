@@ -53,7 +53,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>"Annual payment" means the sum of the quarterly payments described in section 107b, including all applicable weightings provided pursuant to §§ <cite path="§38-2904">38-2904</cite>, <cite path="§38-2905">38-2905</cite> and <cite path="§38-2905.01">38-2905.01</cite>.</text>
+      <text>"Annual payment" means the sum of the quarterly payments described in <cite path="§38-2906.02">§ 38-2906.02</cite>, including all applicable weightings provided pursuant to §§ <cite path="§38-2904">38-2904</cite>, <cite path="§38-2905">38-2905</cite> and <cite path="§38-2905.01">38-2905.01</cite>.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -98,6 +98,9 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 12-207" type="History" path="§107c">Mar. 26, 1999, D.C. Law 12-207, § 107c</annotation>
+    <annotation doc="D.C. Law 12-207" type="History" path="§107c" display="false">Mar. 26, 1999, D.C. Law 12-207, § 107c</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4202" codified:display="Note" app="2021-11-13" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§4202">§ 4202 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
+    <annotation app="2021-11-13" doc="D.C. Act 24-159" eff="2021-08-23" path="§4202" type="History" display="false"/>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4202" prefix="as added" type="History"/>
   </annotations>
 </section>

@@ -93,7 +93,6 @@
   <container>
     <prefix>Chapter</prefix>
     <num>1D</num>
-    <reason>Repealed</reason>
     <heading>Wage and Hour Education Grants Program.</heading>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" type="History" display="false"/>
     <xi:include href="./sections/32-171.01.xml"/>
@@ -101,7 +100,6 @@
     <xi:include href="./sections/32-171.03.xml"/>
     <xi:include href="./sections/32-171.04.xml"/>
     <xi:include href="./sections/32-171.05.xml"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4152" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -113,17 +111,6 @@
     <xi:include href="./sections/32-173.03.xml"/>
     <xi:include href="./sections/32-173.04.xml"/>
     <xi:include href="./sections/32-173.05.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>1D-ii</num>
-    <heading>Workplace Rights Grant Program.</heading>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§4152" type="History" display="false"/>
-    <xi:include href="./sections/32-175.01.xml"/>
-    <xi:include href="./sections/32-175.02.xml"/>
-    <xi:include href="./sections/32-175.03.xml"/>
-    <xi:include href="./sections/32-175.04.xml"/>
-    <xi:include href="./sections/32-175.05.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

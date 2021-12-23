@@ -48,5 +48,7 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 17-357" type="History" path="§3">Mar. 25, 2009, D.C. Law 17-357, § 3, 56 DCR 1167</annotation>
+    <annotation app="2021-09-22" doc="D.C. Act 24-189" eff="2021-09-22" path="§3" type="History" display="false"/>
+    <annotation app="2021-12-24" doc="D.C. Act 24-245" eff="2021-12-24" path="§3" type="History" display="false"/>
   </annotations>
 </section>

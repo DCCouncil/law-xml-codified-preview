@@ -170,7 +170,6 @@
         <xi:include href="./sections/2-218.13.xml"/>
         <xi:include href="./sections/2-218.14.xml"/>
         <xi:include href="./sections/2-218.15.xml"/>
-        <xi:include href="./sections/2-218.16.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -272,13 +271,6 @@
         <xi:include href="./sections/2-218.81.xml"/>
         <xi:include href="./sections/2-218.82.xml"/>
       </container>
-    </container>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>IX-B</num>
-      <heading>Small and Local Business Enterprise Development Assistance During the COVID-19 emergency.</heading>
-      <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="II" type="History" display="false"/>
-      <xi:include href="./sections/2-218.91.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1505,13 +1497,6 @@
         <num>C</num>
         <heading>Application of Law.</heading>
         <xi:include href="./sections/2-1215.71.xml"/>
-      </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>D</num>
-        <heading>BID Public Space Maintenance Agreements During a Public Health Emergency.</heading>
-        <annotation app="2021-10-27" doc="D.C. Law 24-42" eff="2021-10-27" path="§3|(b)" type="History" display="false"/>
-        <xi:include href="./sections/2-1215.81.xml"/>
       </container>
     </container>
     <container>

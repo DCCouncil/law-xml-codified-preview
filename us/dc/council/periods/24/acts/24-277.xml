@@ -67,10 +67,6 @@
       </para>
     </include>
     <aftertext> in its place.</aftertext>
-    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2304|(b)|(2)">
-      <find>shall expire on November 5, 2021;</find>
-      <replace>shall expire on November 5, 2021, except for procurements that:</replace>
-    </codify:find-replace>
     <codify:emergency doc="D.C. Code" path="§7-2304" codified:doc="D.C. Code" codified:path="§7-2304" codified:display="Note"/>
     <codify:insert doc="D.C. Code" path="§7-2304" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2304">
       <text>

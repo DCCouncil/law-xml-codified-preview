@@ -2724,7 +2724,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
-          <codify:emergency doc="D.C. Code" path="§42-3502.11" codified:doc="D.C. Code" codified:path="§42-3502.11|(a)" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§42-3502.11" codified:doc="D.C. Code" codified:path="§42-3502.11" codified:display="Note"/>
         </para>
         <para codify:doc="D.C. Code" codify:path="§42-3505.31|(c)">
           <num>(4)</num>
@@ -2768,7 +2768,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
-          <codify:emergency doc="D.C. Code" path="§42-3505.53" codified:doc="D.C. Code" codified:path="§42-3505.53|(a)" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§42-3505.53" codified:doc="D.C. Code" codified:path="§42-3505.53" codified:display="Note"/>
         </para>
         <para codify:doc="D.C. Code" codify:path="§42-3505.54">
           <num>(6)</num>
@@ -3071,7 +3071,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
-          <codify:emergency doc="D.C. Code" path="§16-2303" codified:doc="D.C. Code" codified:path="§16-2303|(a)" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§16-2303" codified:doc="D.C. Code" codified:path="§16-2303" codified:display="Note"/>
         </para>
         <para>
           <num>(2)</num>
@@ -3492,7 +3492,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
-          <codify:emergency doc="D.C. Code" path="§7-2307" codified:doc="D.C. Code" codified:path="§7-2307|(a)" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§7-2307" codified:doc="D.C. Code" codified:path="§7-2307" codified:display="Note"/>
         </para>
       </para>
     </section>
@@ -4586,7 +4586,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:emergency doc="D.C. Code" path="§1-1231.05" codified:doc="D.C. Code" codified:path="§1-1231.05|(a)" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§1-1231.05" codified:doc="D.C. Code" codified:path="§1-1231.05" codified:display="Note"/>
       </para>
       <para>
         <num>(c)</num>

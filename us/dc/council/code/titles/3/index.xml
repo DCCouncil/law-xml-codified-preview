@@ -6,13 +6,6 @@
   <subheading>Subtitle I. General.</subheading>
   <container>
     <prefix>Chapter</prefix>
-    <num>0</num>
-    <heading>Mayoral Authority During a Public Health Emergency.</heading>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="VIII" type="History" display="false"/>
-    <xi:include href="./sections/3-001.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Advisory Commission on Sentencing.</heading>
     <xi:include href="./sections/3-101.xml"/>

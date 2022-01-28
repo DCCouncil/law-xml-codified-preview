@@ -449,7 +449,7 @@
     <para>
       <num>(w)</num>
       <text>Section 408(a)(1) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), and for 60 days thereafter" and inserting the phrase "during the period of time from March 11, 2020, until November 5, 2021" in its place.</text>
-      <codify:emergency doc="D.C. Code" path="§42-815.05" codified:doc="D.C. Code" codified:path="§42-815.05" codified:display="Note"/>
+      <codify:emergency doc="D.C. Code" path="§42-815.04" action="creation of a provision providing for a foreclosure moratorium during a public health emergency" codified:doc="D.C. Code" codified:path="§42-815.04" codified:display="Note"/>
     </para>
     <para>
       <num>(x)</num>
@@ -474,13 +474,13 @@
       <para>
         <num>(2)</num>
         <text>Amendatory section 5b(a) of the District of Columbia Public Emergency Act of 1980, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 7-2304.02(a)), in subsection (c) is amended by striking the phrase "Upon the Mayor's declaration of a public health emergency pursuant to section 5a, and for a period not exceeding 90 days after the end of the public health emergency, the Mayor may, notwithstanding the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 <em>et seq.</em>), and in the Mayor's sole discretion, issue a grant or loan to a program, organization, business, or entity to assist the District in responding to the public health emergency, including a grant or loan for the purpose of" and inserting the phrase "Notwithstanding the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 <em>et seq.</em>), from March 11, 2020 until November 5, 2021, the Mayor may issue a grant or loan to a program, organization, business, or entity, including a grant or loan for the purpose of" in its place.</text>
-        <codify:emergency doc="D.C. Code" path="§7-2304.02" codified:doc="D.C. Code" codified:path="§7-2304.02" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§7-2304" action="amendment to public health emergency response grants" codified:doc="D.C. Code" codified:path="§7-2304" codified:display="Note"/>
       </para>
     </para>
     <para>
       <num>(z)</num>
       <text>Section 508(b) is amended by striking the phrase "60 days after the end of a public health emergency declared by the Mayor pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)," and inserting the phrase "November 5, 2021" in its place.</text>
-      <codify:emergency doc="D.C. Code" path="§4-131" codified:doc="D.C. Code" codified:path="§4-131" codified:display="Note"/>
+      <codify:emergency doc="D.C. Code" path="§4-126" action="extension of eligibility period after the end of a public health emergency" codified:doc="D.C. Code" codified:path="§4-126" codified:display="Note"/>
     </para>
     <para>
       <num>(aa)</num>
@@ -490,12 +490,12 @@
     <para>
       <num>(bb)</num>
       <text>Section 512 is repealed.</text>
-      <codify:emergency doc="D.C. Code" path="§7-691" codified:doc="D.C. Code" codified:path="§7-691" codified:display="Note"/>
+      <codify:emergency doc="D.C. Code" path="§7-682" action="amendment to Long-Term Care Facility reporting of positive cases" codified:doc="D.C. Code" codified:path="§7-682" codified:display="Note"/>
     </para>
     <para>
       <num>(cc)</num>
       <text>The lead-in language in amendatory section 316a of the Human Rights Act of 1977, effective June 24, 2021 (D.C. Law 24-9; D.C. Official Code § 2-1403.16a), in section 702 is amended by striking the phrase "a period of time for which the Mayor has declared a public health emergency ("PHE") pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), in a civil action initiated by the Attorney General for the District of Columbia ("Attorney General") for violations of this act, or a civil action arising in connection with the PHE" and inserting the phrase "the period of time from March 11, 2020, until November 5, 2021, for violations of this act, or a civil action arising in connection with the public health emergency declared by the Mayor on March 11, 2020 (Mayor's Order 2020-046)" in its place.</text>
-      <codify:emergency doc="D.C. Code" path="§2-1403.16a" codified:doc="D.C. Code" codified:path="§2-1403.16a" codified:display="Note"/>
+      <codify:emergency doc="D.C. Code" path="§2-1403.16" action="amendment of civil actions by the Attorney General during a period of public health emergency" codified:doc="D.C. Code" codified:path="§2-1403.16" codified:display="Note"/>
     </para>
     <para>
       <num>(dd)</num>
@@ -577,7 +577,7 @@
       <para>
         <num>(2)</num>
         <text>Amendatory section 18-113(f) of the District of Columbia Official Code in subsection (c) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01" and inserting the phrase "during the period from March 11, 2020, until November 5, 2021" in its place.</text>
-        <codify:emergency doc="D.C. Code" path="§18-113" codified:doc="D.C. Code" codified:path="§18-113" codified:display="Note"/>
+        <codify:emergency doc="D.C. Code" path="§18-112" action="amendment of provision for Electronic wills" codified:doc="D.C. Code" codified:path="§18-112" codified:display="Note"/>
       </para>
     </para>
     <para>

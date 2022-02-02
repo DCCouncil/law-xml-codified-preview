@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-576</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on April 23, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-576(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Notice of meetings.</heading>
   <text>Before meeting in open or closed session, a public body shall provide advance public notice as follows:</text>
   <para>
@@ -57,5 +60,7 @@
     <annotation app="2021-10-25" doc="D.C. Act 24-181" eff="2021-10-25" path="§5|(b)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-39" path="§3|(ee)|(2)" codified:display="Note" app="2021-10-27" eff="2021-10-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-39" path="§3|(ee)|(2)">§ 3(ee)(2) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Temporary Amendment Act of 2021 (D.C. Law 24-39, Oct. 27, 2021, 68 DCR 009487)</cite>.</annotation>
     <annotation app="2021-10-27" doc="D.C. Law 24-39" eff="2021-10-27" path="§3|(ee)|(2)" type="History" display="false"/>
+    <annotation app="2022-01-24" doc="D.C. Act 24-306" eff="2022-01-24" path="§5|(b)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-306" path="§5|(b)" codified:display="Note" app="2022-01-24" eff="2022-01-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-306" path="§5|(b)">§ 5(b) of Post-Public Health Emergency Protections Extension Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-306, Jan. 24, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

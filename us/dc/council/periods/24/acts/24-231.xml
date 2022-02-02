@@ -374,10 +374,6 @@
       <para codify:path="(a-1)|(2)|(C)">
         <num>(2)</num>
         <text>Subsection (a-1)(C) is amended by striking the phrase "when the summons was posted" and inserting the phrase "when the summons or notice was posted" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3505.01|(a-1)|(2)|(C)">
-          <find>when the summons was posted</find>
-          <replace>when the summons or notice was posted</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(b-1)">
         <num>(3)</num>
@@ -573,7 +569,6 @@
         <text>Subsection (r) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§42-3505.01|(r)"/>
             <num>(r)</num>
             <text>No tenant shall be evicted from a rental unit unless the housing provider provides documentation to the court at the time of filing a writ of restitution demonstrating that the housing provider has a current business license for rental housing issued pursuant to <code-cite doc="D.C. Code" path="§47-2828|(c)|(1)">D.C. Official Code § 47-2828(c)(1)</code-cite>.</text>
           </para>

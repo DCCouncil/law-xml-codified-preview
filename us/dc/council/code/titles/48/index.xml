@@ -112,6 +112,7 @@
     <num>6A</num>
     <heading>Third-party Food Delivery.</heading>
     <annotation app="2021-12-22" doc="D.C. Act 24-250" eff="2021-12-22" path="" type="History" display="false"/>
+    <xi:include href="./sections/48-651.xml"/>
     <xi:include href="./sections/48-653.xml"/>
   </container>
   <subheading>Subtitle II. Prescription Drugs.</subheading>

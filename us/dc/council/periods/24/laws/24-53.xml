@@ -1,25 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 24-196">
-  <num type="bill">24-439</num>
-  <num type="act">24-196</num>
-  <heading type="short">Child Wealth Building Emergency Act of 2021</heading>
-  <heading type="long">To establish, on an emergency basis, the Child Trust Fund and the Child Trust Fund Program to provide a subsidized wealth building and investment account for certain children.</heading>
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 24-53">
+  <num type="law">24-53</num>
+  <num type="bill">24-236</num>
+  <num type="act">24-228</num>
+  <heading type="short">Child Wealth Building Act of 2021</heading>
+  <heading type="long">To establish the Child Trust Fund and the Child Trust Fund Program to provide a subsidized wealth building and investment account for certain children.</heading>
   <meta>
-    <introduced>2021-10-14</introduced>
-    <effective>2021-10-01</effective>
+    <introduced>2021-05-03</introduced>
+    <effective>2022-02-18</effective>
     <citations>
-      <citation type="act" url="https://lims.dccouncil.us/downloads/LIMS/48021/Signed_Act/B24-0439-Signed_Act.pdf">D.C. Act 24-196</citation>
-      <citation type="register">68 DCR 011607</citation>
+      <citation type="law" url="https://lims.dccouncil.us/downloads/LIMS/47105/Signed_Act/B24-0236-Signed_Act.pdf">D.C. Law 24-53</citation>
+      <citation type="act" url="https://lims.dccouncil.us/downloads/LIMS/47105/Signed_Act/B24-0236-Signed_Act.pdf">D.C. Act 24-228</citation>
+      <citation type="register">68 DCR 013227</citation>
     </citations>
-    <history url="https://lims.dccouncil.us/Legislation/B24-0439">
-      <vote date="2021-10-19" reading="Final"/>
-      <enacted>2021-10-01</enacted>
-      <summary/>
-      <committee>Retained by the Council</committee>
+    <history url="https://lims.dccouncil.us/Legislation/B24-0236">
+      <vote date="2021-11-02" reading="First"/>
+      <vote date="2021-12-07" reading="Final"/>
+      <enacted>2021-12-13</enacted>
+      <summary>BILL SUMMARY - As introduced, Bill 24-236  would provide a District government-sponsored trust fund for babies born in the District beginning in Tax Year 2022. It would apply to households whose income does not exceed 500% of the Federal Poverty Level (FPL), currently $132,000 for a household of four. Enrollment would be automatic and each eligible child’s trust fund would receive an initial deposit of $1,000. Deposits in subsequent years would increase up to $2,000 depending on household income. At age 18, eligible children may withdraw trust fund proceeds for specified purposes.</summary>
+      <committee>Business and Economic Development</committee>
     </history>
   </meta>
-  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Child Wealth Building Emergency Act of 2021".</text>
+  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Child Wealth Building Act of 2021".</text>
+  <codify:insert doc="D.C. Code" path="4" after="6C" history="false" codified:doc="D.C. Code" codified:path="4|6D">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>6D</num>
+      <heading>Building Child Wealth.</heading>
+    </container>
+  </codify:insert>
   <section>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.01" codified:doc="D.C. Code" codified:path="§4-681.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <para>
@@ -58,7 +69,7 @@
       </para>
       <para>
         <num>(7)</num>
-        <text>"Disability certification" means a written certification, determined to be satisfactory by the Chief Financial Officer or rules issued pursuant to <code-cite doc="D.C. Code" path="4|6D">this act</code-cite>, of a diagnoses from a licensed doctor and signed by a licensed physician that the eligible child has a medically determinable physical or mental impairment that results in marked and severe functional limitations lasting for a continuous 12 months or longer or that can be expected to result in death.</text>
+        <text>"Disability certification" means a written certification, determined to be satisfactory by the Chief Financial Officer or rules issued pursuant to <code-cite doc="D.C. Code" path="4|6D">this act</code-cite>, of a diagnosis from a licensed doctor and signed by a licensed physician that the eligible child has a medically determinable physical or mental impairment that results in marked and severe functional limitations lasting for a continuous 12 months or longer or that can be expected to result in death.</text>
       </para>
       <para>
         <num>(8)</num>
@@ -111,9 +122,9 @@
         <text>"Medicaid" means the medical assistance programs authorized by title XIX of the Social Security Act, approved July 30,1965 (79 Stat. 343; 42 U.S.C. § 1396 <em>et seq</em>.), or by <code-cite doc="D.C. Code" path="§1-307.02">section 1 of An Act To enable the District of Columbia to receive Federal financial assistance under title XIX of the Social Security Act for a medical assistance program, and for other purposes, approved December 27, 1967 (81 Stat. 744; D.C. Official Code § 1-307.02)</code-cite>.</text>
       </para>
     </para>
-    <codify:emergency-new-sec doc="D.C. Code" path="§4-681.01" interim-path="§4-671.12" perm-eff="2022-02-18" codified:doc="D.C. Code" codified:path="§4-681.01" codified:display="Note"/>
   </section>
   <section>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.02" codified:doc="D.C. Code" codified:path="§4-681.02"/>
     <num>3</num>
     <heading>Child Trust Fund.</heading>
     <para>
@@ -134,7 +145,7 @@
     </para>
     <para>
       <num>(c)</num>
-      <text>Money in the Fund shall be used for the purpose of establishing investment accounts for eligible children in the CTF Program in accordance with <code-cite doc="D.C. Code" path="4|6D">this act</code-cite> and rules issued pursuant to <code-cite doc="D.C. Code" path="4|6D">this act</code-cite>.</text>
+      <text>Money in the Fund shall be used for the purpose of establishing a child trust fund account for each eligible child in the CTF Program in accordance with <code-cite doc="D.C. Code" path="4|6D">this act</code-cite> and rules issued pursuant to <code-cite doc="D.C. Code" path="4|6D">this act</code-cite>.</text>
     </para>
     <para>
       <num>(d)</num>
@@ -175,7 +186,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Prior to distribution pursuant <code-cite doc="D.C. Code" path="§4-681.06">section 7</code-cite>, and notwithstanding any other law, money in the Fund designated for an eligible child enrolled in in the CFT program may not be considered:</text>
+        <text>Prior to distribution pursuant <code-cite doc="D.C. Code" path="§4-681.06">section 7</code-cite>, and not withstanding any other law, money in the Fund designated for an eligible child enrolled in in the CFT program may not be considered:</text>
         <para>
           <num>(A)</num>
           <text>Gross income of the eligible child or the parent; or</text>
@@ -186,9 +197,9 @@
         </para>
       </para>
     </para>
-    <codify:emergency-new-sec doc="D.C. Code" path="§4-681.02" interim-path="§4-671.12" perm-eff="2022-02-18" codified:doc="D.C. Code" codified:path="§4-681.02" codified:display="Note"/>
   </section>
   <section>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.03" codified:doc="D.C. Code" codified:path="§4-681.03"/>
     <num>4</num>
     <heading>Child Trust Fund Program.</heading>
     <para>
@@ -249,22 +260,22 @@
       <num>(d)</num>
       <text>If a household is no longer enrolled in the DC Medicaid program or if the household's income increases above the federal poverty guideline, the annual deposit amounts shall cease but the amounts credited to the eligible child's trust fund account during the period of deposits shall remain available for distribution pursuant to <code-cite doc="D.C. Code" path="§4-681.06">section 7</code-cite>.</text>
     </para>
-    <codify:emergency-new-sec doc="D.C. Code" path="§4-681.03" interim-path="§4-671.12" perm-eff="2022-02-18" codified:doc="D.C. Code" codified:path="§4-681.03" codified:display="Note"/>
   </section>
   <section>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.04" codified:doc="D.C. Code" codified:path="§4-681.04"/>
     <num>5</num>
     <heading>Independent fiduciary.</heading>
     <text>The Chief Financial Officer may enter into a contract with an independent fiduciary to administer the Fund and the CTF Program.</text>
-    <codify:emergency-new-sec doc="D.C. Code" path="§4-681.04" interim-path="§4-671.12" perm-eff="2022-02-18" codified:doc="D.C. Code" codified:path="§4-681.04" codified:display="Note"/>
   </section>
   <section>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.05" codified:doc="D.C. Code" codified:path="§4-681.05"/>
     <num>6</num>
     <heading>Enrollment in the CTF Program; denial.</heading>
     <para>
       <num>(a)</num>
       <para>
         <num>(1)</num>
-        <text>Enrollment in the CTF Program shall be automatic. Beginning within 60 days after <span codify:value="November 2, 2021">the effective date of this act</span>, the Chief Financial Officer shall obtain from the agencies the information required by paragraph (2) of this subsection and issue rules pursuant to <code-cite doc="D.C. Code" path="4|6D">this act</code-cite>.</text>
+        <text>Enrollment in the CTF Program shall be automatic. Beginning within 60 days after <span codify:value="December 13, 2021">the applicability date of this act</span>, the Chief Financial Officer shall obtain from the agencies the information required by paragraph (2) of this subsection and issue rules pursuant to <code-cite doc="D.C. Code" path="4|6D">this act</code-cite>.</text>
       </para>
       <para>
         <num>(2)</num>
@@ -282,9 +293,9 @@
         <text>The Chief Financial Officer shall send written notification to the parent informing the parent of the child's enrollment in the CTF Program.</text>
       </para>
     </para>
-    <codify:emergency-new-sec doc="D.C. Code" path="§4-681.05" interim-path="§4-671.12" perm-eff="2022-02-18" codified:doc="D.C. Code" codified:path="§4-681.05" codified:display="Note"/>
   </section>
   <section>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.06" codified:doc="D.C. Code" codified:path="§4-681.06"/>
     <num>7</num>
     <heading>Distribution of funds.</heading>
     <para>
@@ -336,9 +347,9 @@
         <text>No funds may be distributed unless the enrollee certifies, in accordance with rules issued by the Chief Financial Officer, that the enrollee is a bona fide resident of the District and that the distributed funds shall be used for a purpose listed in paragraph (1) of this subsection.</text>
       </para>
     </para>
-    <codify:emergency-new-sec doc="D.C. Code" path="§4-681.06" interim-path="§4-671.12" perm-eff="2022-02-18" codified:doc="D.C. Code" codified:path="§4-681.06" codified:display="Note"/>
   </section>
   <section>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.07" codified:doc="D.C. Code" codified:path="§4-681.07"/>
     <num>8</num>
     <heading>Reporting requirement.</heading>
     <para>
@@ -377,13 +388,12 @@
         <text>Recommendations for improving the CTF Program.</text>
       </para>
     </para>
-    <codify:emergency-new-sec doc="D.C. Code" path="§4-681.07" interim-path="§4-671.12" perm-eff="2022-02-18" codified:doc="D.C. Code" codified:path="§4-681.07" codified:display="Note"/>
   </section>
   <section>
+    <codify:insert doc="D.C. Code" path="4|6D" num-value="4-681.08" codified:doc="D.C. Code" codified:path="§4-681.08"/>
     <num>9</num>
     <heading>Rules.</heading>
-    <text>Within 60 days after <span codify:value="November 1, 2021">the effective date of this act</span>, the Chief Financial Officer shall issue rules to implement <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§4-681.01" codify:value="4-681.01">2</code-cite> through <code-cite doc="D.C. Code" path="§4-681.06" codify:value="4-681.06">7</code-cite>.  In drafting the rules, the Chief Financial Officer may consult with the agencies as the Chief Financial Officers considers necessary and appropriate.</text>
-    <codify:emergency-new-sec doc="D.C. Code" path="§4-681.08" interim-path="§4-671.12" perm-eff="2022-02-18" codified:doc="D.C. Code" codified:path="§4-681.08" codified:display="Note"/>
+    <text>Within 60 days after <span codify:value="December 13, 2021">the applicability date of this act</span>, the Chief Financial Officer shall issue rules to implement <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§4-681.01" codify:value="4-681.01">2</code-cite> through <code-cite doc="D.C. Code" path="§4-681.06" codify:value="4-681.06">7</code-cite>.  In drafting the rules, the Chief Financial Officer may consult with the agencies as the Chief Financial Officers considers necessary and appropriate.</text>
   </section>
   <section>
     <num>10</num>
@@ -393,28 +403,22 @@
       <text>Section 47-1803.02(a)(2) of the District of Columbia Official Code is amended by adding a new subparagraph (QQ) to read as follows:</text>
       <include lvl="2">
         <para>
+          <codify:insert doc="D.C. Code" path="§47-1803.02|(a)|(2)" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(QQ)"/>
           <num>(QQ)</num>
-          <text>The amount received by an individual pursuant to <span codify:value="["/><code-cite doc="D.C. Code" path="§4-681.05">section 6 of the Child Wealth Building Act of 2021, as introduced on May 3, 2021 (Bill 24-236)</code-cite><span codify:value="]"/>.</text>
+          <text>The amount received by an individual pursuant to <code-cite doc="D.C. Code" path="§4-681.05">section 6 of the Child Wealth Building Act of 2021, as introduced on May 3, 2021 (Bill 24-236)</code-cite>.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:emergency doc="D.C. Code" path="§47-1803.02" codified:doc="D.C. Code" codified:path="§47-1803.02" codified:display="Note"/>
     </para>
   </section>
   <section>
     <num>11</num>
-    <heading>Applicability.</heading>
-    <text>This act shall apply as of October 1, 2021.</text>
+    <heading>Fiscal impact statement.</heading>
+    <text>The Council adopts the fiscal impact statement in the committee report as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
   </section>
   <section>
     <num>12</num>
-    <heading>Fiscal impact statement.</heading>
-    <text>The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
-  </section>
-  <section>
-    <num>13</num>
     <heading>Effective date.</heading>
-    <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), and shall remain in effect for no longer than 90 days, as provided for emergency acts of the Council of the District of Columbia in section</text>
-    <text>412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788; D.C. Official Code § 1-204.12(a)).</text>
+    <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register.</text>
   </section>
 </document>

@@ -11,6 +11,7 @@
       <html-bulk>https://github.com/dccouncil/law-html</html-bulk>
       <html>https://code.dccouncil.us</html>
       <static-assets>https://github.com/dccouncil/law-static-assets</static-assets>
+      <law-git>https://github.com/dccouncil/law.git</law-git>
     </canonical-urls>
     <redirects>
       <redirect>
@@ -20,7 +21,7 @@
     </redirects>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="DCCouncil/law-xml" commit="07dbdf1ed39f1506b01f1de7e832a16df3a6c6ca"/>
+        <repository name="DCCouncil/law-xml" commit="9b7b47775b6077bc0675eef8ea9e721b6e651c9d"/>
       </repositories>
       <platform version="2.4.9" reproducible="false"/>
       <build-date>2022-03-04</build-date>

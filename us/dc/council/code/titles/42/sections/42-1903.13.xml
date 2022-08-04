@@ -160,7 +160,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>The lien for assessments provided herein shall lapse and be of no further effect as to unpaid assessments (or installments thereof) together with interest accrued thereon and late charges, if any, if such lien is not discharged or if foreclosure or other proceedings to enforce the lien have not been instituted within 3 years from the date such assessment (or any installment thereof) become due and payable.</text>
+    <text>The lien for assessments provided herein shall lapse and be of no further effect as to unpaid assessments (or installments thereof) together with interest accrued thereon and late charges, if any, if such lien is not discharged or if foreclosure or other proceedings to enforce the lien have not been instituted within 3 years, not including any period of time from March 11, 2020, to September 30, 2022, from the date such assessment (or any installment thereof) become due and payable.</text>
   </para>
   <para>
     <num>(f)</num>
@@ -207,5 +207,6 @@
     <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§408|(b)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§408|(b)" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-9" path="§408|(b)">§ 408(b) of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§408|(b)" type="History" display="false"/>
+    <annotation app="2022-07-25" doc="D.C. Act 24-508" eff="2022-07-25" path="§3" type="History"/>
   </annotations>
 </section>

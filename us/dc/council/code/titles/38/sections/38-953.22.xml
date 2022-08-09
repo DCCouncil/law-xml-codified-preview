@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-953.22</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on October 25, 2022.*
+      </text>
   <heading>Student immunizations.</heading>
   <para>
     <num>(a)</num>
@@ -41,8 +44,16 @@
     <num>(d)</num>
     <text>Student immunization reports shall comply with medical privacy requirements and precautions pursuant to the Health Insurance Portability and Accountability Act of 1996, approved August 21, 1996 (110 Stat. 1936; 42 U.S.C. § 1320d <em>et seq.</em>), and the Family Educational Rights and Privacy Act of 1974, approved August 21, 1974 (88 Stat. 571; 20 U.S.C. § 1232g), and any regulations issued pursuant to those acts.</text>
   </para>
+  <codify:emergency doc="D.C. Code" path="§38-953.22" codified:doc="D.C. Code" codified:path="§38-953.22" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§38-953.22" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-953.22">
+    <text>
+      *NOTE: This section was created by emergency legislation that will expire on October 25, 2022.*
+      </text>
+  </codify:insert>
   <annotations>
     <annotation app="2022-07-27" doc="D.C. Act 24-544" eff="2022-07-27" path="" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-544" eff="2022-07-27" path="§202" type="History" display="false"/>
     <annotation app="2022-07-27" doc="D.C. Act 24-544" eff="2022-07-27" path="§202" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-544" path="§202" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-544" path="§202">§ 202 of Back-to-School Safely Emergency Act of 2022 (D.C. Act 24-544, July 27, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

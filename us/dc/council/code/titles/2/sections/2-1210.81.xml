@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1210.81</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on October 25, 2022.*
+      </text>
   <heading>SSBCI-Venture Capital Program; establishment.</heading>
   <para>
     <num>(a)</num>
@@ -22,8 +25,16 @@
     <num>(c)</num>
     <text>The purpose of SSBCI-Venture Capital Program will be to provide grants to a program administrator selected by the Mayor to make long-term investments in the form of loans and equity investments in the local business community in accordance with the official program guidance of the U.S. Department of the Treasury.</text>
   </para>
+  <codify:emergency doc="D.C. Code" path="§2-1210.81" codified:doc="D.C. Code" codified:path="§2-1210.81" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§2-1210.81" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1210.81">
+    <text>
+      *NOTE: This section was created by emergency legislation that will expire on October 25, 2022.*
+      </text>
+  </codify:insert>
   <annotations>
     <annotation app="2022-07-27" doc="D.C. Act 24-536" eff="2022-07-27" path="" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-536" eff="2022-07-27" path="§2" type="History" display="false"/>
     <annotation app="2022-07-27" doc="D.C. Act 24-536" eff="2022-07-27" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-536" path="§2" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-536" path="§2">§ 2 of State Small Business Credit Initiative Venture Capital Program Grant-Making Establishment Emergency Amendment Act of 2022 (D.C. Act 24-536, July 27, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

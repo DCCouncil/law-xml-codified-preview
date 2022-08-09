@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>47-869</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 25, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-869(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Performing arts venue real property tax rebate.</heading>
   <para>
     <num>(a)</num>
@@ -12,7 +15,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The qualified business applies for the rebate of the tax on or before September 15of the tax year; and</text>
+      <text>The qualified business applies for the rebate of the tax on or before September 15 of the tax year; and</text>
     </para>
     <para>
       <num>(3)</num>
@@ -52,10 +55,10 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>The rebate provided pursuant to this section for a tax yea shall be:</text>
+    <text>The rebate provided pursuant to this section for a tax year shall be:</text>
     <para>
       <num>(1)</num>
-      <text>The lesser of the qualified business' pro rata share of the real property tax for the tax year that was paid, directly or indirectly, by the qualified business or $15,000 per applicant per yearqualified business; and</text>
+      <text>The lesser of the qualified business' pro rata share of the real property tax for the tax year that was paid, directly or indirectly, by the qualified business or $15,000 per applicant per year qualified business; and</text>
     </para>
     <para>
       <num>(2)</num>
@@ -76,6 +79,7 @@
           Applicability of <cite doc="D.C. Law 22-297">D.C. Law 22-297</cite>: <cite doc="D.C. Law 23-16" path="§7173">§ 7173 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-297" path="§3">§ 3 of D.C. Law 22-297</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-297">D.C. Law 22-297</cite> has been implemented.
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7173" type="History" display="false"/>
+    <annotation app="2022-07-27" doc="D.C. Act 24-523" eff="2022-07-27" path="§2|(b)" type="History" display="false"/>
     <annotation app="2022-07-27" doc="D.C. Act 24-523" eff="2022-07-27" path="§2|(b)|(1)" type="History"/>
     <annotation app="2022-07-27" doc="D.C. Act 24-523" eff="2022-07-27" path="§2|(b)|(2)|(B)" type="History"/>
     <annotation app="2022-07-27" doc="D.C. Act 24-523" eff="2022-07-27" path="§2|(b)|(2)|(C)" type="History"/>
@@ -85,5 +89,6 @@
     <annotation app="2022-07-27" doc="D.C. Act 24-523" eff="2022-07-27" path="§2|(b)|(4)|(A)" type="History"/>
     <annotation app="2022-07-27" doc="D.C. Act 24-523" eff="2022-07-27" path="§2|(b)|(4)|(B)|(i)" type="History"/>
     <annotation app="2022-07-27" doc="D.C. Act 24-523" eff="2022-07-27" path="§2|(b)|(4)|(B)|(ii)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-523" path="§2|(b)" codified:display="Note" app="2022-07-27" eff="2022-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-523" path="§2|(b)">§ 2(b) of Performing Arts Promotion Tax Rebate Clarification Emergency Amendment Act of 2022 (D.C. Act 24-523, July 27, 2022, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

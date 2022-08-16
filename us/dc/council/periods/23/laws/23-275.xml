@@ -1239,8 +1239,8 @@
   <section>
     <num>6</num>
     <text>Section 2(1) of the Accrued Sick and Safe Leave Act of 2008, effective May 13, 2008 (D.C. Law 17-152; D.C. Official Code § 32-531.01(1)), is amended by striking the phrase "§ 16-1001(5)" and inserting the phrase "§ 16-1001(8)" in its place.</text>
-    <codify:repeal doc="D.C. Code" path="§32-531.01|(1)" codified:doc="D.C. Code" codified:path="§32-531.01|(1)"/>
-    <codify:find-replace doc="D.C. Code" path="§32-531.01|(1)" count="1" codified:doc="D.C. Code" codified:path="§32-531.01|(1)">
+    <codify:repeal doc="D.C. Code" path="§32-531.01|(1)" codified:doc="D.C. Code" codified:path="§32-531.01"/>
+    <codify:find-replace doc="D.C. Code" path="§32-531.01|(1)" count="1" codified:doc="D.C. Code" codified:path="§32-531.01">
       <find>Repealed.</find>
       <replace> “Domestic violence” means an intrafamily offense as defined in <cite doc="D.C. Code" path="§16-1001|(8)">§ 16-1001(8)</cite>.</replace>
     </codify:find-replace>

@@ -46,7 +46,7 @@
       <text>Section 2(5) (D.C. Official Code § 32-531.01(5)) is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§32-531.01|(5)"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§32-531.01"/>
           <num>(5)</num>
           <text>"Paid leave" means:</text>
           <para>

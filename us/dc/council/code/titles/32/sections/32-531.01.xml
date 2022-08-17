@@ -1,268 +1,164 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-531.01</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on October 1, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-531.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
+  <text>For the purposes of this subchapter, the term:</text>
   <para>
     <num undesignated="true">(a)</num>
-    <text>For the purposes of this title, the term:</text>
-    <para>
+    <para placeholder="Repealed">
       <num>(1)</num>
-      <text>"An Act" means An Act To provide for the payment and collection of wages in the District of Columbia, approved August 3, 1956 (70 Stat. 976; D.C. Official Code § 32-1301 <em>et seq.</em>).</text>
+      <text> “Domestic violence” means an intrafamily offense as defined in <cite path="§16-1001|(8)">§ 16-1001(8)</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>"Broadcast employee" means an on- or off-air creator (such as an anchor, disc jockey, editor, producer, program host, reporter, or writer) of a legal entity that owns or operates one or more of the following:</text>
+      <text>“Employee” means any individual employed by an employer, but shall not include:</text>
       <para>
         <num>(A)</num>
-        <text>A television station or network;</text>
+        <text>Any individual who, without payment and without expectation of any gain, directly or indirectly, volunteers to engage in the activities of an educational, charitable, religious, or nonprofit organization;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>A radio station or network;</text>
+        <text>Any lay member elected or appointed to office within the discipline of any religious organization and engaged in religious functions;</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>A cable station or network;</text>
+        <text>Any individual employed as a casual babysitter, in or about the residence of the employer.</text>
       </para>
       <para>
         <num>(D)</num>
-        <text>Satellite-based services similar to a broadcast station or network; or</text>
+        <text>An independent contractor;</text>
       </para>
       <para>
         <num>(E)</num>
-        <text>Any other entity that provides broadcasting services such as news, weather, traffic, sports, or entertainment programming.</text>
+        <text>A student;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Health care workers who choose to participate in a premium pay program; or</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>A substitute teacher or a substitute aide who is employed by District of Columbia Public Schools for a period of 30 or fewer consecutive work days.</text>
       </para>
     </para>
     <para>
       <num>(3)</num>
-      <text>"Compensation" means all monetary remuneration an employer may pay or promise an employee.</text>
       <para>
         <num>(A)</num>
-        <text>The term includes:</text>
-        <para>
-          <num>(i)</num>
-          <text>Hourly wages;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Salary;</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>Bonuses or cash incentives;</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>Commissions;</text>
-        </para>
-        <para>
-          <num>(v)</num>
-          <text>Overtime premiums;</text>
-        </para>
-        <para>
-          <num>(vi)</num>
-          <text>Vested stock, including restricted stock units; and</text>
-        </para>
-        <para>
-          <num>(vii)</num>
-          <text>Other payments provided on a regular or irregular basis.</text>
-        </para>
+        <text>“Employer” means a legal entity (including a for-profit or nonprofit firm, partnership, proprietorship, sole proprietorship, limited liability company, association, or corporation), or any receiver or trustee of an entity (including the legal representative of a deceased individual or receiver or trustee of an individual), who directly or indirectly or through an agent or any other person, including through the services of a temporary services or staffing agency or similar entity, employs or exercises control over the wages, hours, or working conditions of an employee.</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>The term does not include fringe benefits other than those paid to the employee in cash or cash equivalents.</text>
+        <text>The term “employer” shall include the District government.</text>
       </para>
     </para>
     <para>
       <num>(4)</num>
-      <text>"Confidential employer information" means information owned or possessed by the employer that is not available to the general public and that the employer has taken reasonable steps to ensure is protected from improper disclosure.</text>
+      <text>“Family member” means:</text>
+      <para>
+        <num>(A)</num>
+        <para>
+          <num>(i)</num>
+          <text>A spouse, including the person identified by an employee as his or her domestic partner, as defined in § <cite path="§32-701" doc="D.C. Law 21-264">32-701</cite>(3);</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The parents of a spouse;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Children (including foster children and grandchildren);</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The spouses of children;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Parents;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Brothers and sisters; and</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>The spouses of brothers and sisters.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A child who lives with an employee and for whom the employee permanently assumes and discharges parental responsibility; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A person with whom the employee shares or has shared, for not less than the preceding 12 months, a mutual residence and with whom the employee maintains a committed relationship, as defined in <cite path="§32-701|(1)">§ 32-701(1)</cite>.</text>
+      </para>
     </para>
     <para>
       <num>(5)</num>
-      <text>"Conflict of commitment" means conduct that would compromise the ability of an employee of a higher education institution to perform employment duties for the institution because the activities risk interfering with the employee's primary duties for the institution.</text>
+      <text>"Paid leave" means:</text>
+      <para>
+        <num>(A)</num>
+        <text>Accrued increments of compensated leave provided by an employer for use by an employee during an absence from employment for any of the reasons specified in <cite path="§32-531.02|(b)">§ 32-531.02(b)</cite>; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Compensated leave required to be provided by an employer to an employee pursuant to § 32-531.02a [Expired] or <cite path="§32-531.02b">§ 32-531.02b</cite>.</text>
+      </para>
     </para>
     <para>
       <num>(6)</num>
-      <text>"Covered employee" means an employee who is not a highly compensated employee and:</text>
-      <para>
-        <num>(A)</num>
-        <text>If the employee has commenced work for the employer:</text>
-        <para>
-          <num>(i)</num>
-          <text>Spends more than 50% of his or her work time for the employer working in the District; or</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Whose employment for the employer is based in the District and the employee regularly spends a substantial amount of his or her work time for the employer in the District and not more than 50% of his or her work time for that employer in another jurisdiction; or</text>
-        </para>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>If not yet commenced work for the employer:</text>
-        <para>
-          <num>(i)</num>
-          <text>Has an employer that reasonably anticipates that the employee will spend more than 50% of his or her work time for the employer working in the District; or</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Whose employment for the employer will be based in the District and the employer reasonably anticipates that the employee will regularly spend a substantial amount of his or her work time for the employer in the District and not more than 50% of his or her work time for that employer in another jurisdiction.</text>
-        </para>
-      </para>
+      <text>“Premium pay program” means a plan offered by an employer pursuant to which an employee may elect to receive extra pay in lieu of benefits.</text>
     </para>
     <para>
       <num>(7)</num>
-      <text>"Employee":</text>
-      <para>
-        <num>(A)</num>
-        <text>Means:</text>
-        <para>
-          <num>(i)</num>
-          <text>An individual who performs work for pay in the District on behalf of an employer; or</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>An individual to whom the employer has made an offer of employment and who an employer reasonably anticipates will perform work for pay on behalf of the employer in the District.</text>
-        </para>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The term does not mean:</text>
-        <para>
-          <num>(i)</num>
-          <text>An individual employed as a casual babysitter in or about the residence of the employer; or</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>A partner in a partnership.</text>
-        </para>
-      </para>
+      <text>“Sexual abuse” means any offense described in Chapter 30 of Title 22 [§ <cite path="§22-3001" doc="D.C. Law 21-264">22-3001</cite> et seq.]</text>
     </para>
     <para>
       <num>(8)</num>
-      <text>"Employer" means an individual, partnership, general contractor, subcontractor, association, corporation, or business trust operating in the District, or any person or group of persons acting directly or indirectly in the interest of an employer operating in the District in relation to an employee, including a prospective employer.  The term does not mean the District government or the United States government</text>
+      <text>“Student” means an employee who:</text>
+      <para>
+        <num>(A)</num>
+        <para>
+          <num>(i)</num>
+          <text>Is a full-time student, as defined by an accredited institution of higher education;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Is employed by the institution at which the student is enrolled;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Is employed for less than 25 hours per week; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Does not replace an employee subject to this subchapter; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Is employed as part of the Year Round Program for Youth, as established by the Department of Employment Services.</text>
+      </para>
     </para>
     <para>
       <num>(9)</num>
-      <text>"Higher education institution" means a postsecondary educational institution accredited by an agency that the United States Department of Education recognizes as an accrediting agency.</text>
+      <text>"Substitute aide" means an individual who is employed by District of Columbia Public Schools to provide instructional assistance (general, specialized, or concentrated) to students on a temporary basis when the regular instructional aide is unavailable.  The term "substitute aide" does not include an individual employed by District of Columbia Public Schools on a term or full-time assignment.</text>
     </para>
     <para>
       <num>(10)</num>
-      <text>"Highly compensated employee" means, other than a broadcast employee, an employee:</text>
-      <para>
-        <num>(A)</num>
-        <text>Who is reasonably expected to earn from the employer in a consecutive 12-month period compensation greater than or equal to the minimum qualifying annual compensation; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Whose compensation earned from the employer in the consecutive 12-month period preceding the date on which the proposed term of non-competition is to begin is greater than or equal to the minimum qualifying annual compensation.</text>
-      </para>
-    </para>
-    <para>
-      <num>(11)</num>
-      <text>"Long-term incentive" means bonuses, equity compensation, stock options, restricted and unrestricted stock shares or units, performance stock shares or units, phantom stock shares, stock appreciation rights, and other performance driven incentives for individual or corporate achievements typically earned over more than one year.</text>
-    </para>
-    <para>
-      <num>(12)</num>
-      <text>"Medical specialist" means a highly compensated employee who is engaged primarily in the delivery of medical services and who:</text>
-      <para>
-        <num>(A)</num>
-        <text>Holds a license to practice medicine;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Is a physician;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Has completed a medical residency; and</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>Receives total compensation in the amount equal to or greater than $ 250,000.</text>
-      </para>
-    </para>
-    <para>
-      <num>(13)</num>
-      <text>"Minimum qualifying annual compensation" means:</text>
-      <para>
-        <num>(A)</num>
-        <text>Beginning with the calendar year in which this title becomes applicable:</text>
-        <para>
-          <num>(i)</num>
-          <text>$150,000; or</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>$250,000, if the employee is a medical specialist.</text>
-        </para>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>For the calendar year beginning January 1, 2024, and each calendar year thereafter, an amount equal to the previous calendar year's minimum qualifying annual compensation, increased in proportion to the annual average increase, if any, in the Consumer Price Index for All Urban Consumers in the Washington Metropolitan Statistical Area published by the Bureau of Labor Statistics of the United States Department of Labor for the previous calendar year adjusted to the nearest whole dollar.</text>
-      </para>
-    </para>
-    <para>
-      <num>(14)</num>
-      <text>"Non-compete agreement" means a contract between an employer and employee that has one or more non-compete provisions.</text>
-    </para>
-    <para>
-      <num>(15)</num>
-      <text>"Non-compete provision" means a provision in a written agreement or a workplace policy that prohibits an employee from performing work for another for pay or from operating the employee's own business. The term "non-compete provision" does not include an otherwise lawful provision:</text>
-      <para>
-        <num>(A)</num>
-        <text>Contained within or executed contemporaneously with an agreement between the seller of a business and one or more buyers of that business wherein the seller agrees not to compete with the buyer's business;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>That prohibits or restricts an employee from:</text>
-        <para>
-          <num>(i)</num>
-          <text>Disclosing, using, selling, or accessing the employer's confidential employer information or proprietary employer information;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Accepting money or a thing of value for performing work for a person other than the employer, during the employee's employment with the employer, because the employer reasonably believes the employee's acceptance of money or a thing of value under such circumstances will:</text>
-          <para>
-            <num>(I)</num>
-            <text>Result in the employee's disclosure or use of confidential employer information or proprietary employer information;</text>
-          </para>
-          <para>
-            <num>(II)</num>
-            <text>Conflict with the employer's, industry's, or profession's established rules regarding conflicts of interest;</text>
-          </para>
-          <para>
-            <num>(III)</num>
-            <text>Constitute a conflict of commitment if the employee is employed by a higher education institution; or</text>
-          </para>
-          <para>
-            <num>(IV)</num>
-            <text>Impair the employer's ability to comply with District or federal laws or regulations; a contract; or a grant agreement; or</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>That provides a long-term incentive.</text>
-      </para>
-    </para>
-    <para>
-      <num>(16)</num>
-      <text>"Proprietary employer information" means information unique to an employer that is compiled, created, or solicited by the employer, including customer lists, client lists, and trade secrets as that term is defined in section 2(4) of the Uniform Trade Secrets Act of 1988, effective March 16, 1989 (D.C. Law 7-216; D.C. Official Code § 36-401(4)).</text>
-    </para>
-    <para>
-      <num>(17)</num>
-      <text>"Retaliate" means to take an adverse action, including a threat, verbal warning, written warning, reduction of work hours, suspension, or termination against one or more employees.</text>
-    </para>
-    <para>
-      <num>(18)</num>
-      <text>"Term of non-competition" means the period of time specified in a non-compete provision during which the employee's work for a person other than the employer is prohibited.</text>
-    </para>
-    <para>
-      <num>(19)</num>
-      <text>"Workplace policy" means the rules and restrictions, whether written or as a matter of practice, implemented by an employer to govern the conduct of the employer's employees.</text>
+      <text>"Substitute teacher" means an individual who is employed by District of Columbia Public Schools to work as a classroom teacher on a temporary basis when the regular teacher is unavailable.  The term "substitute teacher" does not include an individual employed by District of Columbia Public Schools on a term or full-time assignment.</text>
     </para>
   </para>
   <annotations>
+    <text type="Editor's Notes">Section 7095 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> repealed section 18 of <cite doc="D.C. Law 17-152">D.C. Law 17-152</cite>.</text>
+    <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-89">D.C. Law 20-89</cite>: Section 3 of <cite doc="D.C. Law 20-89">D.C. Law 20-89</cite> provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
+    <text type="Editor's Notes">Section 3 of <cite doc="D.C. Law 20-91">D.C. Law 20-91</cite> was repealed by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 7003, effective Feb. 26, 2015.</text>
+    <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-157">D.C. Law 20-157</cite>: Section 7 of <cite doc="D.C. Law 20-157">D.C. Law 20-157</cite> provided that the act shall apply as of October 1, 2014, and that the act shall apply to violations occurring after October 1, 2014.</text>
     <annotation doc="D.C. Law 17-152" type="History" path="§2">May 13, 2008, D.C. Law 17-152, § 2, 55 DCR 3452</annotation>
     <annotation doc="D.C. Law 20-89" type="History">Feb. 22, 2014, D.C. Law 20-89, § 2(a), 61 DCR 317</annotation>
     <annotation doc="D.C. Law 21-160" type="History">Oct. 8, 2016, D.C. Law 21-160, § 7025, 63 DCR 10775</annotation>
@@ -287,6 +183,5 @@
     <annotation app="2022-02-18" doc="D.C. Law 24-61" eff="2022-02-18" path="§2|(a)" type="History" display="false"/>
     <annotation app="2022-02-18" doc="D.C. Law 24-61" eff="2022-02-18" path="§2|(a)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-61" path="§2|(a)" codified:display="Note" app="2022-02-18" eff="2022-02-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-61" path="§2|(a)">§ 2(a) of COVID Vaccination Leave Temporary Amendment Act of 2021 (D.C. Law 24-61, Feb. 18, 2022, 68 DCR 014074)</cite>.</annotation>
-    <annotation app="2022-08-15" doc="D.C. Act 24-552" eff="2022-08-15" path="§2|(a)" type="History"/>
   </annotations>
 </section>

@@ -645,6 +645,7 @@
     <xi:include href="./sections/7-771.07a.xml"/>
     <xi:include href="./sections/7-771.07b.xml"/>
     <xi:include href="./sections/7-771.07c.xml"/>
+    <xi:include href="./sections/7-771.07d.xml"/>
     <xi:include href="./sections/7-771.08.xml"/>
     <xi:include href="./sections/7-771.09.xml"/>
     <xi:include href="./sections/7-771.10.xml"/>
@@ -1749,6 +1750,7 @@
       <xi:include href="./sections/7-2371.02c.xml"/>
       <xi:include href="./sections/7-2371.03.xml"/>
       <xi:include href="./sections/7-2371.04.xml"/>
+      <xi:include href="./sections/7-2371.04a.xml"/>
       <xi:include href="./sections/7-2371.05.xml"/>
       <xi:include href="./sections/7-2371.06.xml"/>
     </container>

@@ -631,6 +631,13 @@
       <xi:include href="./sections/4-561.15.xml"/>
       <xi:include href="./sections/4-561.16.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V</num>
+      <heading>Office of Victim Services and Justice Grants Transparency.</heading>
+      <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="III" type="History" display="false"/>
+      <xi:include href="./sections/4-571.01.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -898,6 +905,13 @@
     <num>10</num>
     <heading>Burial Assistance Program.</heading>
     <xi:include href="./sections/4-1001.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10A</num>
+    <heading>Heirs' Property Legal Assistance.</heading>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="II" type="History" display="false"/>
+    <xi:include href="./sections/4-1051.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

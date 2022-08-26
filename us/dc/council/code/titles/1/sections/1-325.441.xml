@@ -14,18 +14,15 @@
       <text>Funds received by the District, regardless of whether such funds are received as a lump sum or series of payments to be made over time, in settlement of D.C. Superior Court cases:</text>
       <para>
         <num>(A)</num>
-        <heading>District of Columbia v. Johnson &amp; Johnson, et al.</heading>
-        <text>, Case No. 2022-CA-001441-B;</text>
+        <text><em>District of Columbia v. Johnson &amp; Johnson, et al., Case No. 2022-CA-001441-B</em>;</text>
       </para>
       <para>
         <num>(B)</num>
-        <heading>District of Columbia v. McKesson Cop, et al.</heading>
-        <text>, Case No. 2022-CA-001401-B; and</text>
+        <text><em>District of Columbia v. McKesson Cop, et al., Case No. 2022-CA-001401-B</em>; and</text>
       </para>
       <para>
         <num>(C)</num>
-        <heading>District of Columbia v. McKinsey &amp; Co.</heading>
-        <text>, Case No. 2021-CA-00327-B; and</text>
+        <text><em>District of Columbia v. McKinsey &amp; Co., Case No. 2021-CA-00327-B</em>; and</text>
       </para>
     </para>
     <para>
@@ -49,7 +46,7 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="V" type="History" display="false"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="V|B" type="History" display="false"/>
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§5012" type="History"/>
   </annotations>
 </section>

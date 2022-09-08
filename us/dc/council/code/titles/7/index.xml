@@ -1626,6 +1626,19 @@
     <xi:include href="./sections/7-2133.xml"/>
     <xi:include href="./sections/7-2134.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>21C</num>
+    <heading>Medical Necessity Restroom Access.</heading>
+    <annotation app="2022-08-27" doc="D.C. Law 24-153" eff="2022-08-27" path="" type="History" display="false"/>
+    <xi:include href="./sections/7-2141.xml"/>
+    <xi:include href="./sections/7-2142.xml"/>
+    <xi:include href="./sections/7-2143.xml"/>
+    <xi:include href="./sections/7-2144.xml"/>
+    <xi:include href="./sections/7-2145.xml"/>
+    <xi:include href="./sections/7-2146.xml"/>
+    <xi:include href="./sections/7-2147.xml"/>
+  </container>
   <subheading>Subtitle J. Public Safety.</subheading>
   <container>
     <prefix>Chapter</prefix>

@@ -922,7 +922,7 @@
         <prefix>Part</prefix>
         <num>C</num>
         <heading>Successor in Interest.</heading>
-        <annotation app="2022-07-27" doc="D.C. Act 24-520" eff="2022-07-27" path="" type="History" display="false"/>
+        <annotation app="2022-08-10" doc="D.C. Law 24-148" eff="2022-08-10" path="" type="History" display="false"/>
         <xi:include href="./sections/1-309.51.xml"/>
       </container>
     </container>
@@ -2821,6 +2821,7 @@
         <num>C</num>
         <heading>Conflicts of Interest.</heading>
         <xi:include href="./sections/1-1162.23.xml"/>
+        <xi:include href="./sections/1-1162.23a.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>

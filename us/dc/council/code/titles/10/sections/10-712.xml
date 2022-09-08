@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-712</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 11, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§10-712(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Assessments of public buildings for environmental risks.</heading>
   <para>
     <num>(a)</num>
@@ -214,7 +217,9 @@
     <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)" type="History"/>
     <annotation type="Applicability" doc="D.C. Act 24-159" path="§7205" codified:display="Note" app="2021-08-23" eff="2021-08-23">Applicability of <cite doc="D.C. Act 24-159" path=""/>: <cite doc="D.C. Act 24-159" path="§7205">§ 7205 of D.C. Act 24-159</cite> provided that the creation of subsection (b-1) of this section by <cite doc="D.C. Act 24-159" path="§7205">§ 7205 of D.C. Act 24-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7205" type="History"/>
+    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1032|(b)" type="History" display="false"/>
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1032|(b)|(1)" type="History"/>
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§1032|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-470" path="§1032|(b)" codified:display="Note" app="2022-07-13" eff="2022-07-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-470" path="§1032|(b)">§ 1032(b) of Fiscal Year 2023 Budget Support Emergency Act of 2022 (D.C. Act 24-470, July 13, 2022, 69 DCR 008707)</cite>.</annotation>
   </annotations>
 </section>

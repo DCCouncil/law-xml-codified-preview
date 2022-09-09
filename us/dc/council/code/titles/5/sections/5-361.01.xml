@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-361.01</num>
   <text>
-      *NOTE: This section was created by temporary legistation that will expire on September 26, 2022.*
+      *NOTE: This section was created by temporary legistation that will expire on March 25, 2023.*
       </text>
   <heading>Limitations on military weaponry acquired by District law enforcement agencies.</heading>
   <para>
@@ -60,7 +60,7 @@
   <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§5-361.01" applicability="2022-08-12" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§5-361.01">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-149" path="§120">§ 120 of Comprehensive Policing and Justice Reform Temporary Amendment Act of 2022 (D.C. Law 24-149, Aug. 12, 2022, 69 DCR 007767)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§5-361.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-361.01">
     <text>
-      *NOTE: This section was created by temporary legistation that will expire on September 26, 2022.*
+      *NOTE: This section was created by temporary legistation that will expire on March 25, 2023.*
       </text>
   </codify:insert>
   <annotations>

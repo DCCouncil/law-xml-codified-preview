@@ -32,9 +32,10 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>For the purposes of this section, the terms "telecommunicator cardiopulmonary resuscitation" and "t-CPR" mean the delivery of compression or ventilation instructions to callers who are reporting suspected cases of out-of-hospital cardiac arrest.</text>
+    <text>For the purposes of this section, "telecommunicator cardiopulmonary resuscitation" and "t-CPR" mean the delivery of compression or ventilation instructions to callers who are reporting suspected cases of out-of-hospital cardiac arrest.</text>
   </para>
   <annotations>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§3032" type="History"/>
+    <annotation doc="D.C. Law 15-205" type="History" path="§3205d">Dec. 7, 2004, D.C. Law 15-205, § 3205d</annotation>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3032" prefix="as added" type="History"/>
   </annotations>
 </section>

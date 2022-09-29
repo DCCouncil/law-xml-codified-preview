@@ -5,7 +5,7 @@
   <heading>Tax abatements for housing in downtown – Abatement period and caps.</heading>
   <para>
     <num>(a)</num>
-    <text>For each property for which a certification of tax abatement was issued under <cite path="§47-860.02|(e)">§ 47-860.02(e)</cite>, the real property tax imposed by <cite path="§47-811">§ 47-811</cite> shall be abated in an annual amount, as determined by the Mayor, per residential FAR square foot of real property multiplied by the building's total residential FAR square footage as certified by the project architect and the Mayor; provided, that:</text>
+    <text>For each property for which a certification of tax abatement was issued under § 47-860.02(e), the real property tax imposed by <cite path="§47-811">§ 47-811</cite> shall be abated in an annual amount, as determined by the Mayor, per residential FAR square foot of real property multiplied by the building's total residential FAR square footage as certified by the project architect and the Mayor; provided, that:</text>
     <para>
       <num>(1)</num>
       <text>The tax abatement shall begin in the tax year in which a certificate of occupancy is issued for the property and shall expire at the end of the 20th tax year after the tax year in which a certificate of occupancy is issued for the property; and</text>
@@ -28,7 +28,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The amount of tax abatements the Mayor may approve or certify under § 47-860.02 and restore under subsection (a)(2) of this section shall be capped at the following amounts, subject to the availability of funding:</text>
+    <text>The amount of tax abatements the Mayor may approve or certify under <cite path="§47-860.02">§ 47-860.02</cite> and restore under subsection (a)(2) of this section shall be capped at the following amounts, subject to the availability of funding:</text>
     <para>
       <num>(1)</num>
       <text>For Fiscal Years 2024, 2025, and 2026, up to $2.5 million;</text>
@@ -43,6 +43,6 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§7082|(b)" type="History"/>
+    <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§7082|(b)" type="History"/>
   </annotations>
 </section>

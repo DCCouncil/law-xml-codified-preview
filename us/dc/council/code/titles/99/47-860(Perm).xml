@@ -1,14 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <prefix>§</prefix>
-  <num>47-860</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on January 15, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-860(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>47-860(Perm)</num>
   <heading>Tax abatement for affordable housing in high-need affordable housing areas.</heading>
   <para>
     <num>(a)</num>
-    <text>Real property tax imposed by <cite path="§47-811">§ 47-811</cite> on real property certified as eligible pursuant to subsection (d) of this section shall be abated annually only up to the amount certified by the Mayor (subject to increases as authorized by subsection (b)(3) of this section) for the period set forth in subsection (c) of this section; provided, that:</text>
+    <text>Real property tax imposed by <cite path="§47-811">§ 47-811</cite> on real property certified as eligible pursuant to subsection (d) of this section shall be abated for the period set forth in subsection (c) of this section; provided, that:</text>
     <para>
       <num>(1)</num>
       <text>The real property is located in a high-need affordable housing area;</text>
@@ -27,7 +24,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>The developer enters into an agreement with the District that requires the developer to, at a minimum, contract with certified business enterprises for at least 35% of the contract dollar volume of the construction and operations of the project, in accordance with <cite path="§2-218.46">[§ 2-218.46]</cite>;</text>
+      <text>The developer enters into an agreement with the District that requires the developer to, at a minimum, contract with certified business enterprises for at least 35% of the contract dollar volume of the construction and operations of the project, in accordance with <cite path="§2-218.46">§ 2-218.46</cite>;</text>
     </para>
     <para>
       <num>(6)</num>
@@ -106,7 +103,7 @@
     <text>For the purposes of this section, the term:</text>
     <para>
       <num>(1)</num>
-      <text>"CBE Act" means <cite path="2|2|IX-A">[subchapter IX-A of Chapter 2 of Title 2]</cite>.</text>
+      <text>"CBE Act" means <cite path="2|2|IX-A">subchapter IX-A of Chapter 2 of Title 2</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -118,11 +115,11 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>"First Source Act" means<cite path="2|2|X">[subchapter X of Chapter 2 of Title 2]</cite>.</text>
+      <text>"First Source Act" means<cite path="2|2|X">subchapter X of Chapter 2 of Title 2</cite>.</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>"First Source Agreement" means an agreement with the District governing certain obligations of the Developer pursuant to <cite path="§2-219.03">[§ 2-219.03]</cite>, and Mayor's Order 83-265, dated November 9, 1983, regarding job creation and employment.</text>
+      <text>"First Source Agreement" means an agreement with the District governing certain obligations of the Developer pursuant to <cite path="§2-219.03">§ 2-219.03</cite>, and Mayor's Order 83-265, dated November 9, 1983, regarding job creation and employment.</text>
     </para>
     <para>
       <num>(6)</num>
@@ -130,21 +127,15 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>"Median Family Income" has the meaning set forth in <cite path="§6-1041.01|(5)">[§ 6-1041.01(5)]</cite>.[]</text>
+      <text>"Median Family Income" has the meaning set forth in <cite path="§6-1041.01|(5)">§ 6-1041.01(5)</cite>.[]</text>
     </para>
   </para>
   <para>
     <num>(h)</num>
-    <text>The Mayor, pursuant to <cite path="2|5|I">[subchapter I of Chapter 5 of Title 2]</cite>, may issue regulations to implement this section.</text>
+    <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, may issue regulations to implement this section.</text>
   </para>
   <annotations>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2062|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" path="§7132" codified:display="Note" app="2021-08-23" eff="2021-08-23" doc="D.C. Act 24-159">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§7132">§ 7132 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7132" type="History" display="false"/>
-    <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7132" type="History"/>
-    <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§7082|(b)" type="History" display="false"/>
-    <annotation app="2022-10-17" doc="D.C. Act 24-562" eff="2022-10-17" path="§2" type="History" display="false"/>
-    <annotation app="2022-10-17" doc="D.C. Act 24-562" eff="2022-10-17" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-562" path="§2" codified:display="Note" app="2022-10-17" eff="2022-10-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-562" path="§2">§ 2 of Tax Abatements for Affordable Housing in High-Need Areas Emergency Amendment Act of 2022 (D.C. Act 24-562, Oct. 17, 2022, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Law 23-149" type="History">Dec. 3, 2020, D.C. Law 23-149, § 2062, 67 DCR 10493</annotation>
+    <annotation doc="D.C. Law 24-45" type="History">Nov. 13, 2021, D.C. Law 24-45, § 7132, 68 DCR 10163</annotation>
   </annotations>
 </section>

@@ -839,7 +839,7 @@
       <num>131</num>
       <text>Section 101(5B)(B) of the District Department of the Environment Establishment Act of 2005, effective February 15, 2006 (D.C. Law 16-51; D.C. Official Code § 8-151.01(5B)(B)), is amended by striking the phrase "9 U.S.C. § 20301 <em>et seq.</em>" and inserting the phrase "49 U.S.C. § 20301 <em>et seq.</em>" in its place.</text>
       <codify:find-replace doc="D.C. Code" path="§8-151.01|(5B)|(B)" count="1" codified:doc="D.C. Code" codified:path="§8-151.01|(5B)|(B)">
-        <find>[49]</find>
+        <find>9 [[49]</find>
         <replace>49</replace>
       </codify:find-replace>
     </section>
@@ -922,6 +922,10 @@
     <section>
       <num>137</num>
       <text>Section 203e(d) of the Rental Housing Registration Update Amendment Act of 2018, effective October 30, 2018 (D.C. Law 22-168; D.C. Official Code § 42-3502.03e(d)), is amended by striking the phrase "203a" and inserting the phrase "203c" in its place.</text>
+      <codify:find-replace doc="D.C. Code" path="§42-3502.03e|(d)" count="1" codified:doc="D.C. Code" codified:path="§42-3502.03e|(d)">
+        <find>pursuant</find>
+        <replace>pursuant</replace>
+      </codify:find-replace>
     </section>
     <section>
       <num>138</num>
@@ -938,8 +942,8 @@
         <num>(b)</num>
         <text>Paragraph (4) is amended by striking the phrase "as defined" and inserting the phrase "as defined in" its place.</text>
         <codify:find-replace doc="D.C. Code" path="§42-3505.07|(a)|(4)" count="1" codified:doc="D.C. Code" codified:path="§42-3505.07|(a)|(4)">
-          <find>as defined</find>
-          <replace>as defined in</replace>
+          <find>[in]</find>
+          <replace/>
         </codify:find-replace>
       </para>
     </section>

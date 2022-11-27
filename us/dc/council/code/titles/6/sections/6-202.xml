@@ -11,6 +11,64 @@
     <text>The Authority shall govern public housing and implement the Housing Act of 1937 in the District, and shall be responsible for providing decent, safe, and sanitary dwellings, and related facilities, for persons and families of low-and moderate-income in the District.</text>
   </para>
   <para>
+    <num>(b-1)</num>
+    <para>
+      <num>(1)</num>
+      <text>No later than December 1, 2022, the Authority shall submit a report to the Mayor, Attorney General, and each Councilmember that details:</text>
+      <para>
+        <num>(A)</num>
+        <text>The sum of all requested repayment amounts HUD has requested;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The sources of the funds the Authority intends to use in making the repayments referenced in subparagraph (A) of this paragraph;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The total amount of security deposit interest owed to residents who have moved out of Housing Properties in the 3 years preceding December 1, 2022;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The total amount of overcharging and undercharging rent and housing assistance payments identified through HUD's required review of tenant files and the percentage of tenant files reviewed or corrected;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>A date certain by which the Authority will deliver a protocol for assessing properties for rent reasonableness, as required by the HUD rules.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <para>
+        <num>(A)</num>
+        <text>Beginning on December 1, 2022, and monthly thereafter, the Authority shall submit a report to the Mayor, Attorney General, and each Councilmember that details:</text>
+        <para>
+          <num>(i)</num>
+          <text>The amount of operating reserves, expressed in dollars and in months of expenses, for its public housing program, Housing Choice Voucher Program, and the Authority's operations overall;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The number of vacant public housing units classified by repair status, such as move-in ready, repairs in progress, and offline due to major repair needs;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The average length of time that Public-Housing-Assisted Units have been vacant in the prior year, by repair status; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>A detailed accounting of expenses paid for with District funds in the prior month and the expenses budgeted for payment with District funds in the remainder of the fiscal year.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>In lieu of the monthly reports required by subparagraph (A) of this paragraph ("reports"), the Authority may provide the Mayor, Attorney General, and each Councilmember with access to an online database through which the reports can be generated.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>If HUD designates the Authority as a Standard Performer or High Performer in HUD's Public Housing Assessment System or if the Authority demonstrates that the lack of such a designation is solely due to the presence of HUD's Moving to Work agreement with the Authority, the requirements of paragraph (2) of this subsection shall be waived for 12 months from the date the designation was received from HUD or documented by the Authority.</text>
+    </para>
+  </para>
+  <para>
     <num>(c)</num>
     <text>There is established the District of Columbia Housing Authority Fund ("Authority Fund"), which shall be a proprietary fund in the nature of an enterprise fund as classified under <cite path="§47-373">§ 47-373</cite> and administered by the Authority in accordance with generally accepted accounting principles. All revenues, rents, proceeds, and monies, from whatever source derived, that are collected or received by the Authority shall be credited to the Authority Fund and shall not at any time be transferred to, lapse into, or be commingled with the General Fund of the District or any other fund or account of the District; provided, that funds may be paid out of the Authority Fund to the District Treasurer to pay for goods, services, or property, or other things of value, if any, purchased by the Authority from the District.</text>
   </para>
@@ -147,5 +205,6 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2232|(b)|(1)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2232|(b)|(2)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2232|(b)|(3)" type="History"/>
+    <annotation app="2022-11-03" doc="D.C. Act 24-629" eff="2022-11-03" path="§2|(a)" type="History"/>
   </annotations>
 </section>

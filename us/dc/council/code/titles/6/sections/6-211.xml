@@ -108,7 +108,74 @@
   </para>
   <para>
     <num>(h)</num>
-    <text>All Commissioners shall spend at least 5 days per year in training or educational seminars on corporate governance, public housing law and regulations, labor and personnel, real estate and construction, or other subjects related to public housing development, operation, and management, the cost of which training shall be paid by the Authority.</text>
+    <para>
+      <num>(1)</num>
+      <text>Within 60 days after a Commissioner's appointment and on an annual basis thereafter, each Commissioner shall complete training offered by or in connection with HUD covering the following topics:</text>
+      <para>
+        <num>(A)</num>
+        <text>The role of a public housing agency board;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Ethics for public housing agencies and board members or commissioners;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Background on major housing authority programs, including public housing, Housing Choice Voucher Program, and the rental assistance demonstration;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Fair housing and reasonable accommodations;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Public housing authority budgets, financial oversight, and financial reporting; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Federal procurement requirements.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Within 90 days after a Commissioner's appointment and on an annual basis thereafter, each Commissioner shall complete training offered by or in connection with HUD covering the following topics:</text>
+      <para>
+        <num>(A)</num>
+        <text>Public housing authority performance monitoring and risk management;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>HUD reporting requirements;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Public housing asset management, development, redevelopment, disposition, and repositioning;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Objectives and requirements of HUD's Moving to Work program; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Resident opportunity, including HUD's Section 3 requirements for economic and employment opportunities.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>In addition to the training required in paragraphs (1) and (2) of this subsection, each Commissioner shall spend at least 4 hours per quarter in training or educational seminars on corporate governance, public housing law and regulations, federal or local language access guidelines, labor and personnel, real estate and construction, or other subjects related to public housing development, operation, and management, the maximum reimbursable cost of which shall be established by the Board and paid by the Authority.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A Commissioner appointed or re-appointed before October 15, 2022, shall complete training on federal procurement requirements within 30 days after November 3, 2022 the remainder of the trainings required in paragraph (1) of this subsection within 60 days after November 3, 2022, and the trainings required in paragraph (2) of this subsection within 90 days after November 3, 2022.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The Board shall monitor Commissioners' compliance with the training requirements of this subsection and provide a Commissioner a warning notice if the Commissioner is out of compliance with the requirements.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>If a Commissioner has not completed the training requirements within 15 days after the conclusion of the timeline specified in the applicable paragraph in this subsection, he or she shall be suspended from the Board until he or she is in compliance.</text>
+    </para>
   </para>
   <para>
     <num>(i)</num>
@@ -244,5 +311,6 @@
     <annotation app="2021-12-22" doc="D.C. Act 24-252" eff="2021-12-22" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-101" path="§2" codified:display="Note" app="2022-03-15" eff="2022-03-15">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-101" path="§2">§ 2 of District of Columbia Housing Authority Resident Commissioners Election Deadline Extension Temporary Amendment Act of 2021 (D.C. Law 24-101, Mar. 15, 2022, 69 DCR 000597)</cite>.</annotation>
     <annotation app="2022-03-15" doc="D.C. Law 24-101" eff="2022-03-15" path="§2" type="History" display="false"/>
+    <annotation app="2022-11-03" doc="D.C. Act 24-629" eff="2022-11-03" path="§2|(b)|(1)" type="History"/>
   </annotations>
 </section>

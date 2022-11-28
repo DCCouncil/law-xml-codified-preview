@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>6-213</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on February 1, 2023. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§6-213(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Executive Director.</heading>
   <para>
     <num>(a)</num>
@@ -82,7 +85,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>An Executive Director appointed or re-appointed before October 15, 2022, shall complete the trainings required in paragraph (1) within 30 days after the November 3, 2022.</text>
+      <text>An Executive Director appointed or re-appointed before October 15, 2022, shall complete the trainings required in paragraph (1) within 30 days after November 3, 2022.</text>
     </para>
   </para>
   <annotations>
@@ -90,6 +93,8 @@
     <annotation doc="D.C. Law 17-108" type="History">Feb. 6, 2008, D.C. Law 17-108, § 208(a), 54 DCR 10993</annotation>
     <annotation type="Emergency Legislation">For temporary (90-day) addition of section, see notes following <cite path="§6-201">§ 6-201</cite>.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-108">D.C. Law 17-108</cite>, in subsec. (a), inserted “The Executive Director shall be a District resident and shall remain a District residency throughout his or her term and failure to maintain District residency shall result in a forfeiture of the position.”</annotation>
+    <annotation app="2022-11-03" doc="D.C. Act 24-629" eff="2022-11-03" path="§2|(c)" type="History" display="false"/>
     <annotation app="2022-11-03" doc="D.C. Act 24-629" eff="2022-11-03" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-629" path="§2|(c)" codified:display="Note" app="2022-11-03" eff="2022-11-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-629" path="§2|(c)">§ 2(c) of Housing Authority Accountability Emergency Amendment Act of 2022 (D.C. Act 24-629, Nov. 3, 2022, 69 DCR 014026)</cite>.</annotation>
   </annotations>
 </section>

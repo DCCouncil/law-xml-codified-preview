@@ -1,52 +1,70 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 24-258">
-  <num type="act">24-258</num>
-  <num type="bill">24-495</num>
-  <heading type="short">McMillan Townhomes Parcels, Commercial Parcels, and Multifamily Parcels Extension of Disposition Authority Temporary Amendment Act of 2021</heading>
-  <heading type="long">To amend, on a temporary basis, An Act Authorizing the sale of certain real estate in the Districtof Columbia no longer required for public purposes to extend the time limit for the disposition of certain District-owned real properties located at 2501 1st Street, N.W., formerly the McMillan Sand Filtration Site, and known for tax and assessment purposes as Lot 0800 in Square 3128.</heading>
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 24-258">
+  <num type="law">24-258</num>
+  <num type="act">24-681</num>
+  <num type="bill">24-823</num>
+  <heading type="short">206 Elm St., N.W., Real Property Tax Abatement Amendment Act of 2022</heading>
+  <heading type="long">To amend Chapter 46 of Title 47 of the District of Columbia Official Code to exempt the real property designated for tax purposes as Lot 805, Square 3087, located at 206 Elm Street, N.W., from real property taxes for tax year 2023 in an amount not to exceed $30,000.</heading>
   <meta>
-    <introduced>2021-10-28</introduced>
-    <effective projected="true">2022-02-18</effective>
-    <temporary/>
+    <introduced>2022-05-23</introduced>
+    <effective>2023-02-23</effective>
     <citations>
-      <citation type="act" url="https://lims.dccouncil.us/downloads/LIMS/48196/Signed_Act/B24-0495-Signed_Act.pdf">D.C. Act 24-258</citation>
-      <citation type="register">68 DCR 014085</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/49627/Signed_Act/B24-0823-Signed_Act.pdf">D.C. Law 24-258</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/49627/Signed_Act/B24-0823-Signed_Act.pdf">D.C. Act 24-681</citation>
+      <citation type="register">69 DCR 15086</citation>
     </citations>
-    <history url="https://lims.dccouncil.us/Legislation/B24-0495">
-      <vote date="2021-11-02" reading="First"/>
-      <vote date="2021-12-07" reading="Final"/>
-      <enacted>2021-12-22</enacted>
-      <summary/>
-      <committee>Retained by the Council</committee>
+    <history url="https://lims.dccouncil.us/Legislation/B24-0823">
+      <vote date="2022-11-01" reading="First"/>
+      <vote date="2022-11-15" reading="Final"/>
+      <enacted>2022-12-08</enacted>
+      <summary>BILL SUMMARY - As introduced Bill 24-823 would provide a property tax abatement to the real property designated for tax purposes as Lot 805, Square 3087, located at 206 Elm Street, N.W. provided that the total abatement shall not exceed $30,000, during tax year 2023.</summary>
+      <committee>Business and Economic Development</committee>
     </history>
   </meta>
-  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "McMillan Townhomes Parcels, Commercial Parcels, and Multifamily Parcels Extension of Disposition Authority Temporary Amendment Act of 2021".</text>
+  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "206 Elm St., N.W., Real Property Tax Abatement Amendment Act of 2022".</text>
   <section>
     <num>2</num>
-    <text>Section 1 of An Act Authorizing the sale of certain real estate in the District of Columbia no longer required for public purposes, approved August 5, 1939 (53 Stat. 1211; D.C. Official Code § 10-801), is amended by adding a new subsection (d-9) to read as follows:</text>
-    <include>
-      <para>
-        <num>(d-9)</num>
-        <text>Notwithstanding subsection (d) of this section, the time period within which the Mayor may dispose of the District-owned real property located at 2501 1st Street, N.W., formerly the McMillan Sand Filtration Site, and known for tax and assessment purposes as Lot 0800 in Square 3128, pursuant to the McMillan Residential Townhomes Parcel Disposition Approval Resolution of 2014, effective December 2, 2014 (Res. 20-705; 62 DCR 1091), the McMillan Commercial Parcels Disposition Approval Resolution of 2014, effective December 2, 2014 (Res. 20-707; 62 DCR 1097), and the McMillan Residential Multifamily Parcels Disposition Approval Resolution of 2014, effective December 2, 2014 (Res. 20-706; 62 DCR 1094), and as extended by the McMillan Townhomes Parcel, Commercial Parcel, and Multifamily Parcels Disposition Extension Approval Resolution of 2015, effective November 3, 2015 (Res. 21-253; 66 DCR 4330), is extended to the expiration date of this subsection.</text>
-      </para>
-    </include>
-    <aftertext>.</aftertext>
-  </section>
-  <section>
-    <num>3</num>
-    <heading>Fiscal impact statement.</heading>
-    <text>The Council adopts the fiscal impact statement of the Chief Financial Officer as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
-  </section>
-  <section>
-    <num>4</num>
-    <heading>Effective date.</heading>
+    <text>Chapter 46 of Title 47 of the District of Columbia Official Code is amended as follows:</text>
     <para>
       <num>(a)</num>
-      <text>This act shall take effect following the approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of Congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788; D.C. Official Code § 1-206.02(c)(1), and publication in the District of Columbia Register.</text>
+      <text>The table of contents is amended by adding a new section designation to read as follows:</text>
+      <include>
+        <text>§ 47-4677: 206 Elm Street, N.W.; Lot 805, Square 3087.</text>
+      </include>
+      <aftertext>.</aftertext>
     </para>
     <para>
       <num>(b)</num>
-      <text>This act shall expire after 225 days of its having taken effect.</text>
+      <text>A new section 47-4677 is added to read as follows:</text>
+      <include>
+        <section>
+          <codify:insert doc="D.C. Code" path="47|46" codified:doc="D.C. Code" codified:path="§47-4677"/>
+          <prefix>§</prefix>
+          <num>47-4677</num>
+          <heading proof="needed">206 Elm Street, N.W.; Lot 805, Square 3087.</heading>
+          <text>The real property designated for tax purposes as Lot 805, Square 3087, located at 206 Elm Street, N.W., shall be exempt from the tax imposed by <cite doc="D.C. Code" path="47|8">Chapter 8 of this title</cite> during tax year 2023; except, that the total tax exemption shall not exceed $30,000.</text>
+        </section>
+      </include>
+      <aftertext>.</aftertext>
     </para>
+  </section>
+  <section>
+    <num>3</num>
+    <heading proof="needed">Technical amendment.</heading>
+    <text>The Square 5539 Tax Abatement Amendment Act of 2022, effective September 21, 2022 (D.C. Law 24-167; 69 DCR 9223), is amended by striking the phrase "47-4675" wherever it appears and inserting the phrase "47-4676" in its place.</text>
+    <codify:find-replace doc="D.C. Code" path="§[47-4676]" count="1" codified:doc="D.C. Code" codified:path="§47-4676">
+      <find>[47-4676]</find>
+      <replace>47-4676</replace>
+    </codify:find-replace>
+  </section>
+  <section>
+    <num>4</num>
+    <heading proof="needed">Fiscal impact statement.</heading>
+    <text>The Council adopts the fiscal impact statement in the committee report as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
+  </section>
+  <section>
+    <num>5</num>
+    <heading proof="needed">Effective date.</heading>
+    <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register.</text>
   </section>
 </document>

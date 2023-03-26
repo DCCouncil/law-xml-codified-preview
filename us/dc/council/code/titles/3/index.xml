@@ -601,6 +601,7 @@
       <xi:include href="./sections/3-1210.09.xml"/>
       <xi:include href="./sections/3-1210.10.xml"/>
       <xi:include href="./sections/3-1210.11.xml"/>
+      <xi:include href="./sections/[3-1210.12].xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

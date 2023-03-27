@@ -232,6 +232,7 @@
     <num>7</num>
     <heading>Commission for Women.</heading>
     <xi:include href="./sections/3-701.xml"/>
+    <xi:include href="./sections/3-701.01.xml"/>
     <xi:include href="./sections/3-702.xml"/>
     <xi:include href="./sections/3-703.xml"/>
     <xi:include href="./sections/3-704.xml"/>

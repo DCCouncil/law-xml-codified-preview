@@ -21,6 +21,7 @@
     <text>Civil fines and penalties may be imposed by the Mayor pursuant to the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-1801.01 <em>et seq.</em>) ("Civil Infractions Act"), for infraction of the rules. The adjudication of any such infraction, fine, or penalty shall be pursuant to the Civil Infractions Act.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 91-537" type="History" path="§3a">Dec. 8, 1970, 84 Stat. 1995, Pub. L. 91-537, § 3a</annotation>
     <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
     <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20" display="false">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed, on an emergency basis, <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
     <annotation app="2019-11-20" doc="D.C. Act 23-165" eff="2019-11-20" path="§6|(b)" type="History" display="false"/>
@@ -31,7 +32,7 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-509" path="§2" codified:display="Note" app="2023-02-24" eff="2022-07-25">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-509" path="§2">§ 2 of Hotel Enhanced Cleaning and Notice of Service Disruption Congressional Review Emergency Amendment Act of 2022 (D.C. Act 24-509, July 25, 2022, 69 DCR 009373)</cite>.</annotation>
     <annotation app="2023-02-24" doc="D.C. Act 24-509" eff="2022-07-25" path="§2" type="History" display="false"/>
     <annotation app="2023-02-24" doc="D.C. Act 25-29" eff="2023-02-24" path="§2" type="History" display="false"/>
-    <annotation app="2023-02-24" doc="D.C. Act 25-29" eff="2023-02-24" path="§2" type="History"/>
+    <annotation app="2023-02-24" doc="D.C. Act 25-29" eff="2023-02-24" path="§2" prefix="as added" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-29" path="§2" codified:display="Note" app="2023-02-24" eff="2023-02-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-29" path="§2">§ 2 of Hotel Enhanced Cleaning and Notice of Service Disruption Clarification Emergency Amendment Act of 2023 (D.C. Act 25-29, Feb. 24, 2023, 70 DCR 2963)</cite>.</annotation>
   </annotations>
 </section>

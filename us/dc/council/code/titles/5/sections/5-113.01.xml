@@ -174,7 +174,7 @@
       <text>Monthly, for the prior 5 fiscal years and the current fiscal year, to date, by month:</text>
       <para>
         <num>(A)</num>
-        <text>A staffing report of the number of sworn officers and civilian employees employed by MPD, by bureau, division, unit, and, if applicable, police service area and rank, with a crosswalk to compare actual staffing to funded and unfunded full-time equivalents in that bureau, division, unit, and if applicable, police service area and rank; and</text>
+        <text>A staffing report of the number of sworn officers and civilian employees employed by MPD, by bureau, division, unit, and, if applicable, police service area and rank, with a crosswalk to compare actual staffing to funded and unfunded full-time equivalents in that bureau, division, unit, and if applicable, police service area and rank;</text>
       </para>
       <para>
         <num>(B)</num>
@@ -185,8 +185,12 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>Were hired by MPD, broken down by civilian employees, cadets, cadet conversion recruits, non-cadet conversion recruits, officers, and senior police officers;</text>
+          <text>Were hired by MPD, broken down by civilian employees, cadets, cadet conversion recruits, non-cadet conversion recruits, officers, and senior police officers; and</text>
         </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Copies of the overtime pay spending reports submitted to the Council as described in subsection (d) of this section.</text>
       </para>
     </para>
     <para>
@@ -258,6 +262,10 @@
       </para>
     </para>
   </para>
+  <para>
+    <num>(d)</num>
+    <text>MPD shall provide a written report every 2 pay periods on MPD's overtime pay spending to the Council that describes the amount spent year-to-date on overtime pay and the staffing plan and conditions justifying the overtime pay.</text>
+  </para>
   <annotations>
     <annotation type="History" doc="R.S., D.C." path="§386">R.S., D.C., § 386</annotation>
     <annotation type="History">June 11, 1878, 20 Stat. 107, ch. 180, § 6</annotation>
@@ -304,5 +312,9 @@
     <annotation doc="D.C. Law 24-167" path="§3073" type="Applicability" history="false" app="2022-09-21" eff="2022-09-21"><cite doc="D.C. Law 24-167" path="§3073">Section 3073 of D.C. Law 24-167</cite> provides that the amendments made to subsection (a)(4B) of this section by section 3072(b) of D.C. Law 24-167 shall apply as of April 1, 2023.
         </annotation>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§3073" type="History" display="false"/>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§123|(a)|(1)" type="History"/>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§123|(a)|(2)" type="History"/>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§123|(a)|(3)" type="History"/>
+    <annotation app="2023-03-24" doc="D.C. Act 25-61" eff="2023-03-24" path="§123|(b)" type="History"/>
   </annotations>
 </section>

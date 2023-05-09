@@ -44,15 +44,27 @@
     <para>
       <num>(10)</num>
       <text>The Director of the Department; and</text>
+      <para>
+        <num>(10)</num>
+        <text>The Director of the Laboratory;</text>
+      </para>
     </para>
     <para>
       <num>(11)</num>
-      <text>The head of any other government agency that regularly utilizes the forensic science services or public health laboratory services of the Department.</text>
+      <text>The head of any other government agency that regularly utilizes the forensic science services or public health laboratory services of the Laboratory;</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>The chairperson of the Council committee with jurisdiction over the Laboratory; and</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>An exoneree whose wrongful conviction involved the misapplication or misunderstanding of forensic science or a representative of an organization serving such persons in the District.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(b)</num>
-    <text>The chairperson of the Judiciary Committee of the Council of the District of Columbia shall be an ex officio, non-voting member of the Stakeholder Council.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -61,13 +73,23 @@
   <para>
     <num>(d)</num>
     <text>The chairperson of the Stakeholder Council shall be the Deputy Mayor for Public Safety and Justice. In his or her absence, the Attorney General shall be the chairperson.</text>
+    <para>
+      <num>(d)</num>
+      <text>The chairperson of the Stakeholder Council shall be the Chief Medical Examiner. In the Chief Medical Examiner's absence, the Director of the Department of Health shall be the chairperson.</text>
+    </para>
   </para>
   <para>
     <num>(e)</num>
-    <text>The Stakeholder Council shall meet no fewer than 2 times per year. The chairperson shall fix the time and place of the meetings.</text>
+    <text>The Stakeholder Council shall meet no fewer than 4 times per year. The chairperson shall fix the time and place of the meetings.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 19-18" type="History" path="§14">Aug. 17, 2011, D.C. Law 19-18, § 14, 58 DCR 5403</annotation>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(i)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(r)|(1)|(A)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(r)|(1)|(B)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(r)|(1)|(C)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(r)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(r)|(3)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(r)|(4)" type="History"/>
   </annotations>
 </section>

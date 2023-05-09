@@ -115,11 +115,11 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>Each member of an advisory panel appointed pursuant to <cite path="§39-204|(6)">§ 39-204(6)</cite> may receive compensation from the Commission in the form of a stipend of up to $250 for each day the panel convenes to review applications[;]</text>
+      <text>Each member of an advisory panel appointed pursuant to <cite path="§39-204|(6)">§ 39-204(6)</cite> may receive compensation from the Commission in the form of a stipend of up to $250 for each day the panel convenes to review applications;</text>
     </para>
     <para>
       <num>(7)</num>
-      <text>Each member of the Concealed Pistol Licensing Review Board, except members who are District or federal government employees, shall be entitled to a stipend of $250 per week for their service on the board[; and]</text>
+      <text>Each member of the Concealed Pistol Licensing Review Board, except members who are District or federal government employees, shall be entitled to a stipend of $250 per week for their service on the board; and</text>
       <codify:find-replace path="(6)" count="1" codified:doc="D.C. Code" codified:path="§1-611.08|(c-2)|(6)">
         <find>; and</find>
         <replace>[;]</replace>
@@ -128,6 +128,10 @@
     <para>
       <num>[(8)]</num>
       <text>Each member of the Food Policy Council ("FPC") appointed pursuant to <cite path="§48-313">§ 48-313</cite>, may receive compensation in the form of a stipend of not more than $100 per meeting of the FPC or meeting of a formal working group of the FPC, in accordance with standards the Mayor may establish by rulemaking.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Each member of the Science Advisory and Review Board ("SARB") appointed pursuant to section 12 of the Department of Forensic Sciences Establishment Act of 2011, effective August 17, 2011 (D.C. Law 19-18; D.C. Official Code § 5-1501.11), shall be entitled to compensation in the form of a stipend not to exceed $50 per meeting of the SARB.</text>
     </para>
   </para>
   <para>
@@ -286,5 +290,8 @@
     <annotation app="2022-07-13" doc="D.C. Act 24-470" eff="2022-07-13" path="§2093" type="History" display="false"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2093|(a)" type="History"/>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="§2093|(b)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(d)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(d)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(d)|(3)" type="History"/>
   </annotations>
 </section>

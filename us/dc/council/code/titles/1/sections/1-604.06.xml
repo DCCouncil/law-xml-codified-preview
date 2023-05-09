@@ -164,15 +164,23 @@
     </para>
     <para>
       <num>(29)</num>
-      <text>For employees of the Office of the Ombudsperson for Children, the personnel authority is the Ombudsperson for Children; and</text>
+      <text>For employees of the Office of the Ombudsperson for Children, the personnel authority is the Ombudsperson for Children;</text>
     </para>
     <para>
       <num>(30)</num>
-      <text>For the Real Property Tax Appeals Commission, the personnel authority is the Real Property Tax Appeals Commission.</text>
+      <text>For the Real Property Tax Appeals Commission, the personnel authority is the Real Property Tax Appeals Commission;</text>
     </para>
     <para placeholder="Not Funded">
       <num>(31)</num>
       <text>Not Funded.</text>
+    </para>
+    <para>
+      <num>[(32)]</num>
+      <text>For employees of the Forensic Sciences and Public Health Laboratory, the personnel authority is the Director of the Forensic Sciences and Public Health Laboratory; and</text>
+    </para>
+    <para>
+      <num>[(33)]</num>
+      <text>For employees of the Science Advisory and Review Board, the personnel authority is the Science Advisory and Review Board.</text>
     </para>
   </para>
   <para>
@@ -355,5 +363,8 @@
     <annotation app="notfunded" doc="D.C. Law 24-344" eff="2023-04-21" path="§8|(c)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-344" path="§8" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-344" path="">D.C. Law 24-344</cite>: <cite doc="D.C. Law 24-344" path="§26">§ 26 of D.C. Law 24-344</cite> provided that the change made to this section by <cite doc="D.C. Law 24-344" path="§8">§ 8 of D.C. Law 24-344</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-04-21" doc="D.C. Law 24-344" eff="2023-04-21" path="§8" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(a)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(a)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(a)|(3)" type="History"/>
   </annotations>
 </section>

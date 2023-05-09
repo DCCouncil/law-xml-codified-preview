@@ -75,11 +75,15 @@
     </para>
     <para>
       <num>(18)</num>
-      <text>The Chairperson and members of the Rental Housing Commission; and</text>
+      <text>The Chairperson and members of the Rental Housing Commission;</text>
     </para>
     <para>
       <num>[(19)]</num>
-      <text>Director of the Students in the Care of D.C. Coordinating Committee.</text>
+      <text>Director of the Students in the Care of D.C. Coordinating Committee; and</text>
+    </para>
+    <para>
+      <num>(20)</num>
+      <text>The Director of the Forensic Sciences and Public Health Laboratory.</text>
     </para>
   </para>
   <annotations>
@@ -154,5 +158,8 @@
     <annotation doc="D.C. Law 24-45" path="§7183" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C. Law 24-45" path="§7183">Section 7183 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 22-250" path="§10|(a)">section 10(a) of D.C. Law 22-250</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by Law 22-250 has been implemented.
             </annotation>
     <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§168" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(b)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(b)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§4|(b)|(3)" type="History"/>
   </annotations>
 </section>

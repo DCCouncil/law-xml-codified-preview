@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-1501.06</num>
-  <heading>Powers and duties of the Department.</heading>
+  <heading>Powers and duties of the Laboratory.</heading>
   <para>
     <num>(a)</num>
-    <text>The Department shall provide forensic science services for the District of Columbia, which may include:</text>
+    <text>The Laboratory shall provide forensic science services for the District of Columbia, which may include:</text>
     <para>
       <num>(1)</num>
       <text>Forensic alcohol;</text>
@@ -48,7 +48,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The Department shall provide the forensic science services described in subsection (a) of this section upon request to:</text>
+    <text>The Laboratory shall provide the forensic science services described in subsection (a) of this section upon request to:</text>
     <para>
       <num>(1)</num>
       <text>District agencies, including:</text>
@@ -66,11 +66,11 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>The Department of Health; and</text>
+        <text>The Laboratory of Health; and</text>
       </para>
       <para>
         <num>(E)</num>
-        <text>The Fire and Emergency Medical Services Department; and</text>
+        <text>The Fire and Emergency Medical Services Laboratory; and</text>
       </para>
     </para>
     <para>
@@ -79,12 +79,16 @@
     </para>
   </para>
   <para>
+    <num>(b-1)</num>
+    <text>The Laboratory shall identify task-irrelevant information that could create bias and impact the interpretation of evidence submitted for forensic science services and develop policies and procedures to address and document exposure to such information.</text>
+  </para>
+  <para>
     <num>(c)</num>
-    <text>The Department also may provide forensic science services to other law enforcement or investigative agencies.</text>
+    <text>The Laboratory also may provide forensic science services to other law enforcement or investigative agencies.</text>
   </para>
   <para>
     <num>(c-1)</num>
-    <text>The Department shall provide public health laboratory services for the District of Columbia, which may include:</text>
+    <text>The Laboratory shall provide public health laboratory services for the District of Columbia, which may include:</text>
     <para>
       <num>(1)</num>
       <text>Disease prevention, control, and surveillance testing;</text>
@@ -104,34 +108,34 @@
   </para>
   <para>
     <num>(c-2)</num>
-    <text>The Department shall provide public health laboratory services upon request to District agencies.</text>
+    <text>The Laboratory shall provide public health laboratory services upon request to District agencies.</text>
   </para>
   <para>
     <num>(c-3)</num>
-    <text>The Department also may provide public health laboratory services to other government agencies, hospitals, academic institutions, nonprofit organizations, and other health-related entities.</text>
+    <text>The Laboratory also may provide public health laboratory services to other government agencies, hospitals, academic institutions, nonprofit organizations, and other health-related entities.</text>
   </para>
   <para>
     <num>(d)</num>
     <para>
       <num>(1)</num>
-      <text>The Department shall be accredited by an appropriate, bona fide national accrediting organization.</text>
+      <text>The Laboratory shall be accredited by an appropriate, bona fide national accrediting organization.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Department accreditation shall be obtained before January 1, 2014.</text>
+      <text>Laboratory accreditation shall be obtained before January 1, 2014.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Any forensic unit not included in the Department’s accreditation, and any forensic unit subsequently added to the Department, shall be accredited as soon as possible.</text>
+      <text>Any forensic unit not included in the Laboratory's accreditation, and any forensic unit subsequently added to the Laboratory, shall be accredited as soon as possible.</text>
     </para>
   </para>
   <para>
     <num>(e)</num>
-    <text>The Department shall provide for the security and protection of evidence and samples in its custody.</text>
+    <text>The Laboratory shall provide for the security and protection of evidence and samples in its custody.</text>
   </para>
   <para>
     <num>(f)</num>
-    <text>The Department shall provide training regarding the collection and preservation of forensic evidence to:</text>
+    <text>The Laboratory shall provide training regarding the collection and preservation of forensic evidence to:</text>
     <para>
       <num>(1)</num>
       <text>Law enforcement agencies;</text>
@@ -142,22 +146,37 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Other entities or individuals that collect evidence for testing or examination by the Department.</text>
+      <text>Other entities or individuals that collect evidence for testing or examination by the Laboratory.</text>
     </para>
   </para>
   <para>
     <num>(g)</num>
-    <text>The Department shall, to the extent feasible, complete cases submitted by MPD in the priority order requested by the Chief of Police.</text>
+    <text>The Laboratory shall, to the extent feasible, complete cases submitted by MPD in the priority order requested by the Chief of Police.</text>
   </para>
   <para>
     <num>(h)</num>
     <para>
       <num>(1)</num>
-      <text>The Department shall make available all records pertaining to the analysis conducted in a particular case to the agency that requested the analysis.</text>
+      <text>The Laboratory shall make available all records pertaining to the analysis conducted in a particular case to the agency that requested the analysis.</text>
+    </para>
+    <para placeholder="Repealed">
+      <num>(2)</num>
+      <text>Repealed.</text>
     </para>
     <para>
-      <num>(2)</num>
-      <text>If the records pertain to a criminal prosecution, the Department shall provide the prosecutor with 2 identical sets of records, one for the government and one for the defense.</text>
+      <num>(2A)</num>
+      <para>
+        <num>(A)</num>
+        <text>If the records pertain to a criminal prosecution, the Laboratory shall provide the prosecutor and defense with identical sets of records; provided, that when the defense is not known to the Laboratory, or to the prosecutor, the Laboratory may provide the prosecutor with 2 identical sets of records, one for the prosecutor and one for the defense.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>If the Laboratory did not previously provide records to the current attorney of record for the defense, the Laboratory shall provide an identical set of records to the defense upon request.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The Laboratory shall design, implement, and maintain an electronic system that facilitates access to records pertaining to a criminal prosecution and issue rules  prescribing access to the records by the prosecutor and the defense.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
@@ -192,32 +211,40 @@
       </para>
       <para>
         <num>(H)</num>
-        <text>Any written communications or records of oral communications regarding a specific individual case between the Department and any other agency or between the Department and any person not employed by the Department, except as otherwise prohibited by law; and</text>
+        <text>Any written communications or records of oral communications regarding a specific individual case between the Laboratory and any other agency or between the Laboratory and any person not employed by the Laboratory, except as otherwise prohibited by law;</text>
       </para>
       <para>
         <num>(I)</num>
-        <text>Proficiency test results for individual examiners involved in the analysis.</text>
+        <text>Proficiency test results for individual examiners involved in the analysis; and</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>Chain of custody logs, documents, or reports.</text>
       </para>
     </para>
   </para>
   <para>
     <num>(i)</num>
-    <text>The following documents shall be public documents:</text>
+    <text>The following documents shall be public documents and published on the Laboratory's website:</text>
     <para>
       <num>(1)</num>
-      <text>All accreditation documents;</text>
+      <text>All accreditation certificates, correspondence, and manuals;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>All of the documents listed in <cite path="§5-1501.04|(b)">§ 5-1501.04(b)</cite>;</text>
+      <text>All of the documents listed in <cite path="§5-1501.05a|(c)|(5)">§ 5-1501.05a(c)(5)</cite>, including all internal validation studies conducted by the Laboratory, and all data generated during the studies on or after April 21, 2023; except, that the Laboratory may conceal the names of individuals who submitted samples for the studies;</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(3)</num>
-      <text>Any investigative report prepared pursuant to <cite path="§5-1501.10|(c)">§ 5-1501.10(c)</cite>;</text>
+      <text>Repealed.</text>
     </para>
     <para>
+      <num>(3A)</num>
+      <text>All reports generated by the Laboratory that address quality assurance, including quality corrective actions, quality preventative actions, and other quality nonconformities; except, that, the Laboratory may redact the name of the analyst associated with the document for the version published on the Laboratory's website but shall maintain identifying information for the Laboratory and for disclosure to counsel; and</text>
+    </para>
+    <para placeholder="Repealed">
       <num>(4)</num>
-      <text>Minutes of meetings of the Board; and</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -229,5 +256,19 @@
     <annotation type="Section References">This section is referenced in <cite path="§5-1501.04">§ 5-1501.04</cite> and <cite path="§50-1904">§ 50-1904</cite>.</annotation>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(e)|(1)" type="History"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(e)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(4)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(9)|(C)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(B)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(C)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(D)|(i)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(D)|(ii)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(13)|(D)|(iii)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(B)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(C)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(D)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(E)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(F)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(14)|(A)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(i)|(1)" type="History"/>
   </annotations>
 </section>

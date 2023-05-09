@@ -1,30 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-1501.11</num>
-  <heading>Science Advisory Board.</heading>
-  <para>
+  <heading>Science Advisory and Review Board.</heading>
+  <para placeholder="Repealed">
     <num>(a)</num>
-    <text>There is established a Science Advisory Board, which shall consist of 9 voting members to be appointed pursuant to <cite path="§1-523.01|(f)">§ 1-523.01(f)</cite>, as follows:</text>
+    <text>Repealed.</text>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <text>There is established a Science Advisory and Review Board, which shall consist of 9 voting members to be appointed pursuant to section 2(f) of the Confirmation Act of 1978, effective May 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(f)), as follows:</text>
     <para>
       <num>(1)</num>
-      <text>Five scientists with experience in scientific research and methodology, who have published in peer-reviewed scientific journals, and who are not currently employed by the Department or by a law enforcement laboratory or agency, including:</text>
-      <para>
-        <num>(A)</num>
-        <text>One statistician; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>One with expertise in quality assurance; and</text>
-      </para>
+      <text>Four members with experience in scientific research and methodology in a forensic science discipline who have published in a peer-reviewed journal;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Four forensic scientists not currently employed by the Department or by a law enforcement laboratory or agency that provides forensic science services to the District.</text>
+      <text>One member with experience in quality management or assurance in a forensic science or public health laboratory;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>One member with expertise in human factors;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>One member with expertise in statistical analysis;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>One member with expertise in microbiology; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>One member with expertise in epidemiology.</text>
     </para>
   </para>
   <para>
+    <num>(a-2)</num>
+    <para>
+      <num>(1)</num>
+      <text>Voting members of the Board shall not be currently employed by the Laboratory or another laboratory that provides services to the District, a law enforcement or public safety agency in the District, or the defense bar in the District.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Voting members may reside outside of the District.</text>
+    </para>
+  </para>
+  <para placeholder="Repealed">
     <num>(b)</num>
-    <text>The Director and Deputy Director shall be ex officio, non-voting members of the Board.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -50,12 +73,55 @@
     <text>The presence of a majority of the voting members holding office shall constitute a quorum.</text>
   </para>
   <para>
+    <num>(e-1)</num>
+    <text>Members of the Board shall be entitled to receive a stipend pursuant to section 1108(c-2)(8) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-611.08(c-2)(8)).</text>
+  </para>
+  <para>
     <num>(f)</num>
     <text>The Board shall hold no fewer than 4 regular meetings per year. The chairperson of the Board shall fix the time and place of each meeting. Additional meetings may be called either by the chairperson or upon the written request of the Director or of any 3 members of the Board.</text>
   </para>
   <para>
     <num>(g)</num>
-    <text>Minutes shall be prepared for each meeting. A transcript or detailed summary shall meet this requirement.</text>
+    <text>Minutes shall be prepared for each meeting and be published on the Laboratory's website. A transcript or detailed summary shall meet this requirement.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Board shall have access to all books, accounts, records, reports, findings, and all other papers, things, or property belonging to or in use by the Laboratory that are necessary to accomplish the Board's mission.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If the Board is denied access to any books, accounts, records, reports, or findings, or any other papers, things, or property, the reason for the denial shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Be submitted in writing to the Board no later than 7 days after the date of the Board's request;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>State the specific reasons for the denial, including citations to any law or regulation relied upon as authority for the denial; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>State the names of the public officials or employees responsible for the decision to deny the request.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(i)</num>
+    <text>The Laboratory shall provide funding to the Board to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Hire and maintain staff;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Retain counsel; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Seek an audit or review by an outside organization of the Laboratory.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 19-18" type="History" path="§12">Aug. 17, 2011, D.C. Law 19-18, § 12, 58 DCR 5403</annotation>
@@ -64,5 +130,12 @@
     <annotation type="Emergency Legislation">For temporary amendment of (a)(1), see § 507 of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013,  60 DCR 1017).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-320">D.C. Law 19-320</cite> inserted “and who are not currently employed by the Department or by a law enforcement laboratory or agency” in (a)(1).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§1-523.01">§ 1-523.01</cite> and <cite path="§5-1501.01">§ 5-1501.01</cite>.</annotation>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(o)|(1)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(o)|(2)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(o)|(3)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(o)|(4)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(o)|(5)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(o)|(6)" type="History"/>
+    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(o)|(7)" type="History"/>
   </annotations>
 </section>

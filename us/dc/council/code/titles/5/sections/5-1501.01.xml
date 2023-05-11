@@ -5,23 +5,23 @@
   <text>For the purposes of this chapter, the term:</text>
   <para>
     <num>(1)</num>
-    <text>“Board” means the Science Advisory and Review Board established by <cite path="§5-1501.11">§ 5-1501.11</cite>.</text>
+    <text>“Board” means the Science Advisory Board established by <cite path="§5-1501.11">§ 5-1501.11</cite>.</text>
   </para>
-  <para placeholder="Repealed">
+  <para>
     <num>(2)</num>
-    <text>Repealed.</text>
+    <text>“Department” means the Department of Forensic Sciences established by <cite path="§5-1501.02">§ 5-1501.02</cite>.</text>
   </para>
   <para>
     <num>(3)</num>
-    <text>“Director” means the Director of the Forensic Sciences and Public Health Laboratory.</text>
+    <text>“Director” means the Director of the Department of Forensic Sciences.</text>
   </para>
   <para>
     <num>(4)</num>
     <text>“Forensic science services” means forensic science research, analysis, and related services, including the examination of evidence, the interpretation of results, and the provision of expert testimony, such as for the purposes of a criminal investigation or civil action.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(4A)</num>
-    <text>"Laboratory" means the Forensic Sciences and Public Health Laboratory established by section 3.</text>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(5)</num>
@@ -58,9 +58,10 @@
   <annotations>
     <annotation doc="D.C. Law 19-18" type="History" path="§2">Aug. 17, 2011, D.C. Law 19-18, § 2, 58 DCR 5403</annotation>
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§501|(a)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(3)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(4)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§2|(a)|(4)" type="History"/>
   </annotations>
 </section>

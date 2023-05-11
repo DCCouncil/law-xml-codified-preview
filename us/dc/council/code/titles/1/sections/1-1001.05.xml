@@ -83,67 +83,27 @@
     </para>
     <para>
       <num>(10A)</num>
-      <text>Prior to any Board-run election, mail every registered qualified elector a mail-in ballot, that includes language on the penalties for fraudulent voting, and a postage-paid return envelope;</text>
+      <text>Accept absentee ballots postmarked or otherwise proven to have been sent on or before the day of the election, and received by the Board no later than the 7th day after the election;</text>
     </para>
-    <para>
+    <para placeholder="Not Funded">
       <num>(10B)</num>
-      <text>Accept mail-in ballots that are either:</text>
-      <para>
-        <num>(A)</num>
-        <text>Postmarked or otherwise proven to have been mailed on or before election day and received by the Board no later than the 10th day after election day; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Received by the Board by 8 p.m. on election day:</text>
-        <para>
-          <num>(i)</num>
-          <text>In a ballot drop box or at a Vote Center; or</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Electronically, in the case of alternate format ballots submitted by registered qualified electors with disabilities and absent uniformed services and overseas voters;</text>
-        </para>
-      </para>
+      <text>Not Funded.</text>
     </para>
-    <para>
+    <para placeholder="Not Funded">
       <num>(10C)</num>
-      <text>Create, maintain, and user-test an electronic ballot tracking system, updated daily, to:</text>
-      <para>
-        <num>(A)</num>
-        <text>Notify voters regarding the status of their mail-in and special ballots; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Allow voters to:</text>
-        <para>
-          <num>(i)</num>
-          <text>Track, via the Board's website, the status of their:</text>
-          <para>
-            <num>(I)</num>
-            <text>Mail-in ballots, including the dates on which the mail-in ballot was mailed to the voter and received, processed, and accepted or rejected by the Board; and</text>
-          </para>
-          <para>
-            <num>(II)</num>
-            <text>Special ballots, including the date of acceptance or rejection and reason, if rejected; and</text>
-          </para>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Submit comments to the Board regarding the status of their mail-in and special ballots or the electronic ballot tracking system;</text>
-        </para>
-      </para>
+      <text>Not Funded.</text>
     </para>
-    <para>
+    <para placeholder="Not Funded">
       <num>(10D)</num>
-      <text>Promulgate rules governing signature verification for mail-in ballots, including processes for curing signature deficiencies and, if a registered qualified elector has a disability preventing them from signing a mail-in ballot return envelope, allowing the registered qualified elector to use a mark instead of a signature;</text>
+      <text>Not Funded.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(10E)</num>
-      <text>Procure, maintain, and operate no fewer than 55 ballot drop boxes throughout the District that are accessible to registered qualified electors, including registered qualified electors who use wheelchairs, at least 10 hours per day during the period designated for early voting and on election day, the proposed locations of which shall be published in the District of Columbia Register and on the Board's website for public comment;</text>
+      <text>Not fundeded.</text>
     </para>
-    <para>
+    <para placeholder="Not Funded">
       <num>(10F)</num>
-      <text>Maintain a centralized process for receiving public and voter concerns and comments through the Board's website that confirms receipt and provides confirmation numbers to allow those submitting concerns and comments to track their submission;</text>
+      <text>Not Funded.</text>
     </para>
     <para>
       <num>(11)</num>
@@ -908,8 +868,10 @@
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(E)|(iii)|(II)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(E)|(iv)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(F)" type="History"/>
-    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(G)" type="History"/>
-    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(H)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(G)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(H)" type="History"/>
+    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§10|(a)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(J)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(K)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(c)|(1)|(L)" type="History"/>

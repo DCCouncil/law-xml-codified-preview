@@ -1368,7 +1368,7 @@
       <para codify:path="§5-1501.05|(a)|(1)">
         <num>(d)</num>
         <text>Section 6(a)(1) (D.C. Official Code § 5-1501.05(a)(1)) is amended by striking the phrase "agency's mission" and inserting the phrase "Department's mission" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-1501.05">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-1501.05|(a)|(1)">
           <find>agency's mission</find>
           <replace>Department's mission</replace>
         </codify:find-replace>
@@ -1437,7 +1437,7 @@
         <para codify:path="(a)">
           <num>(1)</num>
           <text>Subsection (a) is amended by striking the phrase "forensic science services" and inserting the phrase "forensic science services or public health laboratory services" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-1501.10">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-1501.10|(a)">
             <find>forensic science services</find>
             <replace>forensic science services or public health laboratory services</replace>
           </codify:find-replace>
@@ -1445,7 +1445,7 @@
         <para codify:path="(b)|(1)">
           <num>(2)</num>
           <text>Paragraph (b)(1) is amended by striking the phrase "Director and the" and inserting the phrase "Director. The" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-1501.10">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-1501.10|(b)|(1)">
             <find>Director and the</find>
             <replace>Director. The</replace>
           </codify:find-replace>

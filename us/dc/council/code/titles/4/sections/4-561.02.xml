@@ -7,7 +7,7 @@
     <text>Within 7 days after a sexual assault victim makes a report to the MPD, the MPD shall retrieve any PERK and specimens and deliver:</text>
     <para>
       <num>(1)</num>
-      <text>The PERK to the Laboratory; and</text>
+      <text>The PERK to the DFS; and</text>
     </para>
     <para>
       <num>(2)</num>
@@ -18,21 +18,21 @@
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>If a PERK is not involved in consumption litigation, the Laboratory shall process the PERK within 90 days after Laboratory receives the PERK.</text>
+      <text>If a PERK is not involved in consumption litigation, the DFS shall process the PERK within 90 days after DFS receives the PERK.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>If a PERK is involved in consumption litigation, the Laboratory shall process the PERK within 90 days after the Laboratory receives a consumption determination from the prosecution.</text>
+      <text>If a PERK is involved in consumption litigation, the DFS shall process the PERK within 90 days after the DFS receives a consumption determination from the prosecution.</text>
     </para>
   </para>
   <para>
     <num>(b-1)</num>
     <para>
       <num>(1)</num>
-      <text>Notwithstanding subsection (b) of this section, the Laboratory may delegate the processing of a PERK to an accredited laboratory pursuant to a statement of work, which shall establish protocols for:</text>
+      <text>Notwithstanding subsection (b) of this section, the DFS may delegate the processing of a PERK to an accredited laboratory pursuant to a statement of work, which shall establish protocols for:</text>
       <para>
         <num>(A)</num>
-        <text>Laboratory to notify the accredited laboratory that a PERK is available for processing;</text>
+        <text>DFS to notify the accredited laboratory that a PERK is available for processing;</text>
       </para>
       <para>
         <num>(B)</num>
@@ -44,12 +44,12 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>Delivery of the PERK and any results to the Laboratory.</text>
+        <text>Delivery of the PERK and any results to the DFS.</text>
       </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>Even if Laboratory delegates the processing of a PERK to an accredited laboratory, Laboratory shall comply with the time periods described in subsection (b) of this section.</text>
+      <text>Even if DFS delegates the processing of a PERK to an accredited laboratory, DFS shall comply with the time periods described in subsection (b) of this section.</text>
     </para>
   </para>
   <para>
@@ -75,9 +75,10 @@
     <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§402" type="History" display="false"/>
     <annotation doc="D.C. Law 23-274" path="§402" type="Applicability" history="false" app="2021-04-27" eff="2021-04-27"><cite doc="D.C. Law 23-274" path="§402">Section 402 of D.C. Law 23-274</cite> provided that the amendments made to this section by Law 23-57 shall apply as of January 1, 2021.
     </annotation>
-    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§6|(b)|(1)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§6|(b)|(2)|(A)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§6|(b)|(2)|(B)" type="History"/>
-    <annotation app="2023-04-21" doc="D.C. Law 24-348" eff="2023-04-21" path="§6|(b)|(3)|(A)|(i)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§6|(b)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§6|(b)|(2)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§6|(b)|(2)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-348" eff="2023-04-21" path="§6|(b)|(3)|(A)|(i)" type="History"/>
   </annotations>
 </section>

@@ -87,7 +87,7 @@
     </para>
   </para>
   <para placeholder="Not Funded">
-    <num></num>
+    <num>(b-1)</num>
     <text>Not Funded.</text>
   </para>
   <para>

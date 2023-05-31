@@ -96,11 +96,11 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>A perpetrator or alleged perpetrator with whom the victim has a significant relationship, as that term is defined in <cite path="§22-3001|(10)">§ 22-3001(10)</cite>; or</text>
+        <text>A perpetrator or alleged perpetrator with whom a victim under 18 years of age has a significant relationship, as that term is defined in <cite path="§22-3001|(10)">§ 22-3001(10)</cite>; or</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>A perpetrator or alleged perpetrator who is more than 4 years older than the victim.</text>
+        <text>A perpetrator or alleged perpetrator who is more than 4 years older than a victim who is under 18 years of age.</text>
       </para>
     </para>
   </para>
@@ -124,5 +124,7 @@
     <annotation type="Section References">This section is referenced in <cite path="§4-1321.02">§ 4-1321.02</cite> and <cite path="§14-307">§ 14-307</cite>.</annotation>
     <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§107|(c)|(1)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-341" eff="2023-04-06" path="§107|(c)|(2)" type="History"/>
+    <annotation app="2023-05-24" doc="D.C. Act 25-115" eff="2023-05-24" path="§4|(b)|(1)" type="History"/>
+    <annotation app="2023-05-24" doc="D.C. Act 25-115" eff="2023-05-24" path="§4|(b)|(2)" type="History"/>
   </annotations>
 </section>

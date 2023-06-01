@@ -258,10 +258,10 @@
           <replace>a victim who is under 18 years of age</replace>
         </codify:find-replace>
       </para>
-      <codify:emergency doc="D.C. Code" path="§14-310" codified:doc="D.C. Code" codified:path="§14-310" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§14-310" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§14-310">
+      <codify:emergency doc="D.C. Code" path="§14-311" codified:doc="D.C. Code" codified:path="§14-311" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§14-311" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§14-311">
         <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on August 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§14-310(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on August 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§14-311(Perm)">Permanent Version</cite>.*
       </text>
       </codify:insert>
     </para>
@@ -279,11 +279,6 @@
       </para>
     </para>
     <codify:emergency doc="D.C. Code" path="§14-312" codified:doc="D.C. Code" codified:path="§14-312" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§14-312" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§14-312">
-      <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on August 22, 2023. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§14-312(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>5</num>

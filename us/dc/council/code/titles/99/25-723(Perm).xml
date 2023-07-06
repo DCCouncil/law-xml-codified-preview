@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <prefix>§</prefix>
   <num>25-723(Perm)</num>
   <heading>Hours of sale and service for on-premises retail licensees and temporary licensees.</heading>
   <para>
@@ -90,7 +89,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>To the extent feasible, the Board shall provide notice of its decision to extend the hours of operation, sales, service, and consumption pursuant to this subsection in the District of Columbia Register. The Board shall also post notice of its decision on ABRA's website within 24 hours after its decision.</text>
+      <text>To the extent feasible, the Board shall provide notice of its decision to extend the hours of operation, sales, service, and consumption pursuant to this subsection in the District of Columbia Register. The Board shall also post notice of its decision on ABCA's website within 24 hours after its decision.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -161,6 +160,7 @@
     <annotation doc="D.C. Law 22-168" type="History">Oct. 30, 2018, D.C. Law 22-168, § 2052, 65 DCR 9388</annotation>
     <annotation doc="D.C. Law 23-149" type="History">Dec. 3, 2020, D.C. Law 23-149, §§ 1093, 6052(b)(3), 67 DCR 10493</annotation>
     <annotation doc="D.C. Law 23-236" type="History">Mar. 16, 2021, D.C. Law 23-236, § 2, 67 DCR 14409</annotation>
-    <annotation doc="D.C. Law 24-127" type="History">June 30, 2022, D.C. Law 24-127, § 2(f)(6), 69 DCR 005071</annotation>
+    <annotation doc="D.C. Law 24-127" type="History">June 30, 2022, D.C. Law 24-127, § 2(f)(6), 69 DCR 5071</annotation>
+    <annotation doc="D.C. Law 24-332" type="History">Mar. 22, 2023, D.C. Law 24-332, § 5, 70 DCR 1582</annotation>
   </annotations>
 </section>

@@ -162,5 +162,9 @@
     <annotation app="2023-02-23" doc="D.C. Law 24-273" eff="2023-02-23" path="§3" type="History" display="false"/>
     <annotation app="2023-02-23" doc="D.C. Law 24-273" eff="2023-02-23" path="§3" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-273" path="§3" codified:display="Note" app="2023-02-23" eff="2023-02-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-273" path="§3">§ 3 of Housing Authority Accountability Temporary Amendment Act of 2022 (D.C. Law 24-273, Feb. 23, 2023, 69 DCR 14762)</cite>.</annotation>
+    <annotation doc="D.C. Act 25-26" path="§2133|(b)" type="Applicability" history="false" app="2023-07-01" eff="2023-07-01">
+            Section 2133(b) of the EBSA provided that the addition of subsection (e) to this section shall apply as of December 19, 2016.
+          </annotation>
+    <annotation app="2023-07-01" doc="D.C. Act 25-26" eff="2023-07-01" path="§2133|(b)" type="History" display="false"/>
   </annotations>
 </section>

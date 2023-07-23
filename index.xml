@@ -24,7 +24,7 @@
         <repository name="DCCouncil/law-xml" commit="6054e193604a97e28fb432d5eb0e70940de2332c"/>
       </repositories>
       <platform version="2.5.15" reproducible="false"/>
-      <build-date>2023-07-21</build-date>
+      <build-date>2023-07-23</build-date>
       <codified-date>2023-07-14</codified-date>
     </build>
   </meta>

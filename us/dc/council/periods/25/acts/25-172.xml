@@ -8,10 +8,11 @@
     <introduced>2023-06-12</introduced>
     <effective>2023-07-14</effective>
     <citations>
-      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/53228/Signed_Act/B25-0320-Signed_Act.pdf?Id=16664">D.C. Act 25-172</citation>
-      <citation type="register">70 DCR 2957</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/53228/Signed_Act/B25-0320-Signed_Act.pdf?Id=166664">D.C. Act 25-172</citation>
+      <citation type="register">70 DCR 9933</citation>
     </citations>
     <history url="https://lims.dccouncil.us/Legislation/B25-0320">
+      <vote date="2023-06-13" reading="Amendment"/>
       <vote date="2023-06-13" reading="Final"/>
       <enacted>2023-07-14</enacted>
       <summary/>

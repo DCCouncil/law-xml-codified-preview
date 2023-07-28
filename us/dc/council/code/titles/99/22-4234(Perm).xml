@@ -48,13 +48,25 @@
   </para>
   <para>
     <num>(b-2)</num>
-    <text>By October 1, 2018, and every 2 years thereafter, the CJCC shall conduct a voluntary survey of individuals under 21 years of age currently committed to the Department of Youth Rehabilitation Services or incarcerated at the Department of Corrections on their perspective on the causes of youth crime and the prevalence of adverse childhood experiences, such as housing instability, childhood abuse, family instability, substance abuse, mental illness, family criminal involvement, or other factors deemed relevant by the CJCC.</text>
+    <text>By October 1, 2018, the CJCC shall conduct a voluntary survey of individuals under 21 years of age currently committed to the Department of Youth Rehabilitation Services or incarcerated at the Department of Corrections on their perspective on the causes of youth crime and the prevalence of adverse childhood experiences, such as housing instability, childhood abuse, family instability, substance abuse, mental illness, family criminal involvement, or other factors deemed relevant by the CJCC.</text>
   </para>
   <para>
     <num>(b-3)</num>
-    <text>On October 1, 2020, and every 2 years thereafter, the CJCC shall submit a report to the Mayor and the Council containing an analysis of the root causes of youth crime and the prevalence of adverse childhood experiences among justice-involved youth, such as housing instability, childhood abuse, family instability, substance abuse, mental illness, family criminal involvement, or other factors deemed relevant by the CJCC that incorporates the results of the survey conducted pursuant to subsection (b-2) of this section.</text>
+    <para>
+      <num>(1)</num>
+      <text>By October 1, 2020, the CJCC shall submit a report to the Mayor and the Council containing an analysis of the root causes of youth crime and the prevalence of adverse childhood experiences among justice-involved youth, such as housing instability, childhood abuse, family instability, substance abuse, mental illness, family criminal involvement, or other factors considered relevant by the CJCC that incorporates the results of the survey conducted pursuant to subsection (b-2) of this section.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>By October 1, 2022, the CJCC shall submit a report to the Mayor and the Council that analyzes protective factors that reduce the risk of District youth entering the juvenile and criminal justice systems and includes recommendations, informed by best practices in other jurisdictions, the results of the survey conducted pursuant to subsection (b-2) of this section, and the report submitted pursuant to paragraph (1) of this subsection, on factors, programs, or interventions that effectively prevent District youth from entering the juvenile and criminal justice systems, such as access to stable housing, nutrition assistance, healthcare, violence intervention, early intervention, and educational, recreational, and youth programming.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>By October 1, 2024, the CJCC shall submit a report to the Mayor and the Council that analyzes the types of school-based incidents that lead to law enforcement referral or arrest, and whether factors such as economic resources, race, Individualized Education Program eligibility, mental health conditions, school location, and school resource officer assignment statistically affect the likelihood of enforcement referrals or arrests.</text>
+    </para>
   </para>
   <para>
+    <codify:insert after="(b-3)"/>
     <num>(b-4)</num>
     <text>Upon request by the CJCC, and to aid in the development of the report required by subsection (b-3) of this section, the following agencies shall provide, or cause to be provided, the information listed below to the CJCC, including any associated personally identifying information:</text>
     <para>
@@ -325,9 +337,10 @@
   <annotations>
     <annotation doc="D.C. Law 14-28" type="History" path="§1505">Oct. 3, 2001, D.C. Law 14-28, § 1505, 48 DCR 6981</annotation>
     <annotation doc="D.C. Law 20-61" type="History">Dec. 24, 2013, D.C. Law 20-61, § 3072, 60 DCR 12472</annotation>
-    <annotation doc="D.C. Law 21-125" path="§204" type="History">June 30, 2016, D.C. Law 21-125, § 204, 63 DCR 4659</annotation>
-    <annotation doc="D.C. Law 21-238" path="§304" type="History">Apr. 4, 2017, D.C. Law 21-238, § 304, 63 DCR 15312</annotation>
-    <annotation doc="D.C. Law 23-274" path="§903" type="History">Apr. 27, 2021, D.C. Law 23-274, § 903, 68 DCR 1034</annotation>
+    <annotation doc="D.C. Law 21-125" type="History">June 30, 2016, D.C. Law 21-125, § 204, 63 DCR 4659</annotation>
+    <annotation doc="D.C. Law 21-238" type="History">Apr. 4, 2017, D.C. Law 21-238, § 304, 63 DCR 15312</annotation>
+    <annotation doc="D.C. Law 23-274" type="History">Apr. 27, 2021, D.C. Law 23-274, § 903, 68 DCR 001034</annotation>
+    <annotation doc="D.C. Law 24-344" type="History"> Apr. 21, 2023, D.C. Law 24-344, § 6(b), 70 DCR 635</annotation>
     <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 11001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</annotation>
     <annotation type="Short Title">Section 3071 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle H of Title III of the act may be cited as the “Criminal Justice Coordinating Council Criminal Justice Designation Amendment Act of 2013”.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 3072 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>

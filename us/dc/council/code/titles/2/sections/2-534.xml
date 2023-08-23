@@ -119,7 +119,7 @@
     </para>
     <para>
       <num>(15)</num>
-      <text>Any critical infrastructure information or plans that contain critical infrastructure information for the critical infrastructures of companies that are regulated by the Public Service Commission of the District of Columbia;</text>
+      <text>Any critical infrastructure information or plans that contain critical infrastructure information for the critical infrastructures of the District of Columbia Water and Sewer Authority or companies that are regulated by the Public Service Commission of the District of Columbia;</text>
     </para>
     <para>
       <num>(16)</num>
@@ -329,5 +329,6 @@
     <annotation app="notfunded" doc="D.C. Law 24-345" eff="2023-04-21" path="§134" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-345" path="§134" codified:display="Note" app="2023-04-21" eff="2023-04-21">Applicability of <cite doc="D.C. Law 24-345" path="">D.C. Law 24-345</cite>: <cite doc="D.C. Law 24-345" path="§301">§ 301 of D.C. Law 24-345</cite> provided that the change made to this section by <cite doc="D.C. Law 24-345" path="§134">§ 134 of D.C. Law 24-345</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2023-04-21" doc="D.C. Law 24-345" eff="2023-04-21" path="§134" type="History"/>
+    <annotation app="2023-07-26" doc="D.C. Act 25-201" eff="2023-07-26" path="§2" type="History"/>
   </annotations>
 </section>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-534(Perm)</num>
-  <heading>Exemptions from disclosure.</heading>
+  <heading proof="needed">Exemptions from disclosure.</heading>
   <para>
     <num>(a)</num>
     <text>The following matters may be exempt from disclosure under the provisions of this subchapter:</text>
@@ -182,31 +182,37 @@
     <text>This section does not authorize withholding of information or limit the availability of records to the public, except as specifically stated in this section. This section is not authority to withhold information from the Council of the District of Columbia. This section shall not operate to permit nondisclosure of information of which disclosure is authorized or mandated by other law.</text>
   </para>
   <para>
+    <num>(c-1)</num>
+    <text>Notwithstanding any other provision of law, no document or information described in <u>§ 2-536(a)(6A)</u> that was created on or after December 7, 2004, shall be exempt from disclosure pursuant to subsections (a)(4) and (e) of this section.</text>
+  </para>
+  <para>
     <num>(d)</num>
+    <text><strong>[(1)]</strong> The provisions of <u>this subchapter</u> shall not apply to vital records covered by <u>Chapter 2 of Title 7</u> or <u>Chapter 2A of Title 7</u>.</text>
+    <text><strong>[(2)]</strong> The provisions of <u>this subchapter</u> shall not apply to:</text>
     <para>
-      <num>[(1)]</num>
-      <text>The provisions of <u>this subchapter</u> shall not apply to vital records covered by <u>Chapter 2 of Title 7</u> or <u>Chapter 2A of Title 7</u>.</text>
+      <num>(A)</num>
+      <text>The Violence Fatality Review Committee, established by <u>§ 5-1431.01</u>;</text>
     </para>
     <para>
-      <num>[(2)]</num>
-      <text>The provisions of <u>this subchapter</u> shall not apply to:</text>
-      <para>
-        <num>(A)</num>
-        <text>The Violence Fatality Review Committee, established by <u>§ 5-1431.01</u>;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The Child Fatality Review Committee, established by <u>§ 4-1371.03</u>;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>The Maternal [Mortality] Review Committee, established by <u>§ 7-671.02</u>; and</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>The Domestic Violence Fatality Review Board, established by <u>§ 16-1052</u>.</text>
-      </para>
+      <num>(B)</num>
+      <text>The Child Fatality Review Committee, established by <u>§ 4-1371.03</u>;</text>
     </para>
+    <para>
+      <num>(C)</num>
+      <text>The Maternal Mortality Review Committee, established by <u>§ 7-671.02</u>; and</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>The Domestic Violence Fatality Review Board, established by <u>§ 16-1052</u>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d-1)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para>
+    <num>(d-2)</num>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -237,7 +243,10 @@
     <annotation doc="D.C. Law 22-164" type="History">Oct. 30, 2018, D.C. Law 22-164, § 201, 65 DCR 9324</annotation>
     <annotation doc="D.C. Law 22-168" type="History">Oct. 30, 2018, D.C. Law 22-168, §§ 3053, 6143, 65 DCR 9388</annotation>
     <annotation doc="D.C. Law 22-197" type="History">Dec. 13, 2018, D.C. Law 22-197, § 222, 65 DCR 9554</annotation>
-    <annotation doc="D.C. Law 23-270" type="History">Apr. 5, 2021, D.C. Law 23-270, § 207, 68 DCR 001510</annotation>
-    <annotation doc="D.C. Law 24-45" type="History">Nov. 13, 2021, D.C. Law 24-45, § 7094(b), 68 DCR 010163</annotation>
+    <annotation doc="D.C. Law 23-270" type="History">Apr. 5, 2021, D.C. Law 23-270, § 207, 68 DCR 1510</annotation>
+    <annotation doc="D.C. Law 24-45" type="History">Nov. 13, 2021, D.C. Law 24-45, § 7094(b), 68 DCR 10163</annotation>
+    <annotation doc="D.C. Law 24-147" type="History">July 12, 2022, D.C. Law 24-147, §§ 154(c), 161(b), 69 DCR 3386</annotation>
+    <annotation doc="D.C. Law 24-167" type="History">Sept. 21, 2022, D.C. Law 24-167, § 1042(a), 69 DCR 9223</annotation>
+    <annotation doc="D.C. Law 24-345" type="History">Apr. 21, 2023, D.C. Law 24-345, § 134, 70 DCR 953</annotation>
   </annotations>
 </section>

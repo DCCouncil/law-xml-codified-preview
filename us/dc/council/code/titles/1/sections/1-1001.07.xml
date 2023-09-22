@@ -505,7 +505,7 @@
     <num>(g)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in paragraph (4) of this subsection, at any time except during the 21-day period preceding any regularly scheduled election, a qualified elector or any individual who will be a qualified elector at the time of the next election may register to vote by completing a voter registration application and submitting it in person at the Board's office, using the digital voter service system required by subsection (b)(2A) of this section, or by mail. A registration that is received no later than 4:45 P.M. on the 21st day preceding any election, or such time on that day as the Board’s office remains open to receive registrations, shall be accepted.</text>
+      <text>Except as provided in paragraph (4) of this subsection, at any time except during the 21-day period preceding any regularly scheduled election, a qualified elector or any individual who will be a qualified elector at the time of the next election may register to vote in the precinct in which the voter maintains residence by completing a voter registration application and submitting it in person at the Board's office, using the digital voter service system required by subsection (b)(2A) of this section, or by mail. A registration that is received no later than 4:45 P.M. on the 21st day preceding any election, or such time on that day as the Board’s office remains open to receive registrations, shall be accepted.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -517,7 +517,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>After the 21st day preceding an election, a qualified elector may register to vote by completing a voter registration application and submitting it in person at the Board’s office. A qualified elector shall not change the qualified elector's party affiliation after the 21st day preceding an election.</text>
+      <text>After the 21st day preceding an election, a qualified elector may register to vote in the precinct in which the voter maintains residence by completing a voter registration application and submitting it in person at the Board’s office. A qualified elector shall not change the qualified elector's party affiliation after the 21st day preceding an election.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -980,9 +980,7 @@
     <annotation app="2023-02-23" doc="D.C. Law 24-265" eff="2023-02-23" path="§2|(a)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(1)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(2)" type="History"/>
-    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(3)|(A)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(3)|(B)" type="History"/>
-    <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(3)|(C)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(3)|(D)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(3)|(E)" type="History"/>
     <annotation app="2023-04-06" doc="D.C. Law 24-342" eff="2023-04-06" path="§3|(e)|(4)|(A)" type="History"/>

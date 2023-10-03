@@ -509,6 +509,12 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>6B</num>
+    <heading>Medicaid Provider Reimbursement.</heading>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="V" type="History" display="false"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>7</num>
     <heading>Hospitals, Asylums, Charities Generally.</heading>
     <container>

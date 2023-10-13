@@ -897,6 +897,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>10E</num>
+    <heading>Clean Curbs Pilot Program.</heading>
+    <annotation app="2023-09-06" doc="D.C. Law 25-50" eff="2023-09-06" path="VI" type="History" display="false"/>
+    <xi:include href="./sections/8-1090.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>11</num>
     <heading>Multi-Material Recycling Systems. [Repealed]<annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6035" type="History"/></heading>
     <xi:include href="./sections/8-1101.xml"/>

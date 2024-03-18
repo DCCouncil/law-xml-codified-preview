@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-761.01</num>
   <text>
-      *NOTE: This section was created by temporary legislation that will expire on April 3, 2024.*
+      *NOTE: This section was created by temporary legislation that will expire on October 12, 2024.*
       </text>
   <heading proof="needed">Redeployment as Office of Unified Communications 911 call takers and dispatchers.</heading>
   <para>
@@ -11,10 +11,11 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>Service pursuant to this section shall not count as creditable service for the purpose of section 12(c) of the Policemen and Firemen's Retirement and Disability Act, approved September 1, 1916 (39 Stat. 718; D.C. Official Code § 5-704).</text>
+    <text>Service pursuant to this section shall not count as creditable service for the purpose of <cite path="§5-704">§ 5-704</cite>.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 9-163" type="History" path="§2a" display="false">Sept. 29, 1992, D.C. Law 9-163, § 2a</annotation>
+    <annotation doc="D.C. Law 9-163" type="History" path="§2a">Sept. 29, 1992, D.C. Law 9-163, § 2a</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-349" path="§2" codified:display="Note" app="2024-03-01" eff="2024-01-04">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-349" path="§2">§ 2 of Retired Firefighter and Police Officer Redeployment Emergency Amendment Act of 2023 (D.C. Act 25-349, Jan. 4, 2024, 71 DCR 667)</cite>.</annotation>
     <annotation app="2024-03-01" doc="D.C. Act 25-349" eff="2024-01-04" path="§2" type="History" display="false"/>
     <annotation app="2024-03-01" doc="D.C. Law 25-131" eff="2024-03-01" path="§2" type="History" display="false"/>

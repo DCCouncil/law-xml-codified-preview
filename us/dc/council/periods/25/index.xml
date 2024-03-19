@@ -5,6 +5,10 @@
     <heading>Permanent Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/25-140.xml"/>
+      <xi:include href="./laws/25-136.xml"/>
+      <xi:include href="./laws/25-135.xml"/>
+      <xi:include href="./laws/25-132.xml"/>
       <xi:include href="./laws/25-125.xml"/>
       <xi:include href="./laws/25-124.xml"/>
       <xi:include href="./laws/25-123.xml"/>

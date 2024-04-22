@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-242(Perm)</num>
   <heading>Use and disclosure of health and human services information.</heading>
+  <text>
+      *NOTE: This codification is <e>not</e> the most current. To see the current law, click this link <cite path="§7-242">Current Version</cite>*
+      </text>
   <para>
     <num>(a)</num>
     <text>In accordance with <cite path="§7-243">§ 7-243</cite> and without prior consent from the identified individual, an agency or service provider may use and shall disclose to another agency or service provider health and human services information referencing or relating to the identified individual for the following purposes; provided, that the use or disclosure is not specifically prohibited under District or federal law:</text>
@@ -153,6 +156,7 @@
   <annotations>
     <annotation doc="D.C. Law 18-273" type="History" path="§102">Dec. 4, 2010, D.C. Law 18-273, § 102, 57 DCR 7171</annotation>
     <annotation doc="D.C. Law 19-171" type="History">Sept. 26, 2012, D.C. Law 19-171, § 53(a), 59 DCR 6190</annotation>
+    <annotation doc="D.C. Law 23-274" type="History">Apr. 27, 2021, D.C. Law 23-274, § 901, 68 DCR 001034</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 102 of Data-Sharing and Information Coordination Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-582, October 20, 2010,  57 DCR 10118).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 102 of Data-Sharing and Information Coordination Emergency Amendment Act of 2010 (D.C. Act 18-530, August 6, 2010,  57 DCR 8099).</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> validated a previously made technical correction.</annotation>

@@ -197,6 +197,7 @@
         <include>
           <text class="center">Article 12.  Controllable Electronic Records."</text>
           <container>
+            <codify:insert doc="D.C. Code" path="28|I|12" codified:doc="D.C. Code" codified:path="28|I|12|I"/>
             <prefix>Part</prefix>
             <num>I</num>
             <heading>General Provisions.</heading>
@@ -231,9 +232,10 @@
               </section>
             </toc>
             <container>
+              <codify:insert doc="D.C. Code" path="28|I|12" codified:doc="D.C. Code" codified:path="28|I|12|II"/>
               <prefix>Part</prefix>
               <num>II</num>
-              <heading>Transitional Provisions for Articles 9 and 12."</heading>
+              <heading>Transitional Provisions for Articles 9 and 12.<span codify:value="">"</span></heading>
               <toc>
                 <section>
                   <num>28:12-201</num>
@@ -3278,14 +3280,14 @@
             <num>1</num>
             <heading>General Provisions.</heading>
             <section>
-              <codify:insert path="12" num-value="28:12-101" codified:doc="D.C. Code" codified:path="§28:12-101"/>
+              <codify:insert path="12|I" codified:doc="D.C. Code" codified:path="§28:12-101"/>
               <prefix>§</prefix>
               <num>28:12-101</num>
               <heading proof="needed">Short title.</heading>
               <text>This article may be cited as "Uniform Commercial Code—Controllable Electronic Records.</text>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-101" num-value="28:12-102" codified:doc="D.C. Code" codified:path="§28:12-102"/>
+              <codify:insert path="12|I" codified:doc="D.C. Code" codified:path="§28:12-102"/>
               <prefix>§</prefix>
               <num>28:12-102</num>
               <heading proof="needed">Definitions.</heading>
@@ -3327,7 +3329,7 @@
               </para>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-102" num-value="28:12-103" codified:doc="D.C. Code" codified:path="§28:12-103"/>
+              <codify:insert path="12|I" codified:doc="D.C. Code" codified:path="§28:12-103"/>
               <prefix>§</prefix>
               <num>28:12-103</num>
               <heading proof="needed">Relation to Article 9 and consumer laws.</heading>
@@ -3341,7 +3343,7 @@
               </para>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-103" num-value="28:12-104" codified:doc="D.C. Code" codified:path="§28:12-104"/>
+              <codify:insert path="12|I" codified:doc="D.C. Code" codified:path="§28:12-104"/>
               <prefix>§</prefix>
               <num>28:12-104</num>
               <heading proof="needed">Rights in controllable account, controllable electronic record, and controllable payment intangible.</heading>
@@ -3379,7 +3381,7 @@
               </para>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-104" num-value="28:12-105" codified:doc="D.C. Code" codified:path="§28:12-105"/>
+              <codify:insert path="12|I" codified:doc="D.C. Code" codified:path="§28:12-105"/>
               <prefix>§</prefix>
               <num>28:12-105</num>
               <heading proof="needed">Control of controllable electronic record.</heading>
@@ -3469,7 +3471,7 @@
               </para>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-105" num-value="28:12-106" codified:doc="D.C. Code" codified:path="§28:12-106"/>
+              <codify:insert path="12|I" codified:doc="D.C. Code" codified:path="§28:12-106"/>
               <prefix>§</prefix>
               <num>28:12-106</num>
               <heading proof="needed">Discharge of account debtor on controllable account or controllable payment intangible.</heading>
@@ -3571,7 +3573,7 @@
               </para>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-106" num-value="28:12-107" codified:doc="D.C. Code" codified:path="§28:12-107"/>
+              <codify:insert path="12|I" codified:doc="D.C. Code" codified:path="§28:12-107"/>
               <prefix>§</prefix>
               <num>28:12-107</num>
               <heading proof="needed">Governing law.</heading>
@@ -3622,7 +3624,7 @@
             <num>2</num>
             <heading>Transitional Provisions for Articles 9 and 12.</heading>
             <section>
-              <codify:insert path="12" num-value="28:12-201" codified:doc="D.C. Code" codified:path="§28:12-201"/>
+              <codify:insert path="12|II" codified:doc="D.C. Code" codified:path="§28:12-201"/>
               <prefix>§</prefix>
               <num>28:12-201</num>
               <heading proof="needed">Definitions.</heading>
@@ -3668,7 +3670,7 @@
               </para>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-201" num-value="28:12-202" codified:doc="D.C. Code" codified:path="§28:12-202"/>
+              <codify:insert path="12|II" codified:doc="D.C. Code" codified:path="§28:12-202"/>
               <prefix>§</prefix>
               <num>28:12-202</num>
               <heading proof="needed">Saving clause.</heading>
@@ -3698,7 +3700,7 @@
               </para>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-202" num-value="28:12-203" codified:doc="D.C. Code" codified:path="§28:12-203"/>
+              <codify:insert path="12|II" codified:doc="D.C. Code" codified:path="§28:12-203"/>
               <prefix>§</prefix>
               <num>28:12-203</num>
               <heading proof="needed">Security interest perfected before effective date of 2024 Act.</heading>
@@ -3724,7 +3726,7 @@
               </para>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-203" num-value="28:12-204" codified:doc="D.C. Code" codified:path="§28:12-204"/>
+              <codify:insert path="12|II" codified:doc="D.C. Code" codified:path="§28:12-204"/>
               <prefix>§</prefix>
               <num>28:12-204</num>
               <heading proof="needed">Security interest unperfected before effective date of 2024 Act.</heading>
@@ -3754,7 +3756,7 @@
               </para>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-204" num-value="28:12-205" codified:doc="D.C. Code" codified:path="§28:12-205"/>
+              <codify:insert path="12|II" codified:doc="D.C. Code" codified:path="§28:12-205"/>
               <prefix>§</prefix>
               <num>28:12-205</num>
               <heading proof="needed">Effectiveness of actions taken before effective date of the 2024 Act.</heading>
@@ -3772,7 +3774,7 @@
               </para>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-205" num-value="28:12-206" codified:doc="D.C. Code" codified:path="§28:12-206"/>
+              <codify:insert path="12|II" codified:doc="D.C. Code" codified:path="§28:12-206"/>
               <prefix>§</prefix>
               <num>28:12-206</num>
               <heading proof="needed">Priority.</heading>
@@ -3790,7 +3792,7 @@
               </para>
             </section>
             <section>
-              <codify:insert path="12" after="§28:12-206" num-value="28:12-207" codified:doc="D.C. Code" codified:path="§28:12-207"/>
+              <codify:insert path="12|II" codified:doc="D.C. Code" codified:path="§28:12-207"/>
               <prefix>§</prefix>
               <num>28:12-207</num>
               <heading proof="needed">Priority of claims when priority rules of Article 9 do not apply.</heading>

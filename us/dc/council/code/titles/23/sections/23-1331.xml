@@ -44,7 +44,7 @@
     </para>
     <para>
       <num>(H)</num>
-      <text>Sexual abuse in the first degree, or assault with intent to commit first degree sexual abuse;</text>
+      <text>Any felony offense under <cite path="22|30">Chapter 30 of Title 22</cite> (Sexual Abuse);</text>
     </para>
     <para>
       <num>(I)</num>
@@ -57,7 +57,7 @@
   </para>
   <para>
     <num>(4)</num>
-    <text>The term “crime of violence” means aggravated assault; act of terrorism; arson; assault on a police officer (felony); assault with a dangerous weapon; assault with intent to kill, commit first degree sexual abuse, commit second degree sexual abuse, or commit child sexual abuse; assault with significant bodily injury; assault with intent to commit any other offense; burglary; carjacking; armed carjacking; child sexual abuse; cruelty to children in the first degree; extortion or blackmail accompanied by threats of violence; gang recruitment, participation, or retention by the use or threatened use of force, coercion, or intimidation; kidnapping; malicious disfigurement; manslaughter; manufacture or possession of a weapon of mass destruction; mayhem; murder; robbery; sexual abuse in the first, second, or third degrees; use, dissemination, or detonation of a weapon of mass destruction; or an attempt, solicitation, or conspiracy to commit any of the foregoing offenses.</text>
+    <text>The term “crime of violence” means aggravated assault; act of terrorism; arson; assault on a police officer (felony); assault with a dangerous weapon; assault with intent to kill, commit first degree sexual abuse, commit second degree sexual abuse, or commit child sexual abuse; assault with significant bodily injury; assault with intent to commit any other offense; burglary; carjacking; armed carjacking; child sexual abuse; cruelty to children in the first degree; extortion or blackmail accompanied by threats of violence; gang recruitment, participation, or retention by the use or threatened use of force, coercion, or intimidation; kidnapping; malicious disfigurement; manslaughter; manufacture or possession of a weapon of mass destruction; mayhem; murder; robbery; sexual abuse in the first, second, or third degrees; misdemeanor sexual abuse pursuant to <cite path="§22-3006|(b)">§ 22-3006(b)</cite>; misdemeanor sexual abuse of a child or minor pursuant to § 22-3010.01(a-1); strangulation; use, dissemination, or detonation of a weapon of mass destruction; or an attempt, solicitation, or conspiracy to commit any of the foregoing offenses.</text>
   </para>
   <para>
     <num>(5)</num>
@@ -110,5 +110,10 @@
     <annotation type="Prior Codifications">1981 Ed., § 23-1331.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§5-116.01">§ 5-116.01</cite>, <cite path="§5-132.21">§ 5-132.21</cite>, <cite path="§7-1301.03">§ 7-1301.03</cite>, <cite path="§7-2501.01">§ 7-2501.01</cite>, <cite path="§16-2310">§ 16-2310</cite>, <cite path="§16-2310.01">§ 16-2310.01</cite>, <cite path="§16-2331">§ 16-2331</cite>, <cite path="§16-2332">§ 16-2332</cite>, <cite path="§16-2333">§ 16-2333</cite>, <cite path="§16-4205">§ 16-4205</cite>, <cite path="§22-951">§ 22-951</cite>, <cite path="§22-1803">§ 22-1803</cite>, <cite path="§22-1805">§ 22-1805</cite>a, <cite path="§22-2107">§ 22-2107</cite>, <cite path="§22-3215">§ 22-3215</cite>, <cite path="§22-3611">§ 22-3611</cite>, <cite path="§22-4131">§ 22-4131</cite>, <cite path="§22-4501">§ 22-4501</cite>, <cite path="§22-4503">§ 22-4503</cite>, <cite path="§23-1322">§ 23-1322</cite>, <cite path="§23-1323">§ 23-1323</cite>, <cite path="§23-1329">§ 23-1329</cite>, <cite path="§24-211.07">§ 24-211.07</cite>, <cite path="§24-403.01">§ 24-403.01</cite>, <cite path="§24-531.05">§ 24-531.05</cite>, <cite path="§24-531.08">§ 24-531.08</cite>, <cite path="§24-531.09">§ 24-531.09</cite>, and <cite path="§48-1002">§ 48-1002</cite>.</annotation>
     <annotation type="Cross References">Attempt, see <cite path="§22-1803">§ 22-1803</cite>.</annotation>
+    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(h)|(1)" type="History"/>
+    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(h)|(2)" type="History"/>
+    <annotation doc="D.C. Act 25-411" path="§30|(k)" type="Expiration of Law" history="false" app="2024-05-01" eff="2024-05-01"><cite doc="D.C. Act 25-411" path="§30|(k)"> Section 30(k) of D.C. Act 25-411</cite> provided that the amendments made to this section by § 30(h) of D.C. Act 25-411 shall expire 225 days after [insert applicability date].
+      </annotation>
+    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(k)" type="History" display="false"/>
   </annotations>
 </section>

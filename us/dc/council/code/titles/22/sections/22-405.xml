@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-405</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-405(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Assault on member of police force, campus or university special police, or fire department.</heading>
   <para>
     <num>(a)</num>
@@ -59,10 +56,10 @@
     <annotation type="Cross References">Offenses committed against any private correctional officer or other employee of the private operator, inmates confined to CTF, see <cite path="§24-261.03">§ 24-261.03</cite>.</annotation>
     <annotation type="Cross References">Minimum sentence for violation of section, see <cite path="§24-403">§ 24-403</cite>.</annotation>
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§205" type="History"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§15" type="History" display="false"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§15|(a)" type="History"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§15|(b)|(1)" type="History"/>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§15|(b)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§15" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§15">§ 15 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§15" type="History" display="false"/>
+    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§20|(a)" type="History"/>
+    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§20|(b)|(1)" type="History"/>
+    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§20|(b)|(2)" type="History"/>
   </annotations>
 </section>

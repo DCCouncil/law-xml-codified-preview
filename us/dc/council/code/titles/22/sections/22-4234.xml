@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-4234</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-4234(Perm)">Past Permanent Version</cite>.*
-      </text>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 23, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-4234(Perm)">Past Permanent Version</cite>.*
-      </text>
   <heading>Duties.</heading>
   <para>
     <num>(a)</num>
@@ -399,7 +393,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Prior to submitting and posting the aggregate data, the CJCC shall provide each agency that supplies data at least one week to review and comment on the data presentation and any analysis relevant to the agency. The CJCC shall review the feedback provided by the agencies and determine, in its sole discretion, whether to revise the presentation and analysis accordingly.</text>
+      <text>Prior to submitting and posting the aggregate data, the CJCC shall provide each agency that supplies data at least 15 business days to review and comment on the data presentation and any analysis relevant to the agency. The CJCC shall review the feedback and make reasonable efforts to collaborate with agencies to ensure accuracy in the analysis and presentation of each agency's data.</text>
     </para>
   </para>
   <para>
@@ -412,6 +406,267 @@
     <para>
       <num>(2)</num>
       <text>Gun violence and homicide counts and rates citywide and by ward, neighborhood, and police service area.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b-7)</num>
+    <para>
+      <num>(1)</num>
+      <text>By August 1, 2024, and on a quarterly basis thereafter, the CJCC shall submit to the Mayor and the Council and post on its website a report that includes the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>The number of arrests made by the Metropolitan Police Department in the prior quarter for a warrant issued when a defendant fails to appear in court ("bench warrant");</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The number of arrests made by the United States Marshals Service in the prior quarter for a bench warrant;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The number of new bench warrants issued by the Superior Court in the prior quarter;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The total number of outstanding bench warrants; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The number of arrestees arrested in the prior quarter for a different offense while actively under a bench warrant.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Where applicable, the report created under paragraph (1) of this subsection shall disaggregate data by whether the underlying offense in the case was a misdemeanor or felony.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b-8)</num>
+    <para>
+      <num>(1)</num>
+      <text>Beginning March 1, 2025, and by March 1 of each year thereafter, the CJCC shall submit to the Mayor and the Council and post on its website a report that analyzes the trends associated with the Metropolitan Police Department's felony crime statistics. The report shall include:</text>
+      <para>
+        <num>(A)</num>
+        <text>The number and type of felony arrests made by the Metropolitan Police Department;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The number of felony arrests that resulted in conviction and the sentence imposed;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The location of felony arrests by ward, district, and police service area;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The number of suspects involved in each felony arrest;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>The number of victims involved in each felony arrest;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>The characteristics of each suspect arrested for a felony crime, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>The age of the suspect;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The race of the suspect;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The gender of the suspect;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The level of education of the suspect;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>The police service area where the suspect resides;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>The number of prior arrests and contacts the suspect has had with the Metropolitan Police Department as a victim, witness, or suspect;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>The number and type of convictions on the suspect's criminal record;</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>The suspect's relationship, if any, to the victim of the crime for which he or she was charged; and</text>
+        </para>
+        <para>
+          <num>(ix)</num>
+          <text>If known, whether the suspect has had prior contact with the Department of Behavioral Health; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>The characteristics of each victim involved in a felony crime, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>The age of the victim;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The race of the victim;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The gender of the victim;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The level of education of the victim;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>The police service area where the victim resides;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>The number of prior arrests and contacts the victim has had with the Metropolitan Police Department, as a victim, witness, or suspect;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>The number and type of convictions on the victim's criminal record; and</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>The victim's relationship, if any, to the suspect.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>District agencies shall provide information to CJCC upon request to facilitate the creation of the report required by this subsection.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b-9)</num>
+    <text>The CJCC shall submit a report to the Mayor and Council on the efficacy of the pretrial detention provisions in the Secure DC Omnibus Amendment Act of 2024[ D.C. Act 25-411], no later than 180 days after [when applicable] ("Secure DC Omnibus"). The report shall include the following descriptive data:</text>
+    <para>
+      <num>(1)</num>
+      <text>The number and percentage of defendants whose charges are subject to the pretrial detention provisions in the Secure DC Omnibus;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The number and percentage of defendants who were released pretrial prior to July 20, 2023 and after [when effective (not app date)], by type of offense for which the defendant was charged;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The number and percentage of defendants who were rearrested while on pretrial release prior to the effective date of the Prioritizing Public Safety Emergency and after [when effective (not app date)], by type of underlying offense for which the defendant was charged and by type of rearrest offense; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The time from the start of pretrial supervision to rearrest for pretrial defendants who were rearrested for dangerous crimes or crimes of violence prior to July 20, 2023 and after [when effective (not app date)], which shall be disaggregated by type of underlying offense for which the defendant was charged.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b-10)</num>
+    <text>The CJCC shall submit a report to the Mayor and Council on the provisions in the Secure DC Omnibus relating to pre-trial detention for juveniles. The report shall include the following descriptive data:</text>
+    <para>
+      <num>(1)</num>
+      <text>The number and percentage of juveniles who have been found to have a substantial probability to have committed a crime that is subject to the juvenile detention provisions in the Secure DC Omnibus;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The number and percentage of juveniles who have been found to have a substantial probability to have committed a crime that is subject to the juvenile detention provisions in the Secure DC Omnibus who were released before a factfinding or dispositional hearing prior to July 20, 2023, and after [when applicable] by type of offense for which the juvenile was charged;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The number and percentage of juveniles who have been found to have a substantial probability to have committed a crime that is subject to the juvenile detention provisions in the Secure DC Omnibus who were placed in a youth shelter before a factfinding or dispositional hearing prior to July 20, 2023, and after [when applicable] by type of offense for which the juvenile was charged;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The number and percentage of juveniles who have been found to have a substantial probability to have committed a crime that is subject to the juvenile detention provisions in the Secure DC Omnibus who were rearrested while on release prior to a factfinding or dispositional hearing prior to July 20, 2023 and after [when applicable], by type of underlying offense for which the juvenile was charged and by type of rearrest offense;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The number and percentage of juveniles who have been found to have a substantial probability to have committed a crime that is subject to the juvenile detention provisions in the Secure DC Omnibus who were rearrested while placed in a youth shelter prior to a factfinding or dispositional hearing prior to July 20, 2023 and after [when applicable], by type of underlying offense for which the juvenile was charged and by type of rearrest offense;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The time from when a juvenile who was ordered released to rearrest for juveniles who have been found to have a substantial probability to have committed a crime who were rearrested for dangerous crimes or crimes of violence prior to July 20, 2023 and after [when applicable]; which data shall be disaggregated, by type of underlying offense for which the juvenile was charged; and</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The time from when a juvenile who was placed in a youth shelter to rearrest for juveniles who have been found to have a substantial probability to have committed a crime who were rearrested for dangerous crimes or crimes of violence prior to July 20, 2023 and after [when applicable]; which data shall be disaggregated, by type of underlying offense for which the juvenile was charged; provided.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b-11)</num>
+    <para>
+      <num>(1)</num>
+      <text>Within one year after [when applicable], the CJCC shall submit to the Council a report on the programs and policies for witness assistance in the District related to the safety and security of witnesses, and recommendations for improvement thereof.</text>
+      <para>
+        <num>(A)</num>
+        <text>The report shall encompass witness assistance programs, procedures, and operations conducted by the Metropolitan Police Department, the Office of Victims Services and Justice Grants, the Office of the Attorney General, the United States Attorney's Office, the Superior Court of the District of Columbia, and any other entity deemed relevant by the CJCC;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For the purposes of this subsection, the term "witnesses assistance" means any service related to the safety and security of witnesses to criminal cases, but shall not include the federal Witness Protection Program or any witness assistance program related to travel or court proceedings such as interpretation services; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The report shall include:</text>
+        <para>
+          <num>(i)</num>
+          <text>An outline of current witness assistance programs related to the safety and security of witnesses in the District, including:</text>
+          <para>
+            <num>(I)</num>
+            <text>The spectrum of services to which witnesses are referred that are provided by District agencies or organizations operating human support services utilizing grants from the District;</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>Standard operating procedures for coordination between witness assistance programs of the different entities identified in subparagraph (A) of this paragraph;</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>Information on the success rate of witness relocations for the purposes of witness safety and security, including the frequency of witnesses returning to a location placing them at risk; and</text>
+          </para>
+          <para>
+            <num>(IV)</num>
+            <text>Anonymized and general information on the number of persons served by witness assistance programs for safety and security in the District, and any metrics that are tracked to indicate success;</text>
+          </para>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>An assessment of any overlaps or gaps in witness assistance, including referral time and barriers presented by program eligibility or application processes;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>An estimate of the number of placements in temporary shelters, hotels, and other housing programs operated by the District or grantees that would be needed to provide adequate witness assistance without concerns about housing availability;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Recommended performance metrics for witness assistance provided by District agencies and grantees;</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Recommended procedures that would improve handoffs between local and federal partners to ensure a continuum of care;</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>A review of national best practices for state and local-level witness assistance programs;</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>An assessment of the total fiscal impact of witness assistance in the District, broken down by agency and function, for at least the prior four fiscal years, and recommended funding levels; and</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>Policy recommendations to maximize the effective use of witness assistance for the investigation and prosecution of criminal cases.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The CJCC shall submit to the Council a confidential version of the report, which shall not be publicly available or disclosed to a member of the public.</text>
     </para>
   </para>
   <para>
@@ -478,7 +733,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Where necessitated by District or federal law or regulations, DHCF may enter into a Memorandum of Understanding with CJCC regarding the disclosure of data and other information pursuant to this section.</text>
+      <text>Where necessitated by District or federal law or regulations, DHCF may enter into a Memorandum of Understanding with the CJCC regarding the disclosure of data and other information pursuant to this section.</text>
     </para>
   </para>
   <annotations>
@@ -550,13 +805,12 @@
     <annotation app="2023-12-21" doc="D.C. Act 25-339" eff="2023-12-21" path="§5" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§5" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§5">§ 5 of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
     <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§5" type="History" display="false"/>
-    <annotation app="2024-03-02" doc="D.C. Law 25-137" eff="2024-03-02" path="§2" type="History" display="false"/>
-    <annotation app="2024-03-02" doc="D.C. Law 25-137" eff="2024-03-02" path="§2" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-137" path="§2" codified:display="Note" app="2024-03-02" eff="2024-03-02">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-137" path="§2">§ 2 of CJCC Data Collection Technical Correction Temporary Amendment Act of 2023 (D.C. Law 25-137, Mar. 2, 2024, 70 DCR 15478)</cite>.</annotation>
-    <annotation app="2024-03-25" doc="D.C. Act 25-424" eff="2024-03-25" path="§2" type="History" display="false"/>
-    <annotation app="2024-03-25" doc="D.C. Act 25-424" eff="2024-03-25" path="§2|(a)" type="History"/>
-    <annotation app="2024-03-25" doc="D.C. Act 25-424" eff="2024-03-25" path="§2|(b)" type="History"/>
-    <annotation app="2024-03-25" doc="D.C. Act 25-424" eff="2024-03-25" path="§2|(c)" type="History"/>
+    <annotation app="2024-03-02" doc="D.C. Law 25-137" eff="2024-03-02" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-424" path="§2" codified:display="Note" app="2024-03-25" eff="2024-03-25">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-424" path="§2">§ 2 of Criminal Justice Coordinating Council Information Sharing Emergency Amendment Act of 2024 (D.C. Act 25-424, Mar. 25, 2024, 71 DCR 3517)</cite>.</annotation>
+    <annotation app="2024-03-25" doc="D.C. Act 25-424" eff="2024-03-25" path="§2" type="History" display="false"/>
+    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§28|(b)|(1)" type="History"/>
+    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§28|(b)|(2)" type="History"/>
+    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§28|(b)|(3)" type="History"/>
   </annotations>
 </section>

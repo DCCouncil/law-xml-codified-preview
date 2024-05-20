@@ -185,19 +185,11 @@
         <aftertext>.</aftertext>
       </para>
       <para>
-        <codify:insert doc="D.C. Code" path="28|I" after="11" history="false" codified:doc="D.C. Code" codified:path="28|I|12">
-          <container>
-            <prefix>Article</prefix>
-            <num>12</num>
-            <heading>Controllable Electronic Records.</heading>
-          </container>
-        </codify:insert>
         <num>(13)</num>
         <text>Headings for a new Article 12 are added to read as follows:</text>
         <include>
           <text class="center">Article 12.  Controllable Electronic Records."</text>
           <container>
-            <codify:insert doc="D.C. Code" path="28|I|12" codified:doc="D.C. Code" codified:path="28|I|12|I"/>
             <prefix>Part</prefix>
             <num>I</num>
             <heading>General Provisions.</heading>
@@ -232,7 +224,6 @@
               </section>
             </toc>
             <container>
-              <codify:insert doc="D.C. Code" path="28|I|12" codified:doc="D.C. Code" codified:path="28|I|12|II"/>
               <prefix>Part</prefix>
               <num>II</num>
               <heading>Transitional Provisions for Articles 9 and 12.<span codify:value="">"</span></heading>
@@ -3270,6 +3261,27 @@
       </para>
     </para>
     <para>
+      <codify:insert doc="D.C. Code" path="28|I" after="11" history="false" codified:doc="D.C. Code" codified:path="28|I|12">
+        <container>
+          <prefix>Article</prefix>
+          <num>12</num>
+          <heading>Controllable Electronic Records.</heading>
+        </container>
+      </codify:insert>
+      <codify:insert doc="D.C. Code" path="28|I|12" history="false" codified:doc="D.C. Code" codified:path="28|I|12|I">
+        <container>
+          <prefix>Part</prefix>
+          <num>I</num>
+          <heading>General Provisions.</heading>
+        </container>
+      </codify:insert>
+      <codify:insert doc="D.C. Code" path="28|I|12" history="false" codified:doc="D.C. Code" codified:path="28|I|12|II">
+        <container>
+          <prefix>Part</prefix>
+          <num>II</num>
+          <heading>Transitional Provisions for Articles 9 and 12.</heading>
+        </container>
+      </codify:insert>
       <num>(k)</num>
       <text>A new article 12 is added to read as follows:</text>
       <include>
@@ -3277,7 +3289,7 @@
           <heading>ARTICLE 12. CONTROLLABLE ELECTRONIC RECORDS.</heading>
           <container>
             <prefix>Part</prefix>
-            <num>1</num>
+            <num>I</num>
             <heading>General Provisions.</heading>
             <section>
               <codify:insert path="12|I" codified:doc="D.C. Code" codified:path="§28:12-101"/>
@@ -3621,7 +3633,7 @@
           </container>
           <container>
             <prefix>Part</prefix>
-            <num>2</num>
+            <num>II</num>
             <heading>Transitional Provisions for Articles 9 and 12.</heading>
             <section>
               <codify:insert path="12|II" codified:doc="D.C. Code" codified:path="§28:12-201"/>

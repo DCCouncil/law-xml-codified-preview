@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>23-1322</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 29, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§23-1322(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Detention prior to trial.</heading>
   <para>
     <num>(a)</num>
@@ -55,10 +58,10 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>Subject to rebuttal by the person, it shall be presumed that no condition or combination of conditions of release will reasonably assure the safety of any other person and the community if the judicial officer finds that there is probable cause to believe that the person:</text>
+    <text>There shall be a rebuttable presumption that no condition or combination of conditions of release will reasonably assure the safety of any other person and the community if the judicial officer finds by probable cause that the person:</text>
     <para>
       <num>(1)</num>
-      <text>Committed a dangerous crime or a crime of violence, as these crimes are defined in <cite path="§23-1331">§ 23-1331</cite>, while armed with or having readily available a pistol, firearm, imitation firearm, or other deadly or dangerous weapon;</text>
+      <text>Committed a dangerous crime , as that crime is defined in <cite path="§23-1331">§ 23-1331</cite>, while armed with or having readily available a pistol, firearm, imitation firearm, or other deadly or dangerous weapon;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -66,7 +69,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Committed a dangerous crime , as that term is defined in <cite path="§23-1331">§ 23-1331</cite>, and has previously been convicted of a dangerous crime or a crime of violence which was committed while on release pending trial for a local, state, or federal offense;</text>
+      <text>Committed a dangerous crime , as that crime is defined in <cite path="§23-1331">§ 23-1331</cite>, and has previously been convicted of a dangerous crime or a crime of violence which was committed while on release pending trial for a local, state, or federal offense;</text>
     </para>
     <para>
       <num>(4)</num>
@@ -90,7 +93,7 @@
     </para>
     <para>
       <num>(9)</num>
-      <text>Committed a crime of violence, as that term is defined in <cite path="§23-1331|(4)">§ 23-1331(4)</cite>.</text>
+      <text>Committed a crime of violence, as that term is defined in § 23-1331(4).</text>
     </para>
   </para>
   <para>
@@ -157,7 +160,7 @@
     <text>In a release order issued under <cite path="§23-1321|(b)">§ 23-1321(b)</cite> or (c), the judicial officer shall:</text>
     <para>
       <num>(1)</num>
-      <text>Include a written statement that sets forth all the conditions to which the release is subject, in a manner sufficiently clear and specific to serve as a guide for the person’s conduct;</text>
+      <text>Include a written statement that sets forth all the conditions to which the release is subject, in a manner sufficiently clear and specific to serve as a guide for the person’s conduct; and</text>
     </para>
     <para>
       <num>(2)</num>
@@ -172,12 +175,8 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>The provisions of <cite path="§22-722">§ 22-722</cite>, relating to threats, force, or intimidation of witnesses, jurors, and officers of the court, obstruction of criminal investigations and retaliating against a witness, victim, or an informant; and</text>
+        <text>The provisions of <cite path="§22-722">§ 22-722</cite>, relating to threats, force, or intimidation of witnesses, jurors, and officers of the court, obstruction of criminal investigations and retaliating against a witness, victim, or an informant.</text>
       </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Beginning on September 1, 2024, where there is a rebuttable presumption of detention pursuant to either subsection (c) of this section or <cite path="§23-1325|(a)">§ 23-1325(a)</cite>, the judicial officer shall include a written statement of the reasons for the release, setting forth the evidence that supported the rebuttal of the presumption.</text>
     </para>
   </para>
   <para>
@@ -204,7 +203,7 @@
     <num>(h)</num>
     <para>
       <num>(1)</num>
-      <text>The case of the person detained pursuant to subsection (b) of this section shall be placed on an expedited calendar and, consistent with the sound administration of justice, the person shall be indicted before the expiration of 90 days, and shall have trial of the case commence before the expiration of 100 days. However, the time within which the person shall be indicted or shall have the trial of the case commence may be extended for one or more additional periods not to exceed 45 days each on the basis of a petition submitted by the attorney for the government and approved by the judicial officer. The additional period or periods of detention may be granted only on the basis of good cause shown, including due diligence and materiality, and shall be granted only for the additional time required to prepare for the expedited indictment and trial of the person. Good cause may include, but is not limited to, the unavailability of an essential witness, the necessity for forensic analysis of evidence, the ability to conduct a joint trial with a co-defendant or co-defendants, severance of co-defendants which permits only one trial to commence within the time period, complex or major investigations, complex or difficult legal issues, scheduling conflicts which arise shortly before the scheduled trial date, the inability to proceed to trial because of action taken by or at the behest of the defendant, an agreement between the government and the defense to dispose of the case by a guilty plea on or after the scheduled trial date, or the breakdown of a plea on or immediately before the trial date, and allowing reasonable time to prepare for an expedited trial after the circumstance giving rise to a tolling or extension of the 100-day period no longer exists. If the time within which the person must be indicted or the trial must commence is tolled or extended, an indictment must be returned at least 10 days before the new trial date.</text>
+      <text>The case of the person detained pursuant to subsection (b) of this section shall be placed on an expedited calendar and, consistent with the sound administration of justice, the person shall be indicted before the expiration of 90 days, and shall have trial of the case commence before the expiration of 100 days. However, the time within which the person shall be indicted or shall have the trial of the case commence may be extended for one or more additional periods not to exceed 20 days each on the basis of a petition submitted by the attorney for the government and approved by the judicial officer. The additional period or periods of detention may be granted only on the basis of good cause shown, including due diligence and materiality, and shall be granted only for the additional time required to prepare for the expedited indictment and trial of the person. Good cause may include, but is not limited to, the unavailability of an essential witness, the necessity for forensic analysis of evidence, the ability to conduct a joint trial with a co-defendant or co-defendants, severance of co-defendants which permits only one trial to commence within the time period, complex or major investigations, complex or difficult legal issues, scheduling conflicts which arise shortly before the scheduled trial date, the inability to proceed to trial because of action taken by or at the behest of the defendant, an agreement between the government and the defense to dispose of the case by a guilty plea on or after the scheduled trial date, or the breakdown of a plea on or immediately before the trial date, and allowing reasonable time to prepare for an expedited trial after the circumstance giving rise to a tolling or extension of the 100-day period no longer exists. If the time within which the person must be indicted or the trial must commence is tolled or extended, an indictment must be returned at least 10 days before the new trial date.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -328,22 +327,15 @@
     <annotation app="2023-10-16" doc="D.C. Act 25-257" eff="2023-10-16" path="§6|(c)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-339" path="§7|(c)" codified:display="Note" app="2023-12-21" eff="2023-12-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-339" path="§7|(c)">§ 7(c) of Prioritizing Public Safety Second Congressional Review Emergency Amendment Act of 2023 (D.C. Act 25-339, Dec. 21, 2023, 70 DCR 16594)</cite>.</annotation>
     <annotation app="2023-12-21" doc="D.C. Act 25-339" eff="2023-12-21" path="§7|(c)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§7|(c)" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§7|(c)">§ 7(c) of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
     <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)" type="History" display="false"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(1)|(B)" type="History"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(1)|(C)" type="History"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(1)|(D)" type="History"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(1)|(E)" type="History"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(1)|(F)" type="History"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(1)|(G)" type="History"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(1)|(A)" type="History"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(1)|(H)" type="History"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(2)|(A)" type="History"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(2)|(B)" type="History"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(2)|(C)" type="History"/>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(f)|(3)" type="History"/>
-    <annotation doc="D.C. Act 25-411" path="§30|(k)" type="Expiration of Law" history="false" app="2024-05-01" eff="2024-05-01"><cite doc="D.C. Act 25-411" path="§30|(k)"> Section 30(k) of D.C. Act 25-411</cite> provided that the amendments made to this section by § 30(f) of D.C. Act 25-411 shall expire 225 days after [insert applicability date].
-      </annotation>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§30|(k)" type="History" display="false"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(A)" type="History"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(B)" type="History"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(C)" type="History"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(D)" type="History"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(E)" type="History"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(F)" type="History"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(G)" type="History"/>
+    <annotation app="2024-01-17" doc="D.C. Law 25-101" eff="2024-01-17" path="§7|(c)|(1)|(H)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-101" path="§7|(c)" codified:display="Note" app="2024-01-17" eff="2024-01-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-101" path="§7|(c)">§ 7(c) of Prioritizing Public Safety Temporary Amendment Act of 2023 (D.C. Law 25-101, Jan. 17, 2024, 70 DCR 13762)</cite>.</annotation>
   </annotations>
 </section>

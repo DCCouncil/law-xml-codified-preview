@@ -951,7 +951,6 @@
       <xi:include href="./sections/22-4234.xml"/>
       <xi:include href="./sections/22-4235.xml"/>
       <xi:include href="./sections/22-4236.xml"/>
-      <xi:include href="./sections/22-4237.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -968,13 +967,6 @@
     <num>42B</num>
     <heading>Homicide Elimination.</heading>
     <xi:include href="./sections/22-4251.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>42C</num>
-    <heading>Comprehensive Public Safety Plan.</heading>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="" type="History" display="false"/>
-    <xi:include href="./sections/22-4271.xml"/>
   </container>
   <subheading>Subtitle V. Harbor, Game and Fish Laws.</subheading>
   <container>

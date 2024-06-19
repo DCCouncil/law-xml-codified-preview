@@ -1,123 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>24-211.09</num>
   <heading proof="needed">Healthy food at correctional facilities.</heading>
-  <para>
-    <num>(a)</num>
-    <text>For the purposes of this section, the term:</text>
-    <para>
-      <num>(1)</num>
-      <text>"Correctional facilities" means the Central Detention Facility, Correctional Treatment Facility, Central Cell Block, and any other facilities operated by or contracted on behalf of the Department of Corrections to house incarcerated individuals.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>"Director" means the Director of the Department of Corrections.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>"DOC" means the Department of Corrections.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>"DOC residents" means individuals who are incarcerated in the Central Detention Facility, Correctional Treatment Facility, and any other facilities operated by the Department of Corrections to house incarcerated individuals.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <para>
-      <num>(1)</num>
-      <text>Within 6 months after [when applicable], DOC shall establish and publish on its website nutrition standards for all meals served in DOC facilities.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The nutrition standards required by paragraph (1) of this subsection shall meet or exceed the most recent edition of the U.S. Department of Agriculture and U.S. Department of Health and Human Services Dietary Guidelines for Americans U.S. Department of Agriculture and U.S. Department of Health and Human Services Dietary Guidelines for Americans, established pursuant to the National Nutrition Monitoring and Related Research Act of 1990, approved October 22, 1990 (104 Stat. 1034; 7 U.S.C. § 5301 <em>et seq.</em>), including at least:</text>
-      <para>
-        <num>(A)</num>
-        <text>Two servings of dark green vegetables per day, at least one of which is served raw;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Two servings of additional colored vegetables per day, at least one of which is served raw;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Two servings of raw fruit per day; and</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>Five ounces of protein rich foods, including meat, poultry, eggs, fish, nuts, seeds, or tofu, per day.</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The nutrition standards required by paragraph (1) of this subsection shall be updated every 5 years and posted on the DOC website.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>All meals served in DOC facilities shall meet or exceed the nutrition standards established pursuant to paragraph (1) of this subsection.</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Correctional facilities shall serve a plant-based, kosher, halal, or medically-necessary or -recommended food option as the main course to DOC residents who request such a diet for medical, health, religious, or ethical reasons. Meals provided pursuant to this paragraph shall be consistent with nutrition guidelines established under this section.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>DOC shall make the following reports available to the public by publishing on the DOC webpage within 30 days after receipt from the reporting agency or individual:</text>
-    <para>
-      <num>(1)</num>
-      <text>Quarterly inspection of food service operations compliance conducted by the Food Safety Branch of the Department of Health, or similar equivalent report;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Monthly inspection of environmental safety and sanitation of the culinary unit conducted by the Safety Officer of the DOC, or similar equivalent report; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Quarterly inspection of food service operations conducted by the Food Services Contract Monitor of the DOC, or similar equivalent report.</text>
-    </para>
-  </para>
-  <para>
-    <num>(d)</num>
-    <para>
-      <num>(1)</num>
-      <text>Within 8 months after [when applicable], the Mayor shall establish an expanded hospitality and culinary arts training program ("Program") for DOC residents in partnership with existing hospitality and culinary arts career training and education programs operating in the District.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The Program shall:</text>
-      <para>
-        <num>(A)</num>
-        <text>Provide hospitality career and culinary arts training and education opportunities for DOC residents serving the workforce development needs of both DOC residents and the local hospitality economy, including training for hospitality positions at hotels and events, sporting events, restaurant technology, food handling, kitchen training, and hands-on curriculum in culinary arts;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Connect participants to community-based reentry focused providers at least 90 days before release from DOC facilities;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Develop individualized reentry plans for each participant that will be shared with DOC community-based reentry focused providers to be continued after the participant's release;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>Establish a pipeline into hospitality careers by identifying employer partners to assist with apprenticeship or job placement for Program participants before release from DOC facilities;</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>Connect participants with wraparound services, including life skills training, employment coaching, peer support, housing, and healthcare, which shall be identified and provided upon completion of the Program; and</text>
-      </para>
-      <para>
-        <num>(F)</num>
-        <text>Successfully complete at least 4 cohorts consisting of at least 20 participants per year.</text>
-      </para>
-    </para>
-  </para>
-  <para>
-    <num>(e)</num>
-    <text>As part of hands-on training, participants in the Program shall participate in the preparing and serving of meals consistent with the nutritional standards established pursuant to this section to the general population and officer dining rooms.</text>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation type="History" doc="Stat. 79-2-ch507" path="§9">June 27, 1946, ch. 507, § 9</annotation>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§32" prefix="as added" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 25-175" eff="2024-06-08" path="§32" prefix="as added" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-175" path="§32" codified:display="Note" app="2024-06-08" eff="2024-06-08">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the creation of this section by <cite doc="D.C. Law 25-175" path="§32">§ 32 of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§32" type="History"/>
   </annotations>
 </section>

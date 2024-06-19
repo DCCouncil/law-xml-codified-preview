@@ -491,6 +491,7 @@
     <xi:include href="./sections/48-1003.xml"/>
     <xi:include href="./sections/48-1004.xml"/>
     <xi:include href="./sections/48-1005.xml"/>
+    <xi:include href="./sections/48-1006.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

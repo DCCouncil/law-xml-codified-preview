@@ -1,45 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Not Funded</reason>
   <num>48-1006</num>
   <heading proof="needed">Reporting.</heading>
-  <para>
-    <num undesignated="true">(a)</num>
-    <text>No later than one year after [insert effective date], and annually thereafter, the Chief of Police shall submit a report to the Mayor and the Chairman of the Council that shall include the following information:</text>
-    <para>
-      <num>(1)</num>
-      <text>The boundaries of all drug free zones declared by the Chief of Police in the past year;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>A list of all drug free zones located within 100 feet of a licensed medical or social services clinic in the past year;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>For each drug free zone declared, data on the following information in the 6 months prior to and up to the 6 months following the declaration of the drug free zone:</text>
-      <para>
-        <num>(A)</num>
-        <text>Arrests for the possession or distribution of illegal drugs in the boundaries of the drug free zone;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Police reports for dangerous crimes or crimes of violence, as those terms are defined in <cite path="§23-1331">§ 23-1331</cite>, in the boundaries of the drug free zone;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>The number of homicides that were committed in the boundaries of the drug free zone;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>A description of the objective evidence or verifiable information demonstrating that illegal drugs were being sold and distributed on public property within the boundaries of the drug free zone prior to the designation of the drug free zone; and</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>Any other verifiable information from which the Chief of Police may ascertain whether the health or safety of residents who live in the boundaries of the drug free zone were being endangered by the purchase, sale, or use of illegal drugs or other illegal activity.</text>
-      </para>
-    </para>
-  </para>
+  <text>Not Funded.</text>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§48-1006" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-1006">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the revival and amendment of this section by <cite doc="D.C. Law 25-175" path="§37">§ 37 of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 11-270" type="History" path="§6">June 3, 1997, D.C. Law 11-270, § 6, 43 DCR 4493</annotation>
-    <annotation app="2024-05-01" doc="D.C. Act 25-411" eff="2024-05-01" path="§37" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§37" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 25-175" path="§37" codified:display="Note" app="2024-06-08" eff="2024-06-08">Applicability of <cite doc="D.C. Law 25-175" path="">D.C. Law 25-175</cite>: <cite doc="D.C. Law 25-175" path="§45">§ 45 of D.C. Law 25-175</cite> provided that the revival and amendment of this section by <cite doc="D.C. Law 25-175" path="§37">§ 37 of D.C. Law 25-175</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History"/>
+    <annotation app="2024-06-08" doc="D.C. Law 25-175" eff="2024-06-08" path="§45|(a)|(1)" type="History" display="false"/>
   </annotations>
 </section>

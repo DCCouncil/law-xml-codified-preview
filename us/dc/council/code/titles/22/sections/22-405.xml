@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-405</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 9, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§22-405(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Mayhem or maliciously disfiguring.</heading>
   <text>Every person convicted of mayhem or of maliciously disfiguring another shall be imprisoned for not more than 10 years. In addition to any other penalty provided under this section, a person may be fined an amount not more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>.</text>
   <annotations>
@@ -17,7 +14,7 @@
     <annotation type="Prior Codifications">2001 Ed., § 22-406.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§5-132.21">§ 5-132.21</cite>, <cite path="§22-3152">§ 22-3152</cite>, and <cite path="§24-112">§ 24-112</cite>.</annotation>
     <annotation type="Cross References">Additional penalty for possession of firearm, see <cite path="§22-4502">§ 22-4502</cite>.</annotation>
-    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§15" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-410" path="§15" codified:display="Note" app="2024-03-11" eff="2024-03-11">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-410" path="§15">§ 15 of Secure DC Omnibus Emergency Amendment Act of 2024 (D.C. Act 25-410, Mar. 11, 2024, 71 DCR 2693)</cite>.</annotation>
+    <annotation app="2024-03-11" doc="D.C. Act 25-410" eff="2024-03-11" path="§15" type="History" display="false"/>
   </annotations>
 </section>

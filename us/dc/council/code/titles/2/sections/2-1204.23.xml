@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>2-1204.23</num>
+  <heading proof="needed">Compliance review.</heading>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Office shall have the authority to conduct random reviews of movie theaters for the purpose of ensuring compliance with <cite path="2|12|II-A|C">this part</cite>; provided, that for each movie theater covered by <cite path="§2-1204.22|(a)">§ 2-1204.22(a)</cite>, the Office shall review no fewer than 3 operating weeks per calendar year.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Office shall have the authority to request showtime information by written or verbal inquiry, conference, or any other method or combination of methods suitable in the discretion of the Director of the Office.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Office shall establish a process for receiving consumer reports of suspected violations of <cite path="2|12|II-A|C">this part</cite> and shall use such reports to inform the initiation of inquiries pursuant to <cite path="§2-1403.01|(b)">§ 2-1403.01(b)</cite>.</text>
+  </para>
+  <annotations>
+    <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="" type="History" display="false"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§4" type="History"/>
+  </annotations>
+</section>

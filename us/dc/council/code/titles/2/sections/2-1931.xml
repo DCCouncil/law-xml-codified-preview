@@ -96,7 +96,7 @@
         </para>
         <para>
           <num>(xix)</num>
-          <text>Department of Consumer and Regulatory Affairs;</text>
+          <text>Department of Licensing and Consumer Protection;</text>
         </para>
         <para>
           <num>(xx)</num>
@@ -120,11 +120,23 @@
         </para>
         <para>
           <num>(xxv)</num>
-          <text>Office of Tax and Revenue; and</text>
+          <text>Office of Tax and Revenue;</text>
         </para>
         <para>
           <num>(xxvi)</num>
-          <text>Office of the People’s Counsel.</text>
+          <text>Office of the People’s Counsel;</text>
+        </para>
+        <para>
+          <num>(xxvii)</num>
+          <text>Office of Disability Rights;</text>
+        </para>
+        <para>
+          <num>(xxviii)</num>
+          <text>Office for the Deaf, Deafblind, and Hard of Hearing; and[ ]</text>
+        </para>
+        <para>
+          <num>(xxix)</num>
+          <text>Department of Buildings.</text>
         </para>
       </para>
       <para>
@@ -168,5 +180,9 @@
     <annotation doc="D.C. Law 24-45" path="§7182" type="Applicability" history="false" app="2021-11-13" eff="2021-11-13"><cite doc="D.C.Law 24-45" path="§7182">Section 7182 of D.C. Law 24-45</cite> repealed <cite doc="D.C. Law 22-21" path="§11">section 11 of D.C. Law 22-21</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 8 of Law 22-21 has been implemented.
         </annotation>
     <annotation app="2021-11-13" doc="D.C. Law 24-45" eff="2021-11-13" path="§7182" type="History" display="false"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§8|(a)|(1)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§8|(a)|(2)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§8|(a)|(3)" type="History"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-190" eff="2024-07-19" path="§8|(a)|(4)" type="History"/>
   </annotations>
 </section>

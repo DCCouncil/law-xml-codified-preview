@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>3-1208.77</num>
+  <heading proof="needed">Limitations.</heading>
+  <para>
+    <num>(a)</num>
+    <text>A registered school psychologist shall not practice psychology as defined under section 102(16)(A)(i) or (ii) without the authorization required for such practice.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A psychology associate shall not practice psychology except under the supervision of a licensed health services psychologist.</text>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Law 6-99" type="History" path="§883">Mar. 25, 1986, D.C. Law 6-99, § 883</annotation>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ppp)" type="History" display="false"/>
+    <annotation app="2024-07-19" doc="D.C. Law 25-191" eff="2024-07-19" path="§101|(ppp)" prefix="as added" type="History"/>
+  </annotations>
+</section>

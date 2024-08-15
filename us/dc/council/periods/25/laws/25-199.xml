@@ -57,7 +57,7 @@
       <text>A new subsection (b-31) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§2-1831.03|(b-31)"/>
+          <codify:insert after="(b-30)" codified:doc="D.C. Code" codified:path="§2-1831.03|(b-31)"/>
           <num>(b-31)</num>
           <text><code-cite doc="D.C. Code" path="2|18A">This act</code-cite> shall apply to all adjudicated cases involving imposition of a civil fine for violations of <code-cite doc="D.C. Code" path="7|10">An Act To enable the blind and the otherwise physically disabled to participate fully in the social and economic life of the District of Columbia, approved October 21, 1972 (86 Stat. 970; D.C. Official Code § 7-1001 <em>et seq</em>.)</code-cite>.</text>
         </para>

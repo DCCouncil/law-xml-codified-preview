@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-208(Perm)</num>
-  <heading>Truancy procedures; inter-agency coordination.</heading>
+  <heading proof="needed">Truancy procedures; inter-agency coordination.</heading>
+  <text>
+      *NOTE: This codification is <u><b>not</b></u> the most current. To see the current law, click this link <cite path="§38-208">Current Version</cite>*
+      </text>
   <para>
     <num>(a)</num>
     <text>Repealed.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>Within 2 business days of the 10th unexcused absence, the educational institution shall notify the Office of the State Superintendent of Education which shall provide the parent with the truancy prevention resource guide created pursuant to <u>§ 38-2602(b)(19)</u>; provided, that the parent has not received the truancy prevention resource guide before the 10th unexcused absence.</text>
+    <text>Within 2 business days of the 10th unexcused absence, the educational institution shall notify the Office of the State Superintendent of Education which shall provide the parent with the truancy prevention resource guide created pursuant to § 38-2602(b)(19); provided, that the parent has not received the truancy prevention resource guide before the 10th unexcused absence.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -17,7 +20,7 @@
       <num>(1)</num>
       <para>
         <num>(A)</num>
-        <text>Beginning in the 2016-2017 school year, the educational institution shall refer a minor student 5 years of age through 13 years of age to the Child and Family Services Agency pursuant to <u>§ 4-1321.02(a-1)</u>, no later than 2 business days after the accrual of 10 unexcused full school day absences within a school year.</text>
+        <text>Beginning in the 2016-2017 school year, the educational institution shall refer a minor student 5 years of age through 13 years of age to the Child and Family Services Agency pursuant to § 4-1321.02(b)(1)(B) no later than 2 business days after the accrual of 10 unexcused full school day absences within a school year.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -35,11 +38,12 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>By July 1 of each year, the State Superintendent of Education shall send written notice to each educational institution outlining the attendance and reporting requirements outlined in <u>this subchapter</u>.</text>
+    <text>By July 1 of each year, the State Superintendent of Education shall send written notice to each educational institution outlining the attendance and reporting requirements outlined in this subchapter.</text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 68-2-ch140" path="§7">Feb. 4, 1925, ch. 140, Art. II, § 7</annotation>
     <annotation doc="D.C. Law 20-17" type="History">as added Sept. 19, 2013, D.C. Law 20-17, § 101(b)(2), 60 DCR 9839</annotation>
-    <annotation doc="D.C. Law 21-140" type="History">July 26, 2016, D.C. Law 21-140, § 2(f), 63 DCR 8207</annotation>
+    <annotation doc="D.C. Law 21-140" type="History" path="§2|(f)">Apr. 12, 2005, D.C. Law 21-140, § 2(f), 63 DCR 8207</annotation>
+    <annotation doc="D.C. Law 24-341" type="History" path="§111|(b)">Apr. 12, 2005, D.C. Law 24-341, § 111(b), 69 DCR 14698</annotation>
   </annotations>
 </section>

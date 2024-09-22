@@ -36,6 +36,10 @@
       </para>
     </para>
     <para>
+      <num>(1C)</num>
+      <text>Notwithstanding any other provision of law, an Advisory Neighborhood Commissioner may call a meeting, be counted for determination of a quorum, remotely participate, and vote on matters before the Commission without being physically present; provided, that the Commissioner participates through teleconference or other digital means identified by the Commission for this purpose.</text>
+    </para>
+    <para>
       <num>(2)</num>
       <text>To the extent possible, each Commission shall, at its first meeting of the calendar year, adopt a schedule of regular Commission meetings for the remainder of the calendar year. Each Commission shall, at its public meetings, consider and make recommendations on matters before the Commission that may include, but are not limited to, actions or proposed actions of the Council, the Mayor, executive branch agencies, or any independent agency, board, or commission.</text>
     </para>
@@ -313,6 +317,7 @@
     <annotation app="2023-11-28" doc="D.C. Law 25-70" eff="2023-11-28" path="§2" type="History" display="false"/>
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1102|(a)|(2)" type="History" display="false"/>
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1102|(a)|(1)" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1102|(a)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§1102|(a)|(2)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§1102|(a)|(2)">§ 1102(a)(2) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
   </annotations>
 </section>

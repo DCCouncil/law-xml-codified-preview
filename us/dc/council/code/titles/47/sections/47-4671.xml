@@ -2,10 +2,13 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>47-4671</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-4671(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Mypheduh Films DBA Sankofa Video and Books, Lot 884, Square 2885.</heading>
   <para>
     <num>(a)</num>
-    <text>The real property designated for tax purposes as Lot 884, Square 2885, located at 2714 Georgia Avenue, N.W., ("Property"), which is owned by Mypheduh Films, Inc., (dba) Sankofa Video and Books, shall be exempt from the tax imposed by <cite path="47|8">Chapter 8 of this title</cite> for the period beginning October 1, 2019, and ending September 30, 2029; provided, that:</text>
+    <text>The real property designated for tax purposes as Lot 884, Square 2885, located at 2714 Georgia Avenue, N.W., ("Property"), which is owned by Mypheduh Films, Inc., (dba) Sankofa Video and Books, shall be exempt from the tax imposed by <cite path="47|8">Chapter 8 of this title</cite> for the period beginning October 1, 2019, and ending September 30, 2034; provided, that:</text>
     <para>
       <num>(1)</num>
       <text>The Property is owned and maintained by Mypheduh Films, Inc., (dba) Sankofa Video and Books, or by an entity controlled, directly or indirectly, by Mypheduh Films, Inc., (dba) Sankofa Video and Books;</text>
@@ -50,5 +53,8 @@
         </annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7071" type="History" display="false"/>
     <annotation app="2022-07-12" doc="D.C. Law 24-147" eff="2022-07-12" path="§114" type="History"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7192" type="History" display="false"/>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7192" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7192" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7192">§ 7192 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
   </annotations>
 </section>

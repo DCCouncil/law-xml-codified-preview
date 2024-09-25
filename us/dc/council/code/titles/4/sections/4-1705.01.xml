@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-1705.01</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 13, 2024.*
-      </text>
   <heading proof="needed">Client Privilege for Coordinated Intake and Referral.</heading>
   <para>
     <num>(a)</num>
@@ -17,16 +14,10 @@
     <num>(c)</num>
     <text>Nothing in this section shall limit, waive, or abrogate the scope or nature of any statutory or common-law privilege, including work product, the attorney-client privilege, or the subsequent remedial measures exclusion.</text>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-1704.07" expire="2024-07-15" codified:display="Note">For temporary (90 days) creation of § 4-1705.01, see <cite doc="D.C. Act 25-506" path="§3042|(b)|includes|D|501">§ 501 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§4-1705.01" applicability="2024-07-15" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-1705.01">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§3042|(b)|includes|D|501">§ 501 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§4-1705.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1705.01">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 13, 2024.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§3042|(b)" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§3042|(b)" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§3042|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§3042|(b)|includes|D|501">§ 501 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§3042|(b)" codified:display="Note" app="2024-09-18" eff="2024-07-15">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§3042|(b)|includes|D|501">§ 501 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-09-18" doc="D.C. Act 25-506" eff="2024-07-15" path="§3042|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§3042|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§3042|(b)" prefix="as added" type="History"/>
   </annotations>
 </section>

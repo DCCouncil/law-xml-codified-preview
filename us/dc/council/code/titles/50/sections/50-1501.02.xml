@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-1501.02</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§50-1501.02(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Motor vehicles and trailers; expiration; certificates and tags; sale or transfer; Mayor to issue rules.</heading>
   <para>
     <num>(a)</num>
@@ -430,9 +427,12 @@
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6152|(a)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 25-161" path="§7" codified:display="Note" app="2024-04-20" eff="2024-04-20">Applicability of <cite doc="D.C. Law 25-161" path="">D.C. Law 25-161</cite>: <cite doc="D.C. Law 25-161" path="§8">§ 8 of D.C. Law 25-161</cite> provided that the change made to this section by <cite doc="D.C. Law 25-161" path="§7">§ 7 of D.C. Law 25-161</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-04-20" doc="D.C. Law 25-161" eff="2024-04-20" path="§7" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6082|(e)|(1)" type="History" display="false"/>
     <annotation doc="D.C. Act 25-506" path="§6082|(e)|(1)" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§6082|(e)">Section 6082(e) of D.C. Act 25-506</cite> amended <cite doc="D.C. Law 25-161" path="§8">section 8 of D.C. Law 25-161</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 7 of Law 25-161 has been implemented.
             </annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§6082|(e)|(1)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§6082|(e)|(1)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§6082|(e)|(1)">§ 6082(e)(1) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation doc="D.C. Law 25-217" path="§6082|(e)|(1)" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-218" path="§6082|(e)">Section 6082(e) of D.C. Law 25-218</cite> amended <cite doc="D.C. Law 25-161" path="§8">section 8 of D.C. Law 25-161</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 7 of Law 25-161 has been implemented.
+            </annotation>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§6082|(e)|(1)" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-2264</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 13, 2024.*
-      </text>
   <heading proof="needed">Achieving competency in structured literacy instruction.</heading>
   <para>
     <num>(a)</num>
@@ -58,21 +55,12 @@
       <text>OSSE shall make the compliance letters received pursuant to paragraph (1) of this subsection publicly available within 15 business days after receiving them.</text>
     </para>
   </para>
-  <codify:emergency doc="D.C. Code" path="§38-2264" codified:doc="D.C. Code" codified:path="§38-2264" codified:display="Note"/>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-2263" expire="2024-07-15" codified:display="Note">For temporary (90 days) creation of § 38-2264, see <cite doc="D.C. Act 25-506" path="§4172|(b)|includes|4115">§ 4115 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-2264" applicability="2024-07-15" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-2264">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§4172|(b)|includes|4115">§ 4115 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§38-2264" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2264">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 13, 2024.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation doc="D.C. Law 24-167" type="History" path="§4115" display="false">Sept. 21, 2022, D.C. Law 24-167, § 4115</annotation>
     <annotation doc="D.C. Law 24-167" type="History" path="§4115">Sept. 21, 2022, D.C. Law 24-167, § 4115</annotation>
+    <annotation doc="D.C. Law 24-167" type="History" path="§4115" display="false">Sept. 21, 2022, D.C. Law 24-167, § 4115</annotation>
     <annotation app="2022-09-21" doc="D.C. Law 24-167" eff="2022-09-21" path="IV|L" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4172|(b)" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4172|(b)" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4172|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§4172|(b)|includes|4115">§ 4115 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4172|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§4172|(b)|includes|4115">§ 4115 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4172|(b)" codified:display="Note" app="2024-09-18" eff="2024-07-15">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§4172|(b)|includes|4115">§ 4115 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-09-18" doc="D.C. Act 25-506" eff="2024-07-15" path="§4172|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4172|(b)" prefix="as added" type="History"/>
   </annotations>
 </section>

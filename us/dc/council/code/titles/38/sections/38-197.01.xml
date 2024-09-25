@@ -1,10 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-197.01</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 13, 2024.*
-      </text>
-  <heading>School Connect Pilot Program.</heading>
+  <heading>School Connect Pilot Program</heading>
   <para>
     <num>(a)</num>
     <text>The Deputy Mayor for Education shall convene a working group to establish a plan for transition of the School Connect pilot program ("Pilot Program"), as operated by the Department of For-Hire Vehicles, and to provide recommendations for the repositioning of positions, vehicles, software, and any other assets to a District agency within the Education or Public Safety cluster.</text>
@@ -77,18 +74,11 @@
     <num>(e)</num>
     <text>No later than 30 days prior to the Mayor's submission of the Fiscal Year 2026 budget and financial plan, the Deputy Mayor for Education shall provide, in writing, an update on the recommendations of the working group to the Council committees with jurisdiction over the Education cluster and the Department of For-Hire Vehicles.</text>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-196.01" expire="2024-07-15" codified:display="Note">For temporary (90 days) creation of § 38-197.01, see <cite doc="D.C. Act 25-506" path="§4132">§ 4132 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-197.01" applicability="2024-07-15" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-197.01">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§4132">§ 4132 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§38-197.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-197.01">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 13, 2024.*
-      </text>
-  </codify:insert>
   <annotations>
     <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="IV|N" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4132" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§4132" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4132" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§4132">§ 4132 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§4132" codified:display="Note" app="2024-09-18" eff="2024-07-15">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§4132">§ 4132 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-09-18" doc="D.C. Act 25-506" eff="2024-07-15" path="§4132" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="IV|N" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§4132" type="History"/>
   </annotations>
 </section>

@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1382</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§2-1382(Perm)">Permanent Version</cite>.*
-      </text>
   <heading proof="needed">Establishment of the Office of Lesbian, Gay, Bisexual, Transgender, and Questioning Affairs; Advisory Committee.</heading>
   <para>
     <num>(a)</num>
@@ -11,7 +8,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The Mayor shall appoint a Director of the Office with the advice and consent of the Council, pursuant to <cite path="§1-523.01|(a)">§ 1-523.01(a)</cite>, and shall fix the compensation of the Director pursuant to <cite path="1|6|X-A">subchapter X-A of Chapter 6 of Title 1</cite>; except, that this subsection shall not apply to a Director of the Office appointed by the Mayor prior to September 18, 2024.</text>
+    <text>The Mayor shall appoint a Director of the Office with the advice and consent of the Council, pursuant to <cite path="§1-523.01|(a)">§ 1-523.01(a)</cite>, and shall fix the compensation of the Director pursuant to <cite path="1|6|X-A">subchapter X-A of Chapter 6 of Title 1</cite>; except, that this subsection shall not apply to a Director of the Office appointed by the Mayor prior to the effective date of the LGBTQ Affairs Budget Transparency Amendment Act of 2024, passed on 2nd reading on June 25, 2024 (Enrolled version of Bill 25-784).</text>
   </para>
   <para>
     <num>(c)</num>
@@ -41,8 +38,9 @@
     <annotation type="Applicability" doc="D.C. Law 25-176" codified:display="Note" app="2024-06-12" eff="2024-06-12" path="§4|(a)" display="false">Applicability of <cite doc="D.C. Law 25-176" path="">D.C. Law 25-176</cite>: <cite doc="D.C. Law 25-176" path="§5">§ 5 of D.C. Law 25-176</cite> provided that the change made to this section by <cite doc="D.C. Law 25-176" path="§4|(a)">§ 4(a) of D.C. Law 25-176</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2024-06-12" doc="D.C. Law 25-176" eff="2024-06-12" path="§4|(a)" type="History" display="false"/>
     <annotation app="2024-06-12" doc="D.C. Law 25-176" eff="2024-06-12" path="§2" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1092|(a)" type="History" display="false"/>
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1092|(a)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§1092|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§1092|(a)">§ 1092(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§1092|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§1092|(a)" type="History"/>
   </annotations>
 </section>

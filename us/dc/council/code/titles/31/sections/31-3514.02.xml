@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>31-3514.02</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§31-3514.02(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Establishment of Healthy DC and Health Care Expansion Fund.</heading>
   <para>
     <num>(a)</num>
@@ -91,8 +88,8 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> rewrote the section.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§4-632">§ 4-632</cite>, <cite path="§4-637">§ 4-637</cite>, <cite path="§31-3403.01">§ 31-3403.01</cite>, <cite path="§31-3501">§ 31-3501</cite>, <cite path="§31-3514">§ 31-3514</cite>, <cite path="§47-368.06">§ 47-368.06</cite>, and <cite path="§47-2002">§ 47-2002</cite>.</annotation>
     <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5072" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5072" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§5072" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§5072">§ 5072 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5072" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5072" type="History"/>
   </annotations>
 </section>

@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-340.28</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-340.28(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Bond authorization.</heading>
   <para>
     <num>(a)</num>
@@ -43,8 +40,8 @@
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-117">D.C. Law 20-117</cite> substituted “costs of Capital Projects and the New Communities Initiative Projects” for “costs of Capital Projects” in (a); substituted “the Capital Projects and the New Communities Initiative Projects” for “the capital projects” in (b-1); and, in (d), substituted “series of the bonds for the Capital Projects, less any capitalized interest, accrued interest, and costs of issuance” for “series of the bonds, less any capitalized interest accrued interest and costs of issuance” in the first sentence, and added the second sentence.</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-46">D.C. Law 20-46</cite> substituted “$9,180,985,000” for “$5,180,985,000 in (a).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-39">D.C. Law 19-39</cite> rewrote subsecs. (a) and (b); and added subsecs. (b-1) and (e).</annotation>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7212|(a)" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7212|(a)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7212|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§7212|(a)">§ 7212(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7212|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7212|(a)" type="History"/>
   </annotations>
 </section>

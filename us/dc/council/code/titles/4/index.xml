@@ -1306,7 +1306,7 @@
         <prefix>Part</prefix>
         <num>D</num>
         <heading>Client Privilege for Coordinated Intake and Referral.</heading>
-        <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§3042|(b)" type="History" display="false"/>
+        <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§3042|(b)" type="History" display="false"/>
         <xi:include href="./sections/4-1705.01.xml"/>
       </container>
     </container>

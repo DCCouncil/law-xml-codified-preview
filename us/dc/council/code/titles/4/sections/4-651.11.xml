@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-651.11</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-651.11(Perm)">Permanent Version</cite>.*
-      </text>
   <heading proof="needed">Reimbursement for home visiting services.</heading>
   <para>
     <num>(a)</num>
@@ -96,15 +93,18 @@
     <annotation app="2024-03-23" doc="D.C. Law 25-142" eff="2024-03-23" path="§2" type="History"/>
     <annotation app="2024-03-23" doc="D.C. Law 25-142" eff="2024-03-23" path="§3" type="History" display="false"/>
     <annotation app="2024-03-23" doc="D.C. Law 25-142" eff="2024-03-23" path="§2" prefix="as added" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5222" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5222|(a)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5222|(b)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5222|(c)|(1)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5222|(c)|(2)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5222|(c)|(3)" type="History"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5223" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§5222" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§5222">§ 5222 of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5222" type="History" display="false"/>
     <annotation doc="D.C. Act 25-506" path="§5223" type="Applicability" history="false" app="2024-07-15" eff="2024-07-15"><cite doc="D.C. Act 25-506" path="§5223">Section 5223 of D.C. Act 25-506</cite> repealeded <cite doc="D.C. Law 25-142" path="§3">section 3 of D.C. Law 25-142</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2 of Law 25-142 has been implemented.
+            </annotation>
+    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5223" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5222|(a)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5222|(b)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5222|(c)|(1)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5222|(c)|(2)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5222|(c)|(3)" type="History"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5223" type="History" display="false"/>
+    <annotation doc="D.C. Law 25-217" path="§5223" type="Applicability" history="false" app="2024-09-18" eff="2024-09-18"><cite doc="D.C. Law 25-218" path="§5223">Section 5223 of D.C. Law 25-218</cite> repealeded <cite doc="D.C. Law 25-142" path="§3">section 3 of D.C. Law 25-142</cite> removing the applicability provision impacting this section.  Therefore the amendment of this section by section 2 of Law 25-142 has been implemented.
             </annotation>
   </annotations>
 </section>

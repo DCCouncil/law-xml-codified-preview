@@ -2,9 +2,6 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <prefix>§</prefix>
   <num>47-4681</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on October 13, 2024.*
-      </text>
   <heading proof="needed">Tax Abatement for 1735 K Street, NW; Lot 849, Square 163.</heading>
   <para>
     <num>(a)</num>
@@ -67,8 +64,8 @@
     <text>By December 31 of each tax year of the abatement period provided in subsection (b) of this section, the Mayor shall certify to the Office of Tax and Revenue that the Property is eligible for the abatement provided in this section for that tax year. The Mayor shall notify the Office of Tax and Revenue if the Property ceases to be eligible for the abatement and the date such eligibility ceased.</text>
   </para>
   <annotations>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7152|(b)" type="History" display="false"/>
-    <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§7152|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7152|(b)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§7152|(b)">§ 7152(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§7152|(b)" codified:display="Note" app="2024-09-18" eff="2024-07-15">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-506" path="§7152|(b)">§ 7152(b) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
+    <annotation app="2024-09-18" doc="D.C. Act 25-506" eff="2024-07-15" path="§7152|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§7152|(b)" type="History"/>
   </annotations>
 </section>

@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-753.01</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 20, 2024. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-753.01(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 1, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-753.01(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Continuum of Care for individuals and families who are homeless.</heading>
   <para>
@@ -257,13 +257,15 @@
     <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§11|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§5062|(a)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§5062|(a)">§ 5062(a) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>
     <annotation app="2024-07-15" doc="D.C. Act 25-506" eff="2024-07-15" path="§5062|(a)" type="History" display="false"/>
-    <annotation app="2024-07-22" doc="D.C. Act 25-519" eff="2024-07-22" path="§201|(b)" type="History" display="false"/>
-    <annotation app="2024-07-22" doc="D.C. Act 25-519" eff="2024-07-22" path="§201|(b)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-519" path="§201|(b)" codified:display="Note" app="2024-07-22" eff="2024-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-519" path="§201|(b)">§ 201(b) of Migrant Services and Supports Extension Emergency Amendment Act of 2024 (D.C. Act 25-519, July 22, 2024, 71 DCR 9355)</cite>.</annotation>
+    <annotation app="2024-07-22" doc="D.C. Act 25-519" eff="2024-07-22" path="§201|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-522" path="§2" codified:display="Note" app="2024-07-23" eff="2024-07-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-522" path="§2">§ 2 of Family Re-Housing Stabilization Program Protection Emergency Amendment Act of 2024 (D.C. Act 25-522, July 23, 2024, 71 DCR 9578)</cite>.</annotation>
     <annotation app="2024-07-23" doc="D.C. Act 25-522" eff="2024-07-23" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-208" path="§11|(a)" codified:display="Note" app="2024-09-18" eff="2024-09-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-208" path="§11|(a)">§ 11(a) of Fiscal Year 2024 Revised Local Budget Adjustment Temporary Act of 2024 (D.C. Law 25-208, Sept. 18, 2024, 71 DCR 9914)</cite>.</annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-208" eff="2024-09-18" path="§11|(a)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-214" eff="2024-09-18" path="§201|(b)" type="History" display="false"/>
+    <annotation app="2024-09-18" doc="D.C. Law 25-214" eff="2024-09-18" path="§201|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-214" path="§201|(b)" codified:display="Note" app="2024-09-18" eff="2024-09-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-214" path="§201|(b)">§ 201(b) of Migrant Services and Supports Extension Temporary Amendment Act of 2024 (D.C. Law 25-214, Sept. 18, 2024, 71 DCR 9949)</cite>.</annotation>
     <annotation app="2024-09-18" doc="D.C. Law 25-217" eff="2024-09-18" path="§5062|(a)" type="History"/>
   </annotations>
 </section>

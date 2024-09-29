@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-301.86b</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on January 12, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-301.86b(Perm)">Prior Permanent Version</cite>.*
-      </text>
   <heading>Litigation Support Fund.</heading>
   <para>
     <num>(a)</num>
@@ -127,7 +124,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>50% shall be transferred to the Tobacco Use Cessation Fund, established by the Tobacco Cessation Initiatives Amendment Act of 2024, passed on 2nd reading on June 25, 2024 (Enrolled version of Bill 25-784), to be used for the authorized purposes of that fund.</text>
+      <text>50% shall be transferred to the Tobacco Use Cessation Fund, established by <cite path="§[7-736.05]">§ [7-736.05]</cite>, to be used for the authorized purposes of that fund.</text>
     </para>
   </para>
   <annotations>
@@ -200,10 +197,8 @@
     <annotation app="2024-01-23" doc="D.C. Law 25-109" eff="2024-01-23" path="§3" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-436" path="§2" codified:display="Note" app="2024-03-29" eff="2024-03-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-436" path="§2">§ 2 of Litigation Support Fund Emergency Amendment Act of 2024 (D.C. Act 25-436, Mar. 29, 2024, 71 DCR 4116)</cite>.</annotation>
     <annotation app="2024-03-29" doc="D.C. Act 25-436" eff="2024-03-29" path="§2" type="History" display="false"/>
-    <annotation app="2024-06-01" doc="D.C. Law 25-171" eff="2024-06-01" path="§2" type="History" display="false"/>
-    <annotation app="2024-06-01" doc="D.C. Law 25-171" eff="2024-06-01" path="§2|(a)" type="History"/>
-    <annotation app="2024-06-01" doc="D.C. Law 25-171" eff="2024-06-01" path="§2|(b)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 25-171" path="§2" codified:display="Note" app="2024-06-01" eff="2024-06-01">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 25-171" path="§2">§ 2 of Litigation Support Fund Temporary Amendment Act of 2024 (D.C. Law 25-171, June 1, 2024, 71 DCR 4654)</cite>.</annotation>
+    <annotation app="2024-06-01" doc="D.C. Law 25-171" eff="2024-06-01" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-499" path="§19|(a)" codified:display="Note" app="2024-07-08" eff="2024-07-08">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-499" path="§19|(a)">§ 19(a) of Fiscal Year 2024 Revised Local Budget Adjustment Emergency Act of 2024 (D.C. Act 25-499, July 8, 2024, 71 DCR 7957)</cite>.</annotation>
     <annotation app="2024-07-08" doc="D.C. Act 25-499" eff="2024-07-08" path="§19|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-506" path="§1082|(c)" codified:display="Note" app="2024-07-15" eff="2024-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-506" path="§1082|(c)">§ 1082(c) of Fiscal Year 2025 Budget Support Emergency Act of 2024 (D.C. Act 25-506, July 15, 2024, 71 DCR 8406)</cite>.</annotation>

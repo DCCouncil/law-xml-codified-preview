@@ -1235,6 +1235,7 @@
         <para codify:path="§6-201|(7B)">
           <num>(a)</num>
           <text>Section 2(7B) (D.C. Official Code § 6-201(7B)) is repealed.</text>
+          <codify:emergency doc="D.C. Code" path="§6-201" codified:doc="D.C. Code" codified:path="§6-201" codified:display="Note"/>
         </para>
         <para codify:path="§6-202|(c-1)">
           <num>(b)</num>
@@ -1288,7 +1289,7 @@
         <para codify:path="§6-226.01">
           <num>(d)</num>
           <text>Section 26a-1 (D.C. Official Code § 6-226.01) is repealed.</text>
-          <codify:emergency doc="D.C. Code" path="§6-226.01" codified:doc="D.C. Code" codified:path="§6-226.01" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§6-226.01" action="repeal of this section" codified:doc="D.C. Code" codified:path="§6-226.01" codified:display="Note"/>
         </para>
         <para codify:path="§6-227">
           <num>(e)</num>
@@ -1314,7 +1315,7 @@
         <para codify:path="§6-229">
           <num>(f)</num>
           <text>Section 26d (D.C. Official Code § 6-229) is repealed.</text>
-          <codify:emergency doc="D.C. Code" path="§6-229" codified:doc="D.C. Code" codified:path="§6-229" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§6-229" action="repeal of this section" codified:doc="D.C. Code" codified:path="§6-229" codified:display="Note"/>
         </para>
         <para codify:path="§6-229.01">
           <num>(g)</num>
@@ -1444,7 +1445,7 @@
         <para codify:path="§6-231">
           <num>(j)</num>
           <text>Section 26f (D.C. Official Code § 6-231) is repealed.</text>
-          <codify:emergency doc="D.C. Code" path="§6-231" codified:doc="D.C. Code" codified:path="§6-231" codified:display="Note"/>
+          <codify:emergency doc="D.C. Code" path="§6-231" action="repeal of this section" codified:doc="D.C. Code" codified:path="§6-231" codified:display="Note"/>
         </para>
       </section>
       <section codify:path="§42-3504.01|(a)|(2)|(C)">

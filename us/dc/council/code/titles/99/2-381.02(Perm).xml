@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-381.02(Perm)</num>
   <heading>False claims liability, treble damages, costs, and civil penalties; exceptions.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevent) click this link: <cite path="§2-381.02">Current Version</cite>*
+  </text>
   <para>
     <num>(a)</num>
     <text>Any person who commits any of the following acts shall be liable to the District for 3 times the amount of damages which the District sustains because of the act of that person. A person who commits any of the following acts shall also be liable to the District for the costs of a civil action brought to recover penalties or damages, and shall be liable to the District for a civil penalty of not less than $5,500, and not more than $11,000, for each false or fraudulent claim for which the person:</text>
@@ -64,13 +67,29 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>This section shall not apply to claims, records, or statements made pursuant to those portions of Title 47 of the District of Columbia Official Code that refer or relate to taxation, unless the District taxable income, District sales, or District revenue of the person against whom the action is being brought equals or exceeds $1 million for any taxable year subject to any action brought pursuant to this part, and the damages pleaded in the action total $350,000 or more.</text>
+    <text>This section shall not apply to claims, records, or statements made pursuant to those portions of Title 47 that refer or relate to taxation, unless:</text>
+    <para>
+      <num>(1)</num>
+      <para>
+        <num>(A)</num>
+        <text>The claim, record, or statement was made on or after January 1, 2015; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The District taxable income, District sales, or District revenue of the person against whom the action is being brought equals $1 million for any taxable year subject to any action brought pursuant to this part, and the damages pleaded in the action total $350,000 or more; or</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The claim, record, or statement was made on or after January 1, 2015, and relates to the classification of real property as vacant or blighted pursuant to <cite path="42|31A">An Act To provide for the abatement of nuisances in the District of Columbia by the Commissioners of said District, and for other purposes, approved April 14, 1906 (34 Stat. 114; D.C. Official Code § 42-3131.01 et seq.)</cite>.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 6-85" type="History" path="§814">Feb. 21, 1986, D.C. Law 6-85, § 814, 32 DCR 7396</annotation>
     <annotation doc="D.C. Law 12-104" type="History">as added May 8, 1998, D.C. Law 12-104, § 2(g), 45 DCR 1687</annotation>
     <annotation doc="D.C. Law 19-232" type="History">Mar. 19, 2013, D.C. Law 19-232, § 2(b), 59 DCR 13632</annotation>
-    <annotation doc="D.C. Law 23-180" type="History" path="2|(a)"> Mar. 16, 2021, D.C. Law 23-180, § 2(a), 68 DCR 1019</annotation>
+    <annotation doc="D.C. Law 23-180" type="History" path="§2|(a)">Mar. 16, 2021, D.C. Law 23-180, § 2(a), 68 DCR 1019</annotation>
+    <annotation doc="D.C. Law 24-45" type="History" path="§1112">Nov. 13, 2021, D.C. Law 24-45, § 1112, 68 DCR 10163</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-232">D.C. Law 19-232</cite> rewrote (a) and (d).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1188.14.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 2-308.14.</annotation>

@@ -1,29 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-2001</num>
-  <heading proof="needed">Creation of Verizon Center Fund.</heading>
+  <heading>Relocation of headquarters for Fire and Emergency Medical Services
+Department and Department of Corrections.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established within the General Fund of the District of Columbia a special
-      nonlapsing account to be denominated as the "Verizon Center Fund." The Chief Financial
-      Officer shall pay into the Verizon Center Fund all receipts from those taxes and fees specifically
-      identified by any provision of District of Columbia law to be paid into the fund. The Chief
-      Financial Officer shall create a sub-account within the Verizon Center Fund for each type of tax
-      and fee that is to be paid into the fund and shall allocate the receipts from each type of tax and
-      fee to the appropriate sub-account. The Mayor may pledge and create a security interest in the
-      funds in the Verizon Center Fund, or any sub-account or sub-accounts within the fund for the
-      payment of the debt service on the bonds.</text>
+    <text>The headquarters of the Fire and Emergency Medical Services Department and
+the headquarters of the Department of Corrections shall not be relocated to or housed in the
+Patricia R. Harris Education Center and no funds shall be expended for those purposes.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>If, at the end of any fiscal year of the District, the balance of cash and investments in
-      the Verizon Center Fund exceeds the amount of debt service (including prepayment of principal
-      and interest) and reserves on the bonds during the upcoming fiscal year, the excess shall be
-      transferred to the unrestricted balance of the General Fund of the District of Columbia.</text>
+    <text>The Mayor shall develop a plan for the permanent relocation of the headquarters
+for the Fire and Emergency Medical Services Department and the Department of Corrections
+that shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Be submitted to the Council no later than March 1, 2010;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Be included in the Mayor’s fiscal year 2011 budget and financial plan
+submission to the Council;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Include the proposed location for a headquarters for each agency or the
+location of a headquarters for both agencies;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Include the time line for relocating the headquarters;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Include the total costs for relocating the headquarters; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Identify funding for relocating the headquarters.</text>
+    </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-12" type="History" path="§3">Sept. 07, 2007, D.C. Law 17-12, § 3, 54 DCR 5151</annotation>
-    <annotation app="2007-07-12" doc="D.C. Law 17-12" eff="2007-07-12" path="" type="History" display="false"/>
-    <annotation app="2007-07-12" doc="D.C. Law 17-12" eff="2007-07-12" path="§3" type="History"/>
+    <annotation app="2010-03-03" doc="D.C. Law 18-111" eff="2010-03-03" path="" type="History" display="false"/>
+    <annotation app="2010-03-03" doc="D.C. Law 18-111" eff="2010-03-03" path="§3021" type="History"/>
   </annotations>
 </section>

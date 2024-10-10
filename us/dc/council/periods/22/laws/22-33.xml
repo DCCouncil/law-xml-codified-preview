@@ -5154,7 +5154,7 @@
         <para codify:path="(a)">
           <num>(a)</num>
           <text>Subsection (a) is amended by striking the phrase "Deputy Mayor for Education" and inserting the phrase "State Superintendent of Education" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-196.01">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-196.01|(a)">
             <find>Deputy Mayor for Education</find>
             <replace>State Superintendent of Education</replace>
           </codify:find-replace>
@@ -5162,7 +5162,7 @@
         <para codify:path="(f)">
           <num>(b)</num>
           <text>Subsection (f) is amended by striking the phrase "Deputy Mayor for Education" and inserting the phrase "State Superintendent of Education" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-196.01">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-196.01|(f)">
             <find>Deputy Mayor for Education</find>
             <replace>State Superintendent of Education</replace>
           </codify:find-replace>

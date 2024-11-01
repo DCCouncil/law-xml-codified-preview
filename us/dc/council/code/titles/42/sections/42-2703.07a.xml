@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2703.07a</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on January 16, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-2703.07a(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 16, 2025. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-2703.07a(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Reverse Mortgage Foreclosure Prevention Program.</heading>
   <para>
@@ -120,6 +120,6 @@
     <annotation app="2024-10-18" doc="D.C. Act 25-583" eff="2024-10-18" path="§2|(c)" type="History"/>
     <annotation app="2024-10-18" doc="D.C. Act 25-583" eff="2024-10-18" path="§2|(d)|(1)" type="History"/>
     <annotation app="2024-10-18" doc="D.C. Act 25-583" eff="2024-10-18" path="§2|(d)|(2)" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Act 25-583" path="§2" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Act 25-583" path="§2">§ 2 of Reverse Mortgage Insurance and Tax Payment Program Extension Emergency Amendment Act of 2024 (D.C. Act 25-583, Oct. 18, 2024, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-583" path="§2" codified:display="Note" app="2024-10-18" eff="2024-10-18">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 25-583" path="§2">§ 2 of Reverse Mortgage Insurance and Tax Payment Program Extension Emergency Amendment Act of 2024 (D.C. Act 25-583, Oct. 18, 2024, 71 DCR 12841)</cite>.</annotation>
   </annotations>
 </section>

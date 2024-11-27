@@ -2,9 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>8-771.01(Perm)</num>
   <heading>Definitions.</heading>
+  <text>
+      *NOTE: This codification is <u><b>not</b></u> the most current. To see the current law, click this link <cite path="§8-771.01">Current Version</cite>*
+      </text>
   <para>
     <num undesignated="true">(a)</num>
-    <text>For the purposes of <cite path="8|7E">Chapter 7E of Title 8</cite>, the term:</text>
+    <text>For the purposes of <cite path="8|7E">this chapter</cite>, the term:</text>
     <para>
       <num>(1)</num>
       <text>"Battery" means a device that consists of one or more electrically connected electrochemical cells and is designed to store and deliver electric energy.</text>
@@ -18,7 +21,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>A product in which the only batteries used are supplied by a producer that:</text>
+        <text>A product in which the only batteries used, at the time of sale, are supplied by a producer that:</text>
         <para>
           <num>(i)</num>
           <text>Is a member of a battery stewardship organization that has an approved battery stewardship plan pursuant to <cite path="§8-771.03|(b)">§ 8-771.03(b)</cite> and is registered in accordance with <cite path="§8-771.04|(b)">§ 8-771.04(b)</cite>; and</text>
@@ -47,7 +50,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>"Collection rate" means a percentage, by weight, that a battery stewardship organization collects that is calculated by dividing the total weight of batteries that were estimated to have been sold in the District by all producers participating in an approved battery stewardship plan during the previous 3 calendar years.</text>
+      <text>"Collection rate" means a percentage, by weight, that a battery stewardship organization collects that is calculated by dividing the total weight of primary and rechargeable batteries collected during a calendar year by the average annual weight of primary and rechargeable batteries that were estimated to have been sold in the District by all producers participating in an approved battery stewardship plan during the previous 3 calendar years.</text>
     </para>
     <para>
       <num>(6)</num>
@@ -78,11 +81,11 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>If there is no person to which subparagraph (A) of this paragraph applies, the owner or licensee of a brand under which a covered battery or covered battery-containing product is sold, offered for sale, or distributed in the District, whether or not the trademark is registered; or</text>
+        <text>If there is no person to which subparagraph (A) of this paragraph applies or if no contact information for the person is available, the owner or licensee of a brand under which a covered battery or covered battery-containing product is sold, offered for sale, or distributed for sale in the District, whether or not the trademark is registered; or</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>If there is no person to which subparagraph (A) or (B) of this paragraph applies, a person that imports the covered battery or covered battery-containing product into the United States for sale or distribution in the District.</text>
+        <text>If there is no person to which subparagraph (A) or (B) of this paragraph applies or if no contact information for the person is available, a person that imports the covered battery or covered battery-containing product into the United States for sale or distribution for sale in the District.</text>
       </para>
     </para>
     <para>
@@ -103,8 +106,9 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-154" type="History">Aug. 22, 1980, D.C. Law 20-154, § 128</annotation>
-    <annotation doc="D.C. Law 23-211" type="History">as added Mar. 16, 2021, D.C. Law 23-211, § 2(q), 68 DCR 0006</annotation>
-    <annotation doc="D.C. Law 24-45" type="History">Nov. 13, 2021, D.C. Law 24-45, § 6062(e), 68 DCR 010163</annotation>
+    <annotation doc="D.C. Law 20-154" type="History">Feb. 26, 2015, D.C. Law 20-154</annotation>
+    <annotation doc="D.C. Law 23-211" type="History" path="§2|(q)">as added Mar. 16, 2021, D.C. Law 23-211, § 2(q), 68 DCR 0068</annotation>
+    <annotation doc="D.C. Law 24-45" type="History" path="§6062|(e)">Nov. 13, 2021, D.C. Law 24-45, § 6062(e), 68 DCR 10163</annotation>
+    <annotation doc="D.C. Law 24-320" type="History" path="§2|(a)">Mar. 10, 2023, D.C. Law 24-320, § 2(a), 70 DCR 859</annotation>
   </annotations>
 </section>

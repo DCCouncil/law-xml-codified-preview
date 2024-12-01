@@ -90,8 +90,8 @@
       </para>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1671.12a" expire="2024-11-13" codified:display="Note">For temporary (90 days) creation of § 7-1671.12e, see <cite doc="D.C. Act 25-627" path="§4|(k)|includes|13e">§ 13e of Medical Cannabis Clarification and Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-627, Nov. 13, 2024, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1671.12e" applicability="2024-11-13" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1671.12e">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-627" path="§4|(k)|includes|13e">§ 13e of Medical Cannabis Clarification and Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-627, Nov. 13, 2024, 0 DCR 0)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1671.12a" expire="2024-11-13" codified:display="Note">For temporary (90 days) creation of § 7-1671.12e, see <cite doc="D.C. Act 25-627" path="§4|(k)|includes|13e">§ 13e of Medical Cannabis Clarification and Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-627, Nov. 13, 2024, 71 DCR 14129)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§7-1671.12e" applicability="2024-11-13" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1671.12e">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-627" path="§4|(k)|includes|13e">§ 13e of Medical Cannabis Clarification and Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-627, Nov. 13, 2024, 71 DCR 14129)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§7-1671.12e" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1671.12e">
     <text>
       *NOTE: This section was created by emergency legislation that will expire on February 11, 2025.*
@@ -108,6 +108,6 @@
     <annotation app="2024-11-13" doc="D.C. Act 25-445" eff="2024-04-15" path="§2|(f)" type="History" display="false"/>
     <annotation app="2024-11-13" doc="D.C. Act 25-627" eff="2024-11-13" path="§4|(k)" type="History" display="false"/>
     <annotation app="2024-11-13" doc="D.C. Act 25-627" eff="2024-11-13" path="§4|(k)" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-627" path="§4|(k)" codified:display="Note" app="2024-11-13" eff="2024-11-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-627" path="§4|(k)|includes|13e">§ 13e of Medical Cannabis Clarification and Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-627, Nov. 13, 2024, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 25-627" path="§4|(k)" codified:display="Note" app="2024-11-13" eff="2024-11-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 25-627" path="§4|(k)|includes|13e">§ 13e of Medical Cannabis Clarification and Program Enforcement Emergency Amendment Act of 2024 (D.C. Act 25-627, Nov. 13, 2024, 71 DCR 14129)</cite>.</annotation>
   </annotations>
 </section>

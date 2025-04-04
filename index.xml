@@ -21,7 +21,7 @@
     </redirects>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="DCCouncil/law-xml" commit="1f7d7f42267a18b9c41da7fd2f759da16a6a4119"/>
+        <repository name="DCCouncil/law-xml" commit="3940bffd3ac2d4a3dc34d0ec79714d60eecdc459"/>
       </repositories>
       <platform version="2.12.7" reproducible="false"/>
       <build-date>2025-04-04</build-date>

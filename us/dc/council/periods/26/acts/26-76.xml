@@ -167,7 +167,7 @@
         <text>Subsection (c) is amended by striking the phrase ", in accordance with procedures set forth in subsection (e) of this section, that" and inserting the word "that" in its place.</text>
         <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-218.63|(c)">
           <find>, in accordance with the procedure set forth in subsection (e) of this section, that</find>
-          <replace>that</replace>
+          <replace> that</replace>
         </codify:find-replace>
       </para>
       <para codify:path="(e)">

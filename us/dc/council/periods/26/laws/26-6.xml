@@ -1,24 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 26-58" codify:doc="D.C. Code">
-  <num type="act">26-58</num>
-  <num type="bill">26-192</num>
-  <heading type="short">On-Premises and On-Site Extended Hours Program Emergency Amendment Act of 2025</heading>
-  <heading type="long">To amend, on an emergency basis, section 25-723 of the District of Columbia Official Code to allow the Alcoholic Beverage and Cannabis Board to extend the hours of operation, sales, service, and consumption of alcoholic beverages for cultural events, sporting events, or tourism-related events for licensees registered with the Alcoholic Beverage and Cannabis Board.</heading>
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 26-6" codify:doc="D.C. Code">
+  <num type="law">26-6</num>
+  <num type="act">26-43</num>
+  <num type="bill">26-23</num>
+  <heading type="short">On-Premises and On-Site Extended Hours Program Amendment Act of 2025</heading>
+  <heading type="long">To amend section 25-723 of the District of Columbia Official Code to allow the Alcoholic Beverage and Cannabis Board to extend the hours of operation, sales, service, and consumption of alcoholic beverages for cultural events, sporting events, or tourism-related events for licensees registered with the Alcoholic Beverage and Cannabis Board.</heading>
   <meta>
-    <introduced>2025-03-26</introduced>
-    <effective>2025-04-22</effective>
+    <introduced>2025-01-06</introduced>
+    <effective>2025-06-10</effective>
     <citations>
-      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/57437/Signed_Act/B26-0192-Signed_Act.pdf?Id=210305">D.C. Act 26-58</citation>
-      <citation type="register">72 DCR 4924</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/56851/Signed_Act/B26-0023-Signed_Act.pdf?Id=210294">D.C. Law 26-6</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/56851/Signed_Act/B26-0023-Signed_Act.pdf?Id=210294">D.C. Act 26-43</citation>
+      <citation type="register">72 DCR 4876</citation>
     </citations>
-    <history url="https://lims.dccouncil.us/Legislation/B26-0192">
+    <history url="https://lims.dccouncil.us/Legislation/B26-0023">
+      <vote date="2025-03-04" reading="First"/>
       <vote date="2025-04-01" reading="Final"/>
       <enacted>2025-04-22</enacted>
-      <summary/>
-      <committee>Retained by the Council</committee>
+      <summary>BILL SUMMARY - As introduced Bill 26-23 would allow the ABC Board to extend the hours of operation, sales, service, and consumption of alcoholic beverages for sporting events or events that the Board deems appropriate for licensees registered with the Board to participate in the extension of hours program. </summary>
+      <committee>Business and Economic Development</committee>
     </history>
   </meta>
-  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "On-Premises and On-Site Extended Hours Program Emergency Amendment Act of 2025".</text>
+  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "On-Premises and On-Site Extended Hours Program Amendment Act of 2025".</text>
   <section codify:path="§25-723">
     <num>2</num>
     <text>Section 25-723 of the District of Columbia Official Code is amended as follows:</text>
@@ -27,6 +30,7 @@
       <text>A new subsection (g) is added to read as follows:</text>
       <include>
         <para>
+          <codify:insert after="(f)" num-value="(g)" codified:doc="D.C. Code" codified:path="§25-723|(g)"/>
           <num>(g)</num>
           <para>
             <num>(1)</num>
@@ -75,17 +79,16 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:emergency doc="D.C. Code" path="§25-723" codified:doc="D.C. Code" codified:path="§25-723" codified:display="Note"/>
     </para>
   </section>
   <section>
     <num>3</num>
     <heading proof="needed">Fiscal impact statement.</heading>
-    <text>The Council adopts the fiscal impact statement of the Budget Director as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
+    <text>The Council adopts the fiscal impact statement in the committee report as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
   </section>
   <section>
     <num>4</num>
     <heading proof="needed">Effective date.</heading>
-    <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), and shall remain in effect for no longer than 90 days, as provided for emergency acts of the Council of the District of Columbia in section 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788; D.C. Code § 1-204.12(a)).</text>
+    <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), and a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Code § 1-206(c)(1)).</text>
   </section>
 </document>

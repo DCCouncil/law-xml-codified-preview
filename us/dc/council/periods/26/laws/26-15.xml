@@ -1,24 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 26-33" codify:doc="D.C. Code">
-  <num type="act">26-33</num>
-  <num type="bill">26-149</num>
-  <heading type="short">Residential Building Permit Classification Emergency Amendment Act of 2025</heading>
-  <heading type="long">To amend, on an emergency basis, section 47-813 of the District of Columbia Official Code to provide for more timely classification changes for commercial properties that are to be put to residential use, to provide for an application process to make classification changes, to provide for appeal rights if such application is denied, and to provide for a claw back in the event the real property is not timely put to residential use.</heading>
+<document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 26-15" codify:doc="D.C. Code">
+  <num type="law">26-15</num>
+  <num type="act">26-66</num>
+  <num type="bill">26-150</num>
+  <heading type="short">Residential Building Permit Classification Temporary Amendment Act of 2025</heading>
+  <heading type="long">To amend, on a temporary basis, section 47-813 of the District of Columbia Official Code to provide for more timely classification changes for commercial properties that are to be put to residential use, to provide for an application process to make classification changes, to provide for appeal rights if such application is denied, and to provide for a claw back in the event the real property is not timely put to residential use.</heading>
   <meta>
     <introduced>2025-03-03</introduced>
-    <effective>2025-03-21</effective>
+    <effective>2025-06-17</effective>
+    <temporary/>
     <citations>
-      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/57264/Signed_Act/B26-0149-Signed_Act.pdf?Id=208416">D.C. Act 26-33</citation>
-      <citation type="register">72 DCR 3336</citation>
+      <citation type="law" url="https://lims.dccouncil.gov/downloads/LIMS/57265/Signed_Act/B26-0150-Signed_Act.pdf?Id=210581">D.C. Law 26-15</citation>
+      <citation type="act" url="https://lims.dccouncil.gov/downloads/LIMS/57265/Signed_Act/B26-0150-Signed_Act.pdf?Id=210581">D.C. Act 26-66</citation>
+      <citation type="register">72 DCR 5339</citation>
     </citations>
-    <history url="https://lims.dccouncil.us/Legislation/B26-0149">
-      <vote date="2025-03-04" reading="Final"/>
-      <enacted>2025-03-21</enacted>
+    <history url="https://lims.dccouncil.us/Legislation/B26-0150">
+      <vote date="2025-03-04" reading="First"/>
+      <vote date="2025-04-01" reading="Final"/>
+      <enacted>2025-04-24</enacted>
       <summary/>
       <committee>Retained by the Council</committee>
     </history>
   </meta>
-  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Residential Building Permit Classification Emergency Amendment Act of 2025".</text>
+  <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Residential Building Permit Classification Temporary Amendment Act of 2025".</text>
   <section codify:path="§47-813">
     <num>2</num>
     <text>Section 47-813 of the District of Columbia Official Code is amended to read as follows:</text>
@@ -32,6 +36,7 @@
           <para>
             <num>(2)</num>
             <para>
+              <codify:replace codified:doc="D.C. Code" codified:path="§47-813|(c-9)|(2)|(A)"/>
               <num>(A)</num>
               <text>Except as otherwise provided in this paragraph and subject to paragraphs (4) and (5) of this subsection, Class 1A Property shall be comprised of:</text>
               <para>
@@ -58,21 +63,30 @@
       <para codify:path="(C)">
         <num>(2)</num>
         <text>Subparagraph (C) is amended by striking the phrase "designated as" and inserting the phrase "designated solely as" in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-813|(c-9)|(2)|(C)">
+          <find>designated as</find>
+          <replace>designated solely as</replace>
+        </codify:find-replace>
       </para>
     </para>
     <para codify:path="(d-2)">
       <num>(b)</num>
       <text>The lead-in language of subsection (d-2) is amended by striking the phrase "Class 3 Property or Class 4 Property," and inserting the phrase "Class 2 Property, Class 3 Property, or Class 4 Property," in its place.</text>
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-813|(d-2)">
+        <find>Class 3 Property or Class 4 Property,</find>
+        <replace>Class 2 Property, Class 3 Property, or Class 4 Property,</replace>
+      </codify:find-replace>
     </para>
     <para>
       <num>(c)</num>
       <text>A new subsection (d-3) is added to read as follows:</text>
       <include>
         <para>
+          <codify:insert after="(d-2)" num-value="(d-3)" codified:doc="D.C. Code" codified:path="§47-813|(d-3)"/>
           <num>(d-3)</num>
           <para>
             <num>(1)</num>
-            <text>If real property changes classification to Class 1A Property as defined in subsection (c-9)(2)(A)(ii) during the period:</text>
+            <text>If real property changes classification to Class 1A Property as defined in subsection (c-9)(2)(A)(ii) of this section during the period:</text>
             <para>
               <num>(A)</num>
               <text>October 1 through March 31 of the tax year, the newly reclassified Class 1A Property, or the portion thereof used exclusively for residential purposes if already improved or assessed under <cite doc="D.C. Code" path="§47-829">§ 47-829</cite>, shall be taxed at the Class 1A Property tax rate for the entire tax year; or</text>
@@ -110,7 +124,12 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:emergency doc="D.C. Code" path="§47-813" codified:doc="D.C. Code" codified:path="§47-813" codified:display="Note"/>
+    <codify:temporary doc="D.C. Code" path="§47-813" codified:doc="D.C. Code" codified:path="§47-813" codified:display="Note"/>
+    <codify:insert doc="D.C. Code" path="§47-813" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-813">
+      <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on January 28, 2026. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§47-813(Perm)">Permanent Version</cite>.*
+      </text>
+    </codify:insert>
   </section>
   <section>
     <num>3</num>
@@ -125,6 +144,13 @@
   <section>
     <num>5</num>
     <heading proof="needed">Effective date.</heading>
-    <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), and shall remain in effect for no longer than 90 days, as provided for emergency acts of the Council of the District of Columbia in section 412(a) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 788; D.C. Official Code § 1-204.12(a)).</text>
+    <para>
+      <num>(a)</num>
+      <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto) and a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).</text>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>This act shall expire after 225 days of its having taken effect.</text>
+    </para>
   </section>
 </document>

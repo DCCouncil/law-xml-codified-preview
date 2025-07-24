@@ -2,11 +2,14 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>35-254(Perm)</num>
   <heading>Penalties.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§35-254">Current Version</cite>*
+  </text>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in subsection (b)(1) of this section, a violation of <cite path="§35-251|(b)">§ 35-251(b)</cite> or <cite path="§35-252">§ 35-252</cite> shall be punishable by a civil fine of not more than $50.</text>
+      <text>Except as provided in subsection (b)(1) of this section, a violation of <cite path="§35-251|(b)">§ 35-251(b)</cite> or <cite path="§35-252|(a)">§ 35-252(a)</cite> shall be punishable by a civil fine of not more than $50.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -46,6 +49,7 @@
     <annotation doc="D.C. Law 9-171" type="History">Oct. 1, 1992, D.C. Law 9-171, § 2(b), 39 DCR 5831</annotation>
     <annotation doc="D.C. Law 22-310" type="History" path="§4|(c)">May 3, 2019, D.C. Law 22-310, § 4(c), 66 DCR 1395</annotation>
     <annotation doc="D.C. Law 23-274" type="History" path="§1402">Apr. 27, 2021, D.C. Law 23-274, § 1402, 68 DCR 1034</annotation>
+    <annotation doc="D.C. Law 25-175" type="History" path="§35|(b)">June 8, 2024, D.C. Law 25-175, § 35|(b), 71 DCR 2732</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 44-218.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 44-226.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 35-253.</annotation>

@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-551.07i</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on [EXPIRATION DATE].*
+      *NOTE: This section was created by emergency legislation that will expire on December 2, 2025.*
       </text>
   <heading proof="needed">Recreational facilities assessment.</heading>
   <para>
@@ -17,7 +17,7 @@
   <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§10-551.07i" applicability="2025-09-09" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-551.07i">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§1032|includes|1028i">§ 1028i of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 0 DCR 0)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§10-551.07i" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-551.07i">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on [EXPIRATION DATE].*
+      *NOTE: This section was created by emergency legislation that will expire on December 2, 2025.*
       </text>
   </codify:insert>
   <annotations>

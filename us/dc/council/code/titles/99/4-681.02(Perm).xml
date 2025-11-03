@@ -2,32 +2,39 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-681.02(Perm)</num>
   <heading>Child Trust Fund.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§4-681.02">Current Version</cite>*
+  </text>
   <para>
     <num>(a)</num>
-    <text>There is established as a special fund, the Child Trust Fund ("Fund"), which shall be administered by the Chief Financial Officer in accordance with subsection (c) of this section. The Chief Financial Officer shall establish within the Fund a child trust fund account for each eligible child enrolled in the CTF Program.</text>
+    <text>There is established as a special fund, the Child Trust Fund ("Fund"), which shall be administered by the Chief Financial Officer in accordance with subsection (d) of this section.</text>
   </para>
   <para>
     <num>(b)</num>
     <text>There shall be deposited into the Fund:</text>
     <para>
       <num>(1)</num>
-      <text>Earnings from investments of the money in the Fund; and</text>
+      <text>Earnings from investments of the money in the Fund;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Other monies that may be appropriated for the purposes of <cite path="4|6D">Chapter 6D of Title 4</cite>.</text>
+      <text>Other monies that may be appropriated for the purposes of <cite path="4|6D">this chapter</cite>; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>All revenues collected pursuant to <cite path="§36-621.15">§ 36-621.15</cite>.</text>
     </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>Money in the Fund shall be used for the purpose of establishing a child trust fund account for each eligible child in the CTF Program in accordance with <cite path="4|6D">Chapter 6D of Title 4</cite> and rules issued pursuant to <cite path="4|6D">Chapter 6D of Title 4</cite>.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>The money in the Fund, which shall consist of all the amounts paid into the fund pursuant to subsection (b) of this section, increased by the net earnings from investments of amounts held in the Fund or reduced by the net losses from investments of amounts held in the Fund, and less total payments, including distributions and administrative expenses, shall be used to:</text>
+    <text>The money in the Fund, which shall consist of all the amounts paid into the Fund pursuant to subsection (b) of this section, increased by the net earnings from investments of amounts held in the Fund or reduced by the net losses from investments of amounts held in the Fund, and less total payments, including distributions and administrative expenses, shall be used to:</text>
     <para>
       <num>(1)</num>
-      <text>Make distributions pursuant to <cite path="§4-681.06">§ 4-681.06</cite>;</text>
+      <text>Make distributions pursuant to <cite path="§4-681.06">§ 4-681.06</cite>, and in accordance with the rules issued pursuant to <cite path="4|6D">this chapter</cite>;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -40,7 +47,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>The money in the Fund shall not be used for any purpose other than the purposes specified in subsections (c) and (d) of this section.</text>
+    <text>The money in the Fund shall not be used for any purpose other than the purposes specified in subsection (d) of this section.</text>
   </para>
   <para>
     <num>(f)</num>
@@ -68,11 +75,13 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>For the purpose of determining eligibility of the eligible child or the parent for  financial aid, local or federal, including the Temporary Assistance for Needy Families Program, the federal Low Income Home Energy Assistance Program or Weatherization Assistance Program, an educational aid or grant, or any other need-based aid or grant.</text>
+        <text>For the purpose of determining eligibility of the eligible child or the parent for financial aid, local or federal, including the Temporary Assistance for Needy Families Program, the federal Low Income Home Energy Assistance Program or Weatherization Assistance Program, an educational aid or grant, or any other need-based aid or grant.</text>
       </para>
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 24-53" path="§3" type="History">Feb. 18, 2022, D.C. Law 24-53, § 3, 68 DCR 13227</annotation>
+    <annotation doc="D.C. Law 24-53" type="History" path="§3">Feb. 18, 2022, D.C. Law 24-53, § 3, 68 DCR 13227</annotation>
+    <annotation doc="D.C. Law 24-323" type="History" path="§2|(b)">Mar. 10, 2023, D.C. Law 24-323, § 2(b), 70 DCR 869</annotation>
+    <annotation doc="D.C. Law 25-217" type="History" path="§7042|(a)">Sept. 18, 2024, D.C. Law 25-217, § 7042(a), 71 DCR 9990</annotation>
   </annotations>
 </section>

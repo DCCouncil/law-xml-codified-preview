@@ -14,8 +14,9 @@
     <text>DHS shall provide the grant agreement for each DHS local grant to the grantee for the grantee's review and signature no later than 30 days following the start of the fiscal year or other term of service during which the grantee must perform under its grant agreement with DHS.</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 20-61" type="History" path="§1099">Dec. 24, 2013, D.C. Law 20-61, § 1099</annotation>
     <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§1042" type="History" display="false"/>
     <annotation app="2025-09-03" doc="D.C. Act 26-146" eff="2025-09-03" path="§1042" prefix="as added" type="History"/>
-    <annotation app="2025-09-09" doc="D.C. Act 26-146" eff="2025-09-03" path="§1042" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-146" path="§1042" codified:display="Note" app="2025-09-03" eff="2025-09-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-146" path="§1042">§ 1042 of Fiscal Year 2026 Budget Support Emergency Act of 2025 (D.C. Act 26-146, Sept. 3, 2025, 72 DCR 9623)</cite>.</annotation>
   </annotations>
 </section>

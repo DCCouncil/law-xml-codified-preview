@@ -2,9 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-205.11(Perm)</num>
   <heading>TANF need determination.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§4-205.11">Current Version</cite>*
+  </text>
   <para>
     <num>(a)</num>
-    <text>In determining the need of families who are applying for or receiving TANF:</text>
+    <text>In determining the need of families who are applying for or receiving TANF, count only payments that are income and then:</text>
     <para>
       <num>(1)</num>
       <text>Deduct such amount for a work-related expense as the Mayor shall specify through rulemaking. If the individual is self-employed, work expenses directly related to producing the goods or services, and without which the goods or services could not be produced, shall be excluded from the gross earned income total;</text>
@@ -38,7 +41,7 @@
     </para>
     <para>
       <num>(5A)</num>
-      <text>Disregard any federal earned income tax credit received;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(6)</num>
@@ -66,11 +69,11 @@
     </para>
     <para>
       <num>(8)</num>
-      <text>Beginning on October 1, 2005, disregard up to the first $150 received per month by the assistance unit that represents a current monthly child support obligation or a voluntary child support payment from an absent parent or spouse; and</text>
+      <text>Beginning on October 1, 2005, disregard up to the first $150 received per month by the assistance unit that represents a current monthly child support obligation or a voluntary child support payment from an absent parent or spouse;</text>
     </para>
     <para>
       <num>(9)</num>
-      <text>Disregard any subsidy received under the program established by <cite path="4|2A">Chapter 2A of this title</cite>.</text>
+      <text>Disregard any subsidy received under the program established by <cite path="4|2A">Chapter 2A of this title</cite>; and</text>
     </para>
     <para>
       <num>(10)</num>
@@ -95,7 +98,8 @@
     <annotation doc="D.C. Law 16-33" type="History">Oct. 20, 2005, D.C. Law 16-33, § 5032(a), 52 DCR 7503</annotation>
     <annotation doc="D.C. Law 16-69" type="History">Mar. 8, 2006, D.C. Law 16-69, § 201, 53 DCR 54</annotation>
     <annotation doc="D.C. Law 16-191" type="History">Mar. 2, 2007, D.C. Law 16-191, § 91(a), 53 DCR 6794</annotation>
-    <annotation doc="D.C. Law 23-32" type="History">Nov. 26. 2019, D.C. Law 23-32, § 201, 66 DCR 13146</annotation>
+    <annotation doc="D.C. Law 23-32" type="History" path="§201">Nov. 26, 2019, D.C. Law 23-32, § 201, 66 DCR 13146</annotation>
+    <annotation doc="D.C. Law 24-195" type="History" path="§2|(b)">Dec. 13, 2022, D.C. Law 24-195, § 2(b), 69 DCR 12709</annotation>
     <annotation type="Short Title">Short title of subtitle D of title V of Law 16-33: Section 5031 of <cite doc="D.C. Law 16-33">D.C. Law 16-33</cite> provided that subtitle D of title V of the act may be cited as the Child Support Pass-through Establishment Amendment Act of 2005.</annotation>
     <annotation type="Editor's Notes">Section 5033 of <cite doc="D.C. Law 16-33">D.C. Law 16-33</cite> provided: “Sec. 5033. Applicability. This subtitle shall apply as of April 1, 2006.”</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 201 of Grandparent Caregivers Pilot Program Establishment Emergency Act of 2006 (D.C. Act 16-278, February 22, 2006,  53 DCR 1459).</annotation>

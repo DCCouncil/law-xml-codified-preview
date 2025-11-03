@@ -2,9 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-681.01(Perm)</num>
   <heading>Definitions.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§4-681.01">Current Version</cite>*
+  </text>
   <para>
     <num undesignated="true">(a)</num>
-    <text>For the purposes of <cite path="4|6D">Chapter 6D of Title 4</cite>, the term:</text>
+    <text>For the purposes of <cite path="4|6D">this chapter</cite>, the term:</text>
     <para>
       <num>(1)</num>
       <text>"Age of majority" means 18 years of age.</text>
@@ -26,7 +29,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>"Child trust fund account" means a unique personal identifier, such as a social security number, or other acceptable identification, for each child enrolled in the Child Trust Fund Program to enable the Chief Financial Officer to determine the amount in the Fund, calculating gains, losses, and costs, on a pro rata bases attributable to each eligible child.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -38,7 +41,7 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>"Disability certification" means a written certification, determined to be satisfactory by the Chief Financial Officer or rules issued pursuant to <cite path="4|6D">Chapter 6D of Title 4</cite>, of a diagnosis from a licensed doctor and signed by a licensed physician that the eligible child has a medically determinable physical or mental impairment that results in marked and severe functional limitations lasting for a continuous 12 months or longer or that can be expected to result in death.</text>
+      <text>"Disability certification" means a written certification, determined to be satisfactory by the Chief Financial Officer or rules issued pursuant to <cite path="4|6B">this chapter</cite>, of a diagnosis from a licensed doctor and signed by a licensed physician that the eligible child has a medically determinable physical or mental impairment that results in marked and severe functional limitations lasting for a continuous 12 months or longer or that can be expected to result in death.</text>
     </para>
     <para>
       <num>(8)</num>
@@ -47,7 +50,7 @@
         <text>"Eligible child" means an individual who:</text>
         <para>
           <num>(i)</num>
-          <text>Was born on or after October 1, 2021, whose birth was subject to medical coverage provided under Medicaid;</text>
+          <text>Was born on or after October 1, 2021, whose birth was subject to medical coverage provided under DC Medicaid;</text>
         </para>
         <para>
           <num>(ii)</num>
@@ -84,7 +87,7 @@
     </para>
     <para>
       <num>(12)</num>
-      <text>"Home Rule Act" means <cite path="1|2">Chapter 2 of Title 1</cite>.</text>
+      <text>"Home Rule Act" means<cite path="1|2"> Chapter 2 of Title 1</cite>.</text>
     </para>
     <para>
       <num>(13)</num>
@@ -92,6 +95,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 24-53" path="§2" type="History">Feb. 18, 2022, D.C. Law 24-53, § 2, 68 DCR 13227</annotation>
+    <annotation doc="D.C. Law 24-53" type="History" path="§2">Feb. 18, 2022, D.C. Law 24-53, § 2, 68 DCR 13227</annotation>
+    <annotation doc="D.C. Law 24-323" type="History" path="§2|(a)">Mar. 10, 2023, D.C. Law 24-323, § 2(a), 70 DCR 869</annotation>
   </annotations>
 </section>

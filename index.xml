@@ -21,11 +21,11 @@
     </redirects>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="DCCouncil/law-xml" commit="447a3b2efd56cde641cc5211ecc8757c3f2e8fab"/>
+        <repository name="DCCouncil/law-xml" commit="62980327e6df8d5b53de08c8d9845cd873fcadf7"/>
       </repositories>
       <platform version="2.12.10" reproducible="false"/>
-      <build-date>2025-11-14</build-date>
-      <codified-date>2025-11-10</codified-date>
+      <build-date>2025-11-18</build-date>
+      <codified-date>2025-11-13</codified-date>
     </build>
   </meta>
   <xi:include href="./us/dc/council/code/index.xml"/>

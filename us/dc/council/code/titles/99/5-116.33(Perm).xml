@@ -2,9 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-116.33(Perm)</num>
   <heading>Body-Worn Camera Program; reporting requirements; access.</heading>
+  <text>
+  *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§5-116.33">Current Version</cite>*
+  </text>
   <para>
     <num>(a)</num>
-    <text>By October 1, 2015, and every 6 months thereafter, the Mayor shall collect, and make available in a publicly accessible format, data on the Metropolitan Police Department’s Body-Worn Camera Program, including:</text>
+    <text>By October 1, 2015, and every 6 months thereafter, the Mayor shall collect, and make available in a publicly accessible format, data on the Metropolitan Police Department's Body-Worn Camera Program, including:</text>
     <para>
       <num>(1)</num>
       <text>How many hours of body-worn camera recordings were collected;</text>
@@ -132,16 +135,16 @@
     <num>(e)</num>
     <para>
       <num>(1)</num>
-      <text>Metropolitan Police Department officers shall not review their body-worn camera recordings or body-worn camera recordings that have been shared with them to assist in initial report writing.</text>
+      <text>For any incident involving an officer-involved death or serious use of force, officers shall not review any body-worn camera recordings to assist in initial report writing.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Officers shall indicate, when writing any subsequent reports, whether the officer viewed body-worn camera footage prior to writing the subsequent report and specify what body-worn camera footage the officer viewed.</text>
+      <text>For an incident other than those described in paragraph (1) of this subsection, officers shall indicate, when writing any initial or subsequent reports, whether the officer viewed body-worn camera footage prior to writing the report and specify what body-worn camera footage the officer viewed.</text>
     </para>
   </para>
   <para>
     <num>(f)</num>
-    <text>When releasing body-worn camera recordings, the likenesses of any local, county, state, or federal government employees acting in their professional capacities, other than those acting undercover, shall not be redacted or otherwise obscured.</text>
+    <text>When releasing body-worn camera recordings, the likenesses of any local, county, state, or federal government law enforcement officers acting in their professional capacities, other than those acting undercover, shall not be redacted or otherwise obscured.</text>
   </para>
   <para>
     <num>(g)</num>
@@ -155,11 +158,15 @@
       <text>"Next of kin" means the priority for next of kin as provided in Metropolitan Police Department General Order 401.08, or its successor directives.</text>
     </para>
     <para>
+      <num>(2A)</num>
+      <text>"Serious bodily injury" means extreme physical pain, illness, or impairment of physical condition including physical injury that involves a substantial risk of death, protracted and obvious disfigurement, protracted loss or impairment of the function of a bodily member or organ, or protracted loss of consciousness.</text>
+    </para>
+    <para>
       <num>(3)</num>
       <text>"Serious use of force" means any:</text>
       <para>
         <num>(A)</num>
-        <text>Firearm discharges by a Metropolitan Police Department officer, with the exception of range and training incidents;</text>
+        <text>Firearm discharges by a Metropolitan Police Department officer, with the exception of a negligent discharge that does not otherwise put members of the public at risk of injury or death, or a range or training incident;</text>
       </para>
       <para>
         <num>(B)</num>
@@ -174,7 +181,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>Resulting in a loss of consciousness, or that create a substantial risk of death, serious disfigurement, disability or impairment of the functioning of any body part or organ;</text>
+          <text>Resulting in a protracted loss of consciousness, or that create a substantial risk of death, serious disfigurement, disability or impairment of the functioning of any body part or organ;</text>
         </para>
         <para>
           <num>(iii)</num>
@@ -196,6 +203,7 @@
     <annotation doc="D.C. Law 21-83" type="History">Mar. 9, 2016, D.C. Law 21-83, § 3, 63 DCR 774</annotation>
     <annotation doc="D.C. Law 24-345" path="§103" type="History">Apr. 21, 2023, D.C. Law 24-345, § 103, 70 DCR 7904</annotation>
     <annotation doc="D.C. Law 25-50" path="§8002|(e)|(1)" type="History">Sept. 6, 2023, D.C. Law 25-50, § 8002(e)(1), 70 DCR 10366</annotation>
+    <annotation doc="D.C. Law 25-175" path="§11" type="History">June 8, 2024, D.C. Law 25-175, § 11, 71 DCR 2732</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 3 of the Body-Worn Camera Program Emergency Amendment Act of 2015 (D.C. Act 21-253, Dec. 30, 2015,  63 DCR 271).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) addition of this section, see § 3004 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
     <annotation type="Effect of Amendments">The 2016 amendment by <cite doc="D.C. Law 21-83">D.C. Law 21-83</cite> rewrote (a)(7); and added (a)(8) and made a related change.</annotation>

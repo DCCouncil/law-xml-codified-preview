@@ -151,7 +151,7 @@
       <section codify:path="3|7A">
         <num>1014</num>
         <text>The Commission on Fathers, Men, and Boys Establishment Act of 2014, effective February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 3-731 <em>et seq</em>.), is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§3-731|annos"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§3-731"/>
       </section>
       <section codify:path="§24-1302">
         <num>1015</num>
@@ -376,6 +376,7 @@
               <num>(b)</num>
               <text>For the purposes of this section, the term "recreation facility" shall have the same meaning as set forth in <code-cite doc="D.C. Code" path="§10-551.07c|(a)|(2)">section 1028c(a)(2)</code-cite>.</text>
             </para>
+            <annotation doc="D.C. Law 19-21" type="History" path="§1028i">Sept. 14, 2011, D.C. Law 19-21, §  1028i</annotation>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -3222,7 +3223,7 @@
         </include>
         <aftertext>.</aftertext>
       </section>
-      <section codify:path="§1-604.06|(b)|(25)" codify:applicability="2025-09-30">
+      <section codify:path="§1-604.06|(b)|(25)">
         <num>3023</num>
         <text>Section 406(b)(25) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-604.06(b)(25)), is repealed.</text>
         <codify:repeal codified:doc="D.C. Code" codified:path="§1-604.06|(b)|(25)"/>
@@ -6078,7 +6079,7 @@
               <para>
                 <codify:replace codified:doc="D.C. Code" codified:path="§4-205.19f|(g)|(3)"/>
                 <num>(3)</num>
-                <text>The Department of Human Services shall reduce an assistance unit's TANF benefit by 25% when a TANF recipient is found to be in noncompliance with this act or regulations implementing <code-cite doc="D.C. Code" path="4|2|V">this act</code-cite>.</text>
+                <text>The Department of Human Services shall reduce an assistance unit's TANF benefit by 25% when a TANF recipient is found to be in noncompliance with <code-cite doc="D.C. Code" path="4|2|V">this act</code-cite> or regulations implementing <code-cite doc="D.C. Code" path="4|2|V">this act</code-cite>.</text>
               </para>
             </include>
             <aftertext>.</aftertext>
@@ -6361,7 +6362,7 @@
             <para>
               <codify:replace codified:doc="D.C. Code" codified:path="§4-754.36b|(c)|(2)"/>
               <num>(2)</num>
-              <text>Paragraph (1) of this subsection shall not apply to an exit from a Rapid Re-Housing program if the exit is due to the client reaching the time limit for services under the program established pursuant to <code-cite doc="D.C. Code" path="§4-754.36b|(a)|(1)" codify:value="[§4-754.36b(a)(1)]">section 22(b)(a)(1)</code-cite>.</text>
+              <text>Paragraph (1) of this subsection shall not apply to an exit from a Rapid Re-Housing program if the exit is due to the client reaching the time limit for services under the program established pursuant to <code-cite doc="D.C. Code" path="§4-754.36b|(a)|(1)">section 22(b)(a)(1)</code-cite>.</text>
             </para>
           </include>
           <aftertext>.</aftertext>
@@ -8523,7 +8524,7 @@
                 </para>
                 <para>
                   <num>(3)</num>
-                  <text>Money transferred from the Green Building Fund pursuant to <code-cite doc="D.C. Code" path="§6-1451.07">section 8(c)(1) of the Green Building Act of 2006, effective March 8, 2007 (D.C. Law 16-234; D.C. Official Code § 6-1451.07(c)(1))</code-cite>; provided, that any such money shall be used solely for the purpose described in subsection (c)(18) of this section.</text>
+                  <text>Money transferred from the Green Building Fund pursuant to <code-cite doc="D.C. Code" path="§6-1451.07|(c)|(1)">section 8(c)(1) of the Green Building Act of 2006, effective March 8, 2007 (D.C. Law 16-234; D.C. Official Code § 6-1451.07(c)(1))</code-cite>; provided, that any such money shall be used solely for the purpose described in subsection (c)(18) of this section.</text>
                 </para>
               </para>
             </include>
@@ -10970,7 +10971,7 @@
       <section>
         <num>7093</num>
         <text>Drug-, Firearm-, or Prostitution-Related Nuisance Abatement Fund (1060263)</text>
-        <para codify:path="§42-3111.01" codify:applicability="notfunded">
+        <para codify:path="§42-3111.01">
           <num>(a)</num>
           <text>Section 12a of the Drug-Related Nuisance Abatement Act of 1998, effective April 4, 2006 (D.C. Law 16-81; D.C. Official Code § 42-3111.01), is amended as follows:</text>
           <para codify:path="(a)">
@@ -13650,7 +13651,7 @@
       <section>
         <num>7206</num>
         <text>The Bedbug Control Act of 2022, effective February 23, 2023 (D.C. Law 24-238; 69 DCR 14738), is repealed.</text>
-        <codify:repeal doc="D.C. Code" path="42|35C" codified:doc="D.C. Code" codified:path="§42-3551.01|annos"/>
+        <codify:repeal doc="D.C. Code" path="42|35C" codified:doc="D.C. Code" codified:path="§42-3551.01"/>
         <codify:repeal doc="D.C. Code" path="§2-1831.03|(b-30)" codified:doc="D.C. Code" codified:path="§2-1831.03|(b-30)"/>
         <codify:repeal doc="D.C. Code" path="§42-3502.22|(b)|(1)|(M)" codified:doc="D.C. Code" codified:path="§42-3502.22|(b)|(1)|(M)"/>
         <codify:repeal doc="D.C. Code" path="§42-3502.22|(b)|(1)|(N)" codified:doc="D.C. Code" codified:path="§42-3502.22|(b)|(1)|(N)"/>

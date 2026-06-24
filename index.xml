@@ -7,11 +7,11 @@
       <email>code@dccouncil.us</email>
     </contact>
     <canonical-urls>
-      <xml-bulk>https://github.com/dccouncil/law-xml</xml-bulk>
-      <html-bulk>https://github.com/dccouncil/law-html</html-bulk>
+      <xml-bulk>https://github.com/oll-test-repos/DCCouncil-law-xml</xml-bulk>
+      <html-bulk>https://github.com/oll-test-repos/DCCouncil-law-html</html-bulk>
       <html>https://code.dccouncil.gov</html>
-      <static-assets>https://github.com/dccouncil/law-static-assets</static-assets>
-      <law-git>https://github.com/dccouncil/law.git</law-git>
+      <static-assets>https://github.com/oll-test-repos/DCCouncil-law-static-assets</static-assets>
+      <law-git>git@github.com:oll-test-repos/DCCouncil-law.git</law-git>
     </canonical-urls>
     <redirects>
       <redirect>
@@ -21,11 +21,11 @@
     </redirects>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="DCCouncil/law-xml" commit="e54ead420869d529e8dcff622a66be7e293be40b"/>
+        <repository name="DCCouncil/law-xml" commit="ef7f87a9e3e63acd5a8842b7db2d923037289141"/>
       </repositories>
-      <platform version="2.20.17" reproducible="false"/>
+      <platform version="2.20.18.dev588" reproducible="false"/>
       <build-date>2026-06-24</build-date>
-      <codified-date>2026-06-11</codified-date>
+      <codified-date>2026-04-29</codified-date>
     </build>
   </meta>
   <xi:include href="./us/dc/council/code/index.xml"/>

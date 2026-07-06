@@ -1,98 +1,187 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1542.01</num>
-  <text>
-      *NOTE: This section was created by temporary legislation that will expire on September 25, 2026.*
-      </text>
-  <heading proof="needed">Temporary extensions of juvenile curfew hours.</heading>
+  <heading proof="needed">Temporary extended youth curfew zones.</heading>
   <para>
     <num>(a)</num>
-    <text>The Mayor may, by issuance of an administrative order pursuant to <cite path="§1-204.22|(11)">§ 1-204.22(11)</cite>, extend the juvenile curfew hours in the District, or any part of the District, beyond the hours established in <cite path="§2-1542|(1A)|(A)">§ 2-1542(1A)(A)</cite>, <cite path="§2-1542|(1A)|(B)">(B)</cite>, and <cite path="§2-1542|(1A)|(C)">(C)</cite>, if the Mayor determines that such an extension is appropriate to protect public safety or public or private property.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>An administrative order issued by the Mayor under subsection (a) of this section shall:</text>
     <para>
       <num>(1)</num>
-      <text>State the basis for the extension of the juvenile curfew hours;</text>
+      <text>By issuance of an order, the Mayor or the Chief of Police may designate any part of the District as an extended youth curfew zone after determining that such a designation is appropriate to protect public safety or public or private property. Within the extended youth curfew zone, the Mayor or the Chief of Police may extend the curfew hours in the District beyond the hours established in <cite path="§2-1542|(1A)|(A)">§ 2-1542(1A)(A)</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>State the locations in the District where the extended juvenile curfew hours shall apply or state that the extended juvenile curfew hours shall apply throughout the District; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>State the days and hours during which the extended juvenile curfew hours shall be in effect; provided, that the extended juvenile curfew hours:</text>
+      <text>Extended curfew hours established pursuant to paragraph (1) of this subsection shall not:</text>
       <para>
         <num>(A)</num>
-        <text>Shall not begin earlier than 8:00 p.m., nor extend past 6:00 a.m., on any day;</text>
+        <text>Begin earlier than 8:00 p.m. on any day, or extend past 6:00 a.m. of the following day;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Shall not remain in effect for more than 4 consecutive days, except as provided in subsection (e) of this section; and</text>
+        <text>Remain in effect for more than 4 consecutive days, except as provided for in subsection (e) of this section; or</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>Shall not apply to groups of 8 or fewer individuals.</text>
+        <text>Apply to groups of 8 or fewer minors.</text>
       </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>In determining whether to designate an extended youth curfew zone, the Chief of Police shall consider:</text>
+      <para>
+        <num>(A)</num>
+        <text>Within the preceding 30 days, the occurrence of the following in the proposed extended youth curfew zone:</text>
+        <para>
+          <num>(i)</num>
+          <text>Youth curfew violations;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Police reports involving minors of disturbances of the public peace as described in <cite path="§22-1301">§§ 22-1301</cite>, <cite path="§22-1307">22-1307</cite>, <cite path="§22-1309">22-1309</cite>, <cite path="§22-1312">22-1312</cite>, <cite path="§22-1318">22-1318</cite>, <cite path="§22-1321">22-1321</cite>, or <cite path="§22-1322">22-1322</cite>;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Police reports involving minors of dangerous crimes as that term is defined in <cite path="§23-1331|(3)">§ 23-1331(3)</cite>;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Police reports involving minors of crimes of violence, as that term is defined in <cite path="§23-1331|(4)">§ 23-1331(4)</cite>; or</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Police reports involving minors of destruction of or damage to public or private property;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Intelligence or verifiable information indicative of an intent of 9 or more minors to gather in the proposed extended youth curfew zone in such a manner that is likely to result in substantial harm to the public safety, the safety of those gathering, or substantial damage to public or private property; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any other verifiable information from which the Chief of Police may ascertain that public safety or public or private property in the proposed extended youth curfew zone is likely to be endangered by the presence of unaccompanied minors in the extended youth curfew zone.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>An order issued by the Mayor or the Chief of Police pursuant to subsection (a) of this section shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>State the basis for the designation of the extended youth curfew zone;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>State the boundaries of the extended youth curfew zone; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>State the days and hours during which the extended youth curfew zone shall be in effect.</text>
     </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>Except where emergency circumstances, as determined by the Mayor and described in the administrative order issued under subsection (a) of this section, warrant otherwise, extended juvenile curfew hours imposed under this section shall not take effect until at least 24 hours after the issuance of the administrative order.</text>
+    <text>Except where emergency circumstances, as determined by the Mayor or the Chief of Police and described in the order issued pursuant to subsection (a) of this section, warrant otherwise, extended youth curfew zones imposed under this section shall not take effect until at least 24 hours after the posting of the order pursuant to subsection (d) of this section.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>Notice of the issuance of each administrative order issued under this section shall be promptly posted on the main website of the District government and on the website of the Metropolitan Police Department.</text>
+    <text>Notice of an order issued under this section shall be promptly posted on the main website of the District government and on the website of the Metropolitan Police Department. The Mayor or the Chief of Police shall ensure that conspicuous signs are posted in the immediate area of an extended youth curfew zone. Any digital notice shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>A plain-language description of lawful activities that remain permitted for minors in the extended youth curfew zone; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The locations, days, times, and transportation options for alternative youth events required pursuant to <cite path="§2-1542.02">§ 2-1542.02</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(e)</num>
-    <text>The Mayor may extend the duration of the designation of an extended juvenile curfew hours zone to 30 days by issuing a subsequent order extending the duration of the designation.</text>
+    <text>The Mayor or the Chief of Police may extend the time period during which an extended youth curfew zone imposed by this section shall remain in effect by issuing subsequent orders extending the time period; provided, that each such extension of the time period shall not exceed 30 days.</text>
   </para>
   <para>
     <num>(f)</num>
-    <text>If members of the Metropolitan Police Department discover juveniles in the designated extended juvenile curfew hours zone during the hours of curfew, the Metropolitan Police Department shall:</text>
+    <text>If members of the Metropolitan Police Department discover minors in an extended youth curfew zone during the hours the extended curfew is in effect, the Metropolitan Police Department shall:</text>
     <para>
       <num>(1)</num>
       <text>Where there:</text>
       <para>
         <num>(A)</num>
-        <text>Is not an imminent danger of bodily injury of significant damage to property, issue at least 2 clearly audible and understandable notices of violation of curfew; or</text>
+        <text>Is not an imminent danger of bodily injury or significant damage to property, issue at least 2 clearly audible and understandable notices of violation of curfew prior to arrest of any minor for violation of the curfew; or</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Is imminent danger of bodily injury or significant damage to property, issue at least one clearly audible and understandable notice of violation of curfew;</text>
+        <text>Is imminent danger of bodily injury or significant damage to property, issue at least one clearly audible and understandable notice of violation of curfew prior to arrest of any minor for violation of the curfew;</text>
       </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>Provide juveniles a reasonable and adequate time to disperse; and</text>
+      <text>Provide minors with a reasonable and adequate time to disperse; and</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Capture on body-worn camera each component of the order to return home described in paragraph (1) of this subsection.</text>
+      <text>Capture on body-worn camera each component of the notice described in paragraph (1) of this subsection.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§2-1542" expire="2026-02-12" codified:display="Note">For temporary (225 days) creation of § 2-1542.01, see <cite doc="D.C. Law 26-92" path="§2|(b)|includes|3a">§ 3a of Juvenile Curfew Second Temporary Amendment Act of 2025 (D.C. Law 26-92, Feb. 12, 2026, 73 DCR 22)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§2-1542.01" applicability="2026-02-12" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1542.01">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 26-92" path="§2|(b)|includes|3a">§ 3a of Juvenile Curfew Second Temporary Amendment Act of 2025 (D.C. Law 26-92, Feb. 12, 2026, 73 DCR 22)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§2-1542.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1542.01">
-    <text>
-      *NOTE: This section was created by temporary legislation that will expire on September 25, 2026.*
-      </text>
-  </codify:insert>
-  <codify:annotation history="false" path="§2-1542.01" type="Editor's Notes" codified:doc="D.C. Code" codified:path="§2-1542.01"><cite doc="D.C. Law 26-92" path="§4">Section 4 of D.C. Law 26-92</cite> provided that the creation of this section by <cite doc="D.C. Law 26-92" path="§2|(b)">Section 2(b) of D.C. Law 26-92</cite> shall expire on April 15, 2026.</codify:annotation>
+  <para>
+    <num>(g)</num>
+    <para>
+      <num>(1)</num>
+      <text>An Advisory Neighborhood Commission ("ANC") may petition the Chief of Police to establish an extended youth curfew zone in an area within the bounds or jurisdiction of, or adjacent to the area within the bounds or jurisdiction of, the ANC. Such petition shall be approved by a formal vote of the members of the ANC.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A petition submitted pursuant to this subsection shall include the following information:</text>
+      <para>
+        <num>(A)</num>
+        <text>The proposed boundaries of the extended youth curfew zone;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The proposed hours of the extended youth curfew zone;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The proposed duration, in days, of the extended youth curfew zone;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The reasons why the ANC is requesting the designation of an extended youth curfew zone; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Such other information as the Chief of Police may require.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Consideration of a petition submitted under this section and the determination of whether to designate an extended youth curfew zone in response to the petition shall be at the sole discretion of the Chief of Police.</text>
+    </para>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>For purposes of enforcing a violation of curfew under this section, a police officer shall not stop, question, disperse, or transport a minor based solely on:</text>
+    <para>
+      <num>(1)</num>
+      <text>Presence in a designated extended youth curfew zone prior to the beginning of curfew hours;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Presence in a group smaller than the threshold set forth in <cite path="§2-1542.01|(a)|(2)|(C)">§ 2-1542.01(a)(2)(C)</cite>; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Any other factor that, standing alone, does not constitute a violation of curfew under <cite path="2|15|III">this subchapter</cite> or any other law.</text>
+    </para>
+  </para>
+  <para>
+    <num>(i)</num>
+    <text>Notwithstanding subsection (h) of this section, the Metropolitan Police Department may issue verbal warnings of the start of curfew hours to minors beginning not more than 30 minutes before the start of curfew hours.</text>
+  </para>
+  <codify:annotation history="false" path="§2-1542.01" type="Expiration of Law" codified:doc="D.C. Code" codified:path="§2-1542.01"><cite doc="D.C. Law 26-140" path="§3">Section 3 of D.C. Law 26-140</cite> provided that the creation of this section by <cite doc="D.C. Law 26-140" path="§2|(c)">section 2(c)</cite> of D.C. Law 26-140 shall expire on December 31, 2028.</codify:annotation>
   <annotations>
-    <annotation doc="D.C. Law 11-48" type="History" path="§3a" display="false">Sept. 20, 1995, D.C. Law 11-48, § 3a</annotation>
     <annotation doc="D.C. Law 11-48" type="History" path="§3a">Sept. 20, 1995, D.C. Law 11-48, § 3a</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-178" path="§2|(b)" codified:display="Note" app="2026-02-12" eff="2025-11-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-178" path="§2|(b)|includes|3a">§ 3a of Juvenile Curfew Second Emergency Amendment Act of 2025 (D.C. Act 26-178, Nov. 7, 2025, 72 DCR 12678)</cite>.</annotation>
-    <annotation app="2026-02-12" doc="D.C. Act 26-178" eff="2025-11-07" path="§2|(b)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-61" path="§3|(b)" codified:display="Note" app="2026-02-12" eff="2025-12-18">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 26-61" path="§3|(b)|includes|3a">§ 3a of Volunteer Services Clarification Temporary Amendment Act of 2025 (D.C. Law 26-61, Dec. 18, 2025, 72 DCR 13868)</cite>.</annotation>
-    <annotation app="2026-02-12" doc="D.C. Law 26-61" eff="2025-12-18" path="§3|(b)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 26-257" path="§2|(b)" codified:display="Note" app="2026-02-12" eff="2026-02-11">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 26-257" path="§2|(b)|includes|3a">§ 3a of Juvenile Curfew Congressional Review Emergency Amendment Act of 2026 (D.C. Act 26-257, Feb. 11, 2026, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2026-02-12" doc="D.C. Act 26-257" eff="2026-02-11" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2026-02-12" doc="D.C. Law 26-92" eff="2026-02-12" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2026-02-12" doc="D.C. Law 26-92" eff="2026-02-12" path="§2|(b)" prefix="as added" type="History"/>
-    <annotation history="false" path="§2|(b)" type="Editor's Notes" app="2026-02-12" eff="2026-02-12" doc="D.C. Law 26-92"><cite doc="D.C. Law 26-92" path="§4">Section 4 of D.C. Law 26-92</cite> provided that the creation of this section by <cite doc="D.C. Law 26-92" path="§2|(b)">Section 2(b) of D.C. Law 26-92</cite> shall expire on April 15, 2026.</annotation>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 26-92" path="§2|(b)" codified:display="Note" app="2026-02-12" eff="2026-02-12">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 26-92" path="§2|(b)|includes|3a">§ 3a of Juvenile Curfew Second Temporary Amendment Act of 2025 (D.C. Law 26-92, Feb. 12, 2026, 73 DCR 22)</cite>.</annotation>
+    <annotation doc="D.C. Law 11-48" type="History" path="§3a" display="false">Sept. 20, 1995, D.C. Law 11-48, § 3a</annotation>
+    <annotation app="2026-07-02" doc="D.C. Law 26-140" eff="2026-07-02" path="§2|(c)" prefix="as added" type="History"/>
+    <annotation history="false" path="§2|(c)" type="Expiration of Law" app="2026-07-02" eff="2026-07-02" doc="D.C. Law 26-140"><cite doc="D.C. Law 26-140" path="§3">Section 3 of D.C. Law 26-140</cite> provided that the creation of this section by <cite doc="D.C. Law 26-140" path="§2|(c)">section 2(c)</cite> of D.C. Law 26-140 shall expire on December 31, 2028.</annotation>
+    <annotation app="2026-07-02" doc="D.C. Law 26-140" eff="2026-07-02" path="§2|(c)" type="History" display="false"/>
   </annotations>
 </section>

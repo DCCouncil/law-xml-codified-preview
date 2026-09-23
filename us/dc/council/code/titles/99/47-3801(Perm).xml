@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-3801(Perm)</num>
   <heading>Definitions.</heading>
+  <text>
+      *NOTE: This codification is <u><b>not</b></u> the most current, due to recent law changes. To see the current law (including emergency and temporary legislation, if relevant) click this link: <cite path="§47-3801">Current Version</cite>*
+      </text>
   <text>For the purposes of this chapter, the term:</text>
   <para>
     <num>(1)</num>
@@ -80,14 +83,29 @@
   </para>
   <para>
     <num>(1D)</num>
-    <text>“Eligible area” means:</text>
+    <text>"Eligible area" means:</text>
     <para>
       <num>(A)</num>
-      <text>A historically underutilized business zone, as defined by section 3(p)(1) of the Small Business Act, approved July 18, 1958 (72 Stat. 384; 15 U.S.C. § 632(p)(1)); or</text>
+      <para>
+        <num>(i)</num>
+        <text>An area consisting of those properties within or abutting the boundaries of low-income census tracts where a significant number of residents are more than 1/2 mile from the nearest supermarket, as designated based on the 2019 data from the United States Department of Agriculture Food Access Research Atlas, not including any census tract, as identified by the Mayor, in which a college or university campus is located or nearby that has been designated as a low-income census tract due primarily to the incomes of college or university students residing within the census tract; or</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>An area consisting of properties within or abutting proximal neighborhood groups with over 20% participation in the Supplemental Nutrition Assistance Program or other public assistance programs as designated in the 2018 District of Columbia Health Equity Report; or</text>
+      </para>
     </para>
     <para>
       <num>(B)</num>
-      <text>Census tracts 103, 33.01, 94, 95.05.</text>
+      <text>For supermarkets under construction as of January 1, 2021, for which a certificate of occupancy is issued on or before July 1, 2023, and for which an application for certification under this chapter is filed on or before July 1, 2023:</text>
+      <para>
+        <num>(i)</num>
+        <text>A historically underutilized business zone, as defined by section 3(p)(1) of the Small Business Act, approved July 18, 1958 (72 Stat. 384; 15 U.S.C. § 632(p)(1)); or</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>Census tracts 103, 33.01, 94, 95.05, 95.07, or 95.08.</text>
+      </para>
     </para>
   </para>
   <para>
@@ -105,11 +123,47 @@
       </para>
       <para>
         <num>(ii)</num>
-        <text>Offers for sale a full line of meat, seafood, fruits, vegetables, dairy products, dry groceries, household products, and sundries; and</text>
+        <text>Offers for sale at least 6 of the following categories of food or beverages:</text>
+        <para>
+          <num>(I)</num>
+          <text>Fresh fruits and vegetables;</text>
+        </para>
+        <para>
+          <num>(II)</num>
+          <text>Fresh and uncooked meats, poultry, and seafood;</text>
+        </para>
+        <para>
+          <num>(III)</num>
+          <text>Dairy products;</text>
+        </para>
+        <para>
+          <num>(IV)</num>
+          <text>Canned foods;</text>
+        </para>
+        <para>
+          <num>(V)</num>
+          <text>Frozen foods;</text>
+        </para>
+        <para>
+          <num>(VI)</num>
+          <text>Dry groceries and baked goods; and</text>
+        </para>
+        <para>
+          <num>(VII)</num>
+          <text>Non-alcoholic beverages;</text>
+        </para>
       </para>
       <para>
         <num>(iii)</num>
-        <text>Occupies the address under a certificate of occupancy with the use declared as a grocery store.</text>
+        <text>Occupies the address under a certificate of occupancy with the use declared as a grocery store;</text>
+      </para>
+      <para>
+        <num>(iv)</num>
+        <text>Dedicates either 50% of the establishment's total square footage of selling area (defined as the area in the establishment that is open to the public and not including storage areas, preparation areas, or bathrooms), or 6,000 square feet of the establishment's selling area to the sale of the categories of food or beverages listed in sub-subparagraph (ii) of this subparagraph; and</text>
+      </para>
+      <para>
+        <num>(v)</num>
+        <text>Dedicates at least 5% of the establishment's total square footage of selling area to each of at least 6 of the categories of food or beverages listed in sub-subparagraph (ii) of this subparagraph.</text>
       </para>
     </para>
     <para>
@@ -124,8 +178,9 @@
     <annotation doc="D.C. Law 17-138" type="History">Mar. 26, 2008, D.C. Law 17-138, § 703(a)(1), 55 DCR 1689</annotation>
     <annotation doc="D.C. Law 18-353" type="History">Apr. 8, 2011, D.C. Law 18-353, § 205(a), 58 DCR 746</annotation>
     <annotation doc="D.C. Law 19-171" type="History">Sept. 26, 2012, D.C. Law 19-171, § 114(o), 59 DCR 6190</annotation>
-    <annotation doc="D.C. Law 21-204" type="History">Feb. 18, 2017, D.C. Law 21-204, § 3, 63 DCR 15047</annotation>
-    <annotation doc="D.C. Law 22-33" type="History">Dec. 13, 2017, D.C. Law 22-33, § 7113, 64 DCR 7652</annotation>
+    <annotation doc="D.C. Law 21-204" type="History" path="§3">Feb. 18, 2017, D.C. Law 21-204, § 3, 63 DCR 15047</annotation>
+    <annotation doc="D.C. Law 22-33" type="History" path="§7113">Dec. 18, 2017, D.C. Law 22-33, § 7113, 64 DCR 7652</annotation>
+    <annotation doc="D.C. Law 24-45" type="History" path="§2022|(b)">Nov. 13, 2021, D.C. Law 24-45, § 2022(b), 68 DCR 10163</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2 of Supermarket Tax Incentives Clarification Emergency Act of 2008 (D.C. Act 17-268, January 23, 2008,  55 DCR 1499).</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “an eligible” for “a eligible” in (1B) and (2).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-353">D.C. Law 18-353</cite>, in pars. (1B) and (2), substituted “eligible area” for “priority development area”; and added pars. (1C) and (1D).</annotation>
